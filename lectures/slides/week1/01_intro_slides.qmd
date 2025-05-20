@@ -1,20 +1,23 @@
 ---
-# title: "[Lecture 1 - Introduction]{style='font-size:46pt'}"
-# subtitle: "[The Social Brain: Critical Perspectives on Science, Society and Neurodiversity]{style='color:#2f73a3; font-size:24pt;'}  \n[(376-1309-00)]{style='color:#666666; font-size:22pt;'}"
 title: "Lecture 1 - Introduction"
 subtitle: "[The Social Brain: Critical Perspectives on Science, Society and Neurodiversity]{style='color:#2f73a3; font-size:24pt;'}" 
 author: "Richard Ramsey"
 #bibliography: references.bib
 format:
   revealjs:
-      slide-number: true
-      embed-resources: true
-      transition: none
-      transition-speed: fast
-      logo: ../../../img/tsb_hex.png
-      css: ../../../styles.css
-      footer: "ETH Zürich | 376-1309-00 | The Social Brain"
-      preview-links: auto
+    slide-number: true
+    embed-resources: true
+    transition: none
+    transition-speed: fast
+    logo: ../../../img/tsb_hex.png
+    css: ../../../styles.css
+    footer: "ETH Zürich | 376-1309-00 | The Social Brain"
+    preview-links: auto
+    revealjs-plugins:
+      - pointer
+    pointer:
+      color: "#32cd32"
+      pointerSize: 18
 editor: source
 editor_options: 
   chunk_output_type: console
