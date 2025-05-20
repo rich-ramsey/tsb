@@ -1,0 +1,24 @@
+---
+title: "Introduction"
+---
+
+## Objectives
+
+blah.
+
+::: {.callout-note icon="false"}
+## Key concepts
+
+
+:::
+
+## Lecture slides
+
+
+- [View Slides](slides/week1/01_intro_slides.html){target="_blank"} (opens in new tab)
+- [Download Slides PDF](slides/week1/01_intro_slides.pdf){download="01_intro_slides.pdf"}
+
+<!-- <div class="slide-preview"> -->
+<!--   <iframe src="slides/week1/01_intro_slides.html" width="100%" height="450px" frameborder="0"></iframe> -->
+<!--   <p class="preview-note">For a full screen view, use the link above.</p> -->
+<!-- </div> -->

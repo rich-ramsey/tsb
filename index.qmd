@@ -1,27 +1,27 @@
 ---
-title: "Programming for Psychology and Neuroscience"
-sidebar: false
+title: "The Social Brain: Critical Perspectives on Science, Society and Neurodiversity"
+sidebar: main-sidebar
 ---
 
 ## Welcome
 
-This is the course website for *Programming for Psychology and Neuroscience*, developed and taught by [Dr. Maureen Ritchey](https://www.thememolab.org/people/ritchey/) at Boston College. This course was taught in Spring 2025.
+This is the course website for *The Social Brain: Critical Perspectives on Science, Society and Neurodiversity*, developed and taught by [Dr. Rich Ramsey](https://rich-ramsey.com/) at ETH Zürich. 
 
 ## Course description
 
-This course will provide an introduction to computer programming and its applications to psychology and neuroscience. The goal will be to provide you with the skillset to program experiments and data analyses, as well as an understanding of how these tools are used to facilitate modern research. We will begin with the basics of how to develop algorithms and implement them with programming logic. In a series of hands-on projects, students will learn to analyze psychology and neuroscience datasets using R. Additional topics will include data management, version control, strategies for code debugging, data visualization, and an introduction to machine learning and natural language processing techniques. This course is ideal for students with little to no programming experience, although prior training in statistics is strongly recommended.
+Meaningful social interactions form the foundation of cohesive societies, with implications extending far beyond psychology and neuroscience into education, technology, policy, and healthcare.
+Although the scientific study of social behavior has only recently emerged as a distinct research discipline, its applications are already widespread, raising critical questions about the relationship between knowledge creation and societal applications.
+Simultaneously, multiple scientific disciplines are confronting a "replication crisis," revealing challenges in reproducing findings and highlighting questionable research practices that demand critical reflection on how scientific knowledge is produced and communicated.
+This seminar examines the historical, moral, epistemological, and societal contexts of social neuroscience research, encouraging students to question established frameworks and consider a variety of new perspectives.
+We begin by exploring how a widespread replication crisis has emerged in science and what it means for both research practices and public science literacy.
+The seminar then applies this critical lens to social neuroscience, examining how reconceptualizing cognitive variation as a natural continuum rather than through deficit models can transform scientific understanding and promote more inclusive societal perspectives that value the rich diversity of human experience and capability.
 
 ## Website information
 
-On this website, you can find the course [syllabus](syllabus.html) as well as the details for the course [modules](modules/index.html) and assignments. We will also use the [Canvas](http://www.bc.edu/lms) site for managing quizzes and grading.
+On this website, you can find the course [syllabus](syllabus/syllabus.html), as well as the details for the course [lectures](lectures/index.html). 
 
 ## Acknowledgments
 
-This course incorporates open-access materials that have been generously shared by researchers around the world, including:
+The structure of this website closely follows open access materials shared by:
 
--   Emily Nordmann and Lisa DeBruine. [*Applied Data Skills*](https://psyteachr.github.io/ads-v3/). doi:10.5281/zenodo.6365077
--   Danielle Navarro. [*R for Psychological Science*](https://psyr.djnavarro.net/).
-
-Some content and assignments were inspired by Matt Crump's similar [course](https://www.crumplab.com/psyc3470/). The syllabus includes language recommended by the Boston College [Center for Teaching Excellence](https://cteresources.bc.edu/).
-
-Course development was supported by a CAREER Award from the National Science Foundation ([BCS-2047415](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2047415)).
+-   Maureen Ritchey. [*Programming for Psychology and Neuroscience*](https://ritcheym.github.io/ppn/). 

@@ -1,0 +1,6 @@
+---
+title: "Lectures"
+sidebar: lectures-sidebar
+---
+
+You can find links to all lecture materials on the left side of this page.  

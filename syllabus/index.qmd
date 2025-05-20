@@ -1,0 +1,197 @@
+---
+title: "Syllabus"
+sidebar: main-sidebar
+format:
+ html:
+    theme: cosmo
+    css: ../styles.css
+    toc: true
+    link-external-newwindow: true
+ pdf:
+    documentclass: article
+    papersize: a4
+    geometry:
+      - margin=1in
+    toc: true
+    toc-depth: 3
+    toc-title: "Contents"
+    number-sections: false
+    colorlinks: true
+    output-file: syllabus.pdf
+---
+ 
+## **376-1309-00: The Social Brain: Critical Perspectives on Science, Society and Neurodiversity**
+
+**Instructor:** Rich Ramsey, PhD.\
+**Contact:** See me in class. \
+**Website:** [www.rich-ramsey.com](http://www.rich-ramsey.com/)
+
+::: {.content-visible when-format="html"}
+::: {.download-container style="text-align: left; margin-bottom: 20px;"}
+<a href="syllabus.pdf" class="btn btn-primary btn-sm download-button" target="_blank">
+  <i class="fa fa-file-pdf-o" aria-hidden="true"></i> Download PDF
+</a>
+:::
+:::
+
+## Course description ##
+
+Meaningful social interactions form the foundation of cohesive societies, with implications extending far beyond psychology and neuroscience into education, technology, policy, and healthcare.
+Although the scientific study of social behavior has only recently emerged as a distinct research discipline, its applications are already widespread, raising critical questions about the relationship between knowledge creation and societal applications.
+Simultaneously, multiple scientific disciplines are confronting a "replication crisis," revealing challenges in reproducing findings and highlighting questionable research practices that demand critical reflection on how scientific knowledge is produced and communicated.
+This seminar examines the historical, moral, epistemological, and societal contexts of social neuroscience research, encouraging students to question established frameworks and consider a variety of new perspectives.
+We begin by exploring how a widespread replication crisis has emerged in science and what it means for both research practices and public science literacy.
+The seminar then applies this critical lens to social neuroscience, examining how reconceptualizing cognitive variation as a natural continuum rather than through deficit models can transform scientific understanding and promote more inclusive societal perspectives that value the rich diversity of human experience and capability.
+
+
+## Learning Outcomes ##
+
+-   To examine critically how neuroscientific concepts, theories, and findings relate to broader historical, moral, and social contexts, enhancing reflective competencies.
+-   To question the production and validation of scientific evidence within the context of the replication crisis, enabling students to evaluate how knowledge is created, validated, and communicated.
+-   To understand how conceptualising cognitive variation as a natural continuum challenges deficit-focused models, promoting more inclusive frameworks for society.
+-   To develop effective communication skills for translating complex scientific concepts to diverse audiences, fostering public understanding of science.
+
+## Format ##
+
+Lectures will be split into two sections with a short break in the middle. 
+I will present material in the first half. 
+In the second half, students will break into small groups and have time to read and discuss relevant papers from that week’s material. 
+
+## Structure ##
+
+### Introduction ###
+
+In week 1’s lecture, I will outline the structure of the course, introduce the topics to be covered and give details on the assessment.
+
+### Crisis and Reform ###
+
+In weeks 2 to 4, I will outline critical perspectives associated with the reproducibility crisis in psychology and outline some of the proposed solutions
+
+### Social Neuroscience ###
+
+In weeks 5 – 8, we will cover the neural bases of social cognition in healthy individuals.
+
+### Neurodiversity ###
+
+In weeks 9 – 13, we will cover neurodiverse individuals.
+
+### Essay writing Q&A ###
+
+In week 14, we will discuss features that for well-written essays and students can ask questions regarding the written assessment and spend time planning and writing their assignments. 
+
+## Schedule ##
+
+Semester: Autumn\
+When: Tuesdays 10:15am to 12noon\		
+Location: LFW B2
+
+```{r}
+#| label: schedule-table
+#| echo: false
+#| warning: false
+
+library(kableExtra)
+library(dplyr)
+
+# Create the basic data
+raw_data <- tribble(
+  ~Week, ~Date, ~Title, ~Link, ~Description,
+  1, "Sep 16", "Intro", "../lectures/01_intro.html", "Introduction to the course",
+  2, "Sep 23", "Crisis Part 1", "../lectures/02_crisis.html", "Is psychological science in a crisis?",
+  3, "Sep 30", "Crisis Part 2", "../lectures/02_crisis.html", "The reform movement in psychological science",
+  4, "Oct 7", "Crisis Part 3 (Recorded lecture)", "../lectures/02_crisis.html", "Are there problems in psychological theory?",
+  5, "Oct 14", "Crisis Part 4 (No lecture - reflective writing)", "../lectures/02_crisis.html", "Does the crisis extend beyond psychology?",
+  6, "Oct 21", "Social Neuroscience Part 1", "../lectures/02_crisis.html", "Social Neuroscience 1",
+  7, "Oct 28", "Social Neuroscience Part 2", "../lectures/02_crisis.html", "Social Neuroscience 2",
+  8, "Nov 4", "Social Neuroscience Part 3", "../lectures/02_crisis.html", "Social Neuroscience 3",
+  9, "Nov 11", "Neurodiversity Part 1", "../lectures/02_crisis.html", "Re-thinking neurodiversity",
+  10, "Nov 18", "Neurodiversity Part 2", "../lectures/02_crisis.html", "Guest lecture: A view from the clinic",
+  11, "Nov 25", "Neurodiversity Part 3", "../lectures/02_crisis.html", "Loneliness",
+  12, "Dec 2", "Neurodiversity Part 4", "../lectures/02_crisis.html", "Autism",
+  13, "Dec 9", "Neurodiversity Part 5", "../lectures/02_crisis.html", "Attention and Impulsivity",
+  14, "Dec 16", "Essay Writing", "../lectures/02_crisis.html", "Essay Writing"
+)
+
+# Transform to create proper links
+schedule <- raw_data %>% 
+  mutate(
+    # Create different table styling based on format
+    Lecture = if (knitr::is_html_output()) {
+      cell_spec(
+        Title,
+        "html", 
+        link = Link
+      )
+    } else {
+      # For PDF output, just use the title without links
+      Title
+    }
+  ) %>% 
+  select(Week, Date, Lecture, Description)
+
+# Render table differently based on output format
+if (knitr::is_html_output()) {
+  schedule %>% 
+    kbl(escape = FALSE, format = "html") %>% 
+    kable_styling(
+      bootstrap_options = c("striped", "hover"),
+      full_width = TRUE,
+      position = "center"
+    ) %>% 
+    column_spec(1:2, width = "5em", bold = TRUE) %>%
+    column_spec(3, width = "20em") %>%
+    column_spec(4, width = "30em")
+} else {
+  # Very simplified table for PDF output to avoid dimension errors
+  schedule %>% 
+    kbl(format = "latex", booktabs = TRUE, longtable = FALSE) %>%
+    kable_styling(
+      latex_options = "HOLD_position",
+      full_width = FALSE
+    ) %>%
+    row_spec(0, bold = TRUE) %>% 
+    column_spec(1:2, bold = TRUE)
+}
+```
+
+
+## Assessment ##
+
+The assessment is based on each student writing an essay. 
+In week 1, comprehensive assessment details will be provided.
+
+**Submission date:** Monday January 5th 2026.
+
+
+Assessment criteria:
+
+*Threshold*
+
+Adequate understanding of the material is demonstrated, which is largely based on information provided within lectures. 
+
+*Good*
+
+Generally accurate coverage of relevant material, which shows evidence of independent thought that extends lecture materials. Well organised and structured. 
+
+*Excellent*
+
+Consistently accurate coverage of relevant material, which shows a depth of independent thought that comprehensively extends lecture materials. Well organised and structured with a clear and efficient writing style.
+
+## Feedback ##
+
+Feedback is provided in the following ways:
+
+1. Lecture discussion throughout the semester.
+2. Written feedback on each student’s assignment.
+
+## Supporting Materials ##
+
+### Lectures ###
+
+Lecture slides will be posted on Moodle before each lecture.
+	  
+### Texts, journal articles and books
+
+The course will feature select material from books and journal articles. 
+This material will be available on this website, via Moodle or via ETHZ’s library holdings and subscriptions.
+

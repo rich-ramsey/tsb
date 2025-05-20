@@ -1,5 +1,0 @@
----
-title: "Advanced Visualization Techniques"
----
-
-Forthcoming. Maybe.

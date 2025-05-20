@@ -1,0 +1,18 @@
+---
+title: "Crisis"
+---
+
+## Objectives
+
+blah.
+
+::: {.callout-note icon="false"}
+## Key concepts
+
+
+:::
+
+## Lecture slides
+
+
+## Discussion papers

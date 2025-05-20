@@ -1,0 +1,367 @@
+---
+# title: "[Lecture 1 - Introduction]{style='font-size:46pt'}"
+# subtitle: "[The Social Brain: Critical Perspectives on Science, Society and Neurodiversity]{style='color:#2f73a3; font-size:24pt;'}  \n[(376-1309-00)]{style='color:#666666; font-size:22pt;'}"
+title: "Lecture 1 - Introduction"
+subtitle: "[The Social Brain: Critical Perspectives on Science, Society and Neurodiversity]{style='color:#2f73a3; font-size:24pt;'}" 
+author: "Richard Ramsey"
+#bibliography: references.bib
+format:
+  revealjs:
+      slide-number: true
+      embed-resources: true
+      transition: none
+      transition-speed: fast
+      logo: ../../../img/tsb_hex.png
+      css: ../../../styles.css
+      footer: "ETH Zürich | 376-1309-00 | The Social Brain"
+      preview-links: auto
+editor: source
+editor_options: 
+  chunk_output_type: console
+---
+
+```{r load-packages, include = FALSE}
+library(papaja)
+library(citr)
+
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Today ##
+
+<br>
+
+:::: {.columns}
+::: {.column width="50%"}
+[Part 1]{.green-text}
+
+- Introduction to the course
+
+<br>
+
+[Part 2]{.green-text}
+
+- Read articles and discuss
+:::
+::: {.column width="50%"}
+![](../icons/lecture.png){width=150px}\
+<br>
+![](../icons/reading.png){width=150px} ![](../icons/discussion.png){width=150px}
+:::
+::::
+
+# Part 1 - Introduction #
+
+## Who will be teaching? ## {.smaller}
+
+<br>
+
+:::: {.columns}
+::: {.column width="35%"}
+- Dr. Richard Ramsey
+- Please just call me Rich
+<br>
+![](images/rich.png)
+:::
+::: {.column width="65%"}
+- I'm originally from Leeds (UK)
+- BSc. and PhD (University of Birmingham, UK)
+- Postdoctoral work (UK and Belgium)
+- Since 2011, I've co-directed a cognitive neuroscience lab as a faculty member at Bangor University (UK) and Macquarie University (Australia)
+- I've been at ETH since 2023
+:::
+::::
+
+## What are my lab's research interests? ## {.smaller}
+
+:::: {.columns}
+::: {.column width="33.3%"}
+**Themes**
+
+- Social Cognitive Neuroscience
+- Person percetion
+- Loneliness
+- Meta science
+- Open science
+:::
+::: {.column width="33.3%"}
+![](images/cbs_hex.png)
+[www.rich-ramsey.com](www.rich.ramsey.com)
+:::
+::: {.column width="33.3%"}
+**Methods**
+
+- Experimental psychology
+- Human neuroscience (e.g., fMRI)
+- "Big Data"
+- Computational modelling
+
+:::
+::::
+
+## Course website ## 
+
+![](images/tsb_website.png)
+
+- [Course website](https://rich-ramsey.com/){preview-link="true"}
+- This has all the good stuff
+- Let's take a look...
+
+## Contact details ## {.smaller}
+
+:::: {.columns}
+::: {.column width="65%"}
+
+<br>
+
+- Speak to me in class - this is the best place to raise questions and discuss ideas.
+
+<br>
+
+- Email: richard.ramsey [at] hest.ethz.ch
+:::
+::: {.column width="35%"}
+![](../icons/question.png)
+:::
+::::
+
+## Notes on lectures ## {.smaller}
+
+<br>
+
+:::: {.columns}
+::: {.column width="60%"}
+
+<br>
+
+- Slides will be posted on the course website before each lecture.
+
+<br>
+
+- **Most important of all:** if you don’t understand something, then **PLEASE** interrupt me and ask a question. No doubt other students in the class are stuck with the same issue.
+
+:::
+::: {.column width="40%"}
+![](../icons/confusion_f.png){width=200px} ![](../icons/confusion_m.png){width=200px}\
+![](../icons/hand_raised.png){width=200px}
+:::
+::::
+
+# Part 1 - Syllabus #
+
+## Course content ## {.smaller}
+
+:::: {.columns}
+::: {.column width="50%"}
+**Themes**
+
+- Research quality and integrity
+
+- Social neuroscience
+
+- Neurodiversity
+:::
+::: {.column width="50%"}
+**Skills**
+
+- Critical evaluation of scientific evidence, data and theory
+- Develop independent thinking skills
+- Appreciate how understandign neurodviersity impacts basic research and society in general
+:::
+::::
+
+## Learning Outcomes ## {.smaller}
+
+::: {.incremental}
+-   To examine critically how neuroscientific concepts, theories, and findings relate to broader historical, moral, and social contexts, enhancing reflective competencies.
+
+<br>
+
+-   To question the production and validation of scientific evidence within the context of the replication crisis, enabling students to evaluate how knowledge is created, validated, and communicated.
+
+<br>
+
+-   To understand how conceptualising cognitive variation as a natural continuum challenges deficit-focused models, promoting more inclusive frameworks for society.
+
+<br>
+
+-   To develop effective communication skills for translating complex scientific concepts to diverse audiences, fostering public understanding of science.
+:::
+
+## Format ## {.smaller}
+
+:::: {.columns}
+::: {.column width="60%"}
+- Lectures will be split into two sections with a short break in the middle. 
+
+<br>
+
+- I will present material in the first half. 
+
+<br>
+
+- In the second half, students will break into small groups and have time to read and discuss relevant papers from that week’s material. 
+:::
+::: {.column width="40%"}
+![](../icons/lecture.png){width=200px}\
+
+<br>
+
+![](../icons/reading.png){width=200px}\ ![](../icons/discussion.png){width=200px}
+:::
+::::
+
+## Small group work ## {.smaller}
+
+- Students have the opportunity to discuss any questions arising from the previous lecture, as well as coursework. 
+
+- A journal article will be provided from the previous lecture as a starting point for this discussion.
+
+- Group discussion sessions are an excellent way to clarify understanding and develop ideas for your assignment. 
+
+
+## Schedule ## 
+
+<br>
+
+```{r}
+#| label: schedule-table
+#| echo: false
+#| warning: false
+
+library(flextable)
+library(dplyr)
+
+# Create the basic data - simplified version with fewer columns
+schedule <- tribble(
+  ~Week, ~Date, ~Title, ~Description,
+  1, "Sep 16", "Intro", "Introduction to the course",
+  2, "Sep 23", "Crisis Part 1", "Is psychological science in a crisis?",
+  3, "Sep 30", "Crisis Part 2", "The reform movement in psychological science",
+  4, "Oct 7", "No lecture", "",
+  5, "Oct 14", "Crisis Part 3", "Are there problems in psychological theory?",
+  6, "Oct 21", "Crisis Part 4", "Does the crisis extend beyond psychology?",
+  7, "Oct 28", "Social Neuroscience 1", "Core foundations",
+  8, "Nov 4", "Social Neuroscience 2", "Current applications",
+  9, "Nov 11", "Neurodiversity 1", "Re-thinking neurodiversity",
+  10, "Nov 18", "Neurodiversity 2", "Guest lecture: A view from the clinic",
+  11, "Nov 25", "Neurodiversity 3", "Loneliness",
+  12, "Dec 2", "Neurodiversity 4", "Autism",
+  13, "Dec 9", "Neurodiversity 5", "Attention and Impulsivity",
+  14, "Dec 16", "Essay Writing", "Guidelines and best practices"
+)
+
+# schedule %>%
+#   flextable() |> 
+#   theme_vanilla()
+
+schedule  |> 
+  flextable()  |> 
+  theme_zebra(
+    odd_body = "white",        # White rows
+    even_body = "#f2f2f2"     # Gray rows
+  )  |> 
+  # Make columns 1 and 2 bold
+  bold(j = 1:2, part = "body") |>
+  autofit()                    # Automatic column sizing
+```
+
+## Topics ## 
+
+- Introduction
+- Crisis and reform
+- Social neuroscience
+- Neurodiversity
+- Essay writing Q&A
+
+# Part 1 - Assessment #
+
+## Assessment type ##
+
+- There is one piece of assessment in this course, which is a written assignment in essay format.
+
+- 2000 words maximum.
+
+- Submission date: Monday January 6th, 2026.
+
+- **There is NO exam**
+
+## Assessment format ##
+
+You can write your essay in two different ways.
+
+**1.** Address a general question.
+
+e.g., Is psychology a science or a pseudoscience?
+
+**2.** Address a more specific question.
+
+e.g., Should Autism be considered one diagnosis or multiple different diagnoses?
+
+
+# Part 1 - Writing tips #
+
+## Narrow focus ##
+
+- Your essay should have a narrow focus, I do not want a detailed literature review. 
+
+- You are not being assessed on the breadth of your knowledge. Therefore, I will not mark you down for having a narrow focus.
+
+- However, I expect a very clear and well-supported rationale for your critical viewpoint and future direction.
+
+- I will reward attempts to think on your own
+
+## Keep it simple !!! ##
+
+- Find an experiment or topic from my lectures that interests you
+- Go away and read around the topic 
+- Think of a feature that limits understanding – i.e., be critical – and suggest a way to extend current knowledge
+
+## Plan, plan and plan some more ##
+
+- Plan your written assignment BEFORE you start to write. You will find it easier to write if you organise your ideas first into a structure. 
+
+- Consider the balance of your assignment, in terms of the amount of text per section.
+
+- Make multiple plans, rather than one. One page A4 per plan.
+
+- Review the plans and consider revision and/or consolidation.
+
+## Writing style ##
+
+- Clarity is crucial 
+- If you can say it with less words, do so (i.e., keep sentences short).
+- Try to link paragraphs to promote the flow and pace of your writing 
+- Have a friend or classmate read it
+
+# Part 1 - Summary #
+
+- Introduction
+- Syllabus
+- Assessment
+- Writing tips
+
+# Take a break #
+
+
+# Part 2 - Read articles and discuss #
+
+## Discussion material ##
+
+- Here are some accessible (i.e., non-technical) blog posts that cover the main themes in the course.
+- Read these to kick-start a discussion in your group.
+
+<br>
+
+:::: {.columns}
+::: {.column width="50%"}
+- [Crisis and reform](https://rich-ramsey.com/posts/2023-05-16_meta_science/)
+
+- [Social neuroscience](https://focuskeeper.co/glossary/what-is-social-neuroscience)
+
+- [Neurodiversity](https://www.london.ac.uk/news-events/student-blog/neurodiversity-hidden-superpower) 
+:::
+::: {.column width="50%"}
+![](../icons/reading.png){width=200px}![](../icons/discussion.png){width=200px}
+:::
+::::

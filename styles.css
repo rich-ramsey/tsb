@@ -4,3 +4,61 @@ mark {
     font-weight: 600;
     color: #595959;
 }
+
+.slide-container {
+  margin: 2rem 0;
+}
+
+.slide-links {
+  text-align: right;
+  margin-top: 0.5rem;
+  font-size: 0.9rem;
+}
+
+/* Responsive logo sizing */
+.reveal .slide-logo {
+  width: min(200px, 20vw) !important;
+  height: auto !important;
+  max-width: unset !important;
+  max-height: unset !important;
+}
+
+.slide-instructions {
+  font-size: 0.85rem;
+  margin-top: 0.5rem;
+  color: #666;
+}
+
+.slide-links a {
+  text-decoration: none;
+  padding: 3px 8px;
+  border-radius: 4px;
+}
+
+.slide-links a:hover {
+  background-color: #f5f5f5;
+}
+
+.lecture-links {
+  margin: 1.5rem 0;
+}
+
+.lecture-links a {
+  display: inline-block;
+  margin-right: 1.5rem;
+  margin-bottom: 0.5rem;
+  font-weight: 500;
+}
+
+/* text colours */
+.green-text {
+  color: #228B22;
+}
+
+/* icons */
+.lecture-icon {
+  font-size: 36px;
+  vertical-align: middle;
+  color: #228B22;
+  margin-right: 10px;
+}

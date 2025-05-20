@@ -3,63 +3,72 @@ project:
   output-dir: docs
   render:
     - "*.qmd"
-    - "!*.Rmd"
+    - "!*.Rmd"             # Exclude .Rmd files, but try to avoid them for consistency
+    - "!_scripts/*.qmd"    # Exclude utility scripts
+    - "!_drafts/*.qmd"     # Exclude draft content
+    - "!admin/*.qmd"     # Exclude draft content
+    #- "syllabus/index.qmd:pdf" # Add specific PDF outputs
   resources:
     - files/*.Rmd
     - files/*.html
     
 website:
-  title: "PPN"
+  title: "TSB"
+  favicon: "img/tsb_hex.png"
   navbar:
     left:
-      - href: index.qmd
-        text: Home
-      - syllabus.qmd
-      - modules/index.qmd
-      - datasets/index.qmd
+      - syllabus/index.qmd
+      - lectures/index.qmd
       - resources.qmd
-      - exercises.qmd
     tools:
       - icon: github
         menu:
           - text: Source Code
-            href:  https://github.com/ritcheym/ppn
+            href:  https://github.com/rich-ramsey/tsb
   back-to-top-navigation: false
-  page-footer: "Last updated April 2025."
+  page-footer: "The Social Brain"
     
   sidebar:
-    style: "floating"
-    search: true
-    contents:
-      - section: "<b>Modules</b>"
-        href: modules/index.qmd
-        contents:
-          - text: "<mark>Intro to Programming</mark>"
-          - modules/01_intro.qmd
-          - modules/02_programming-foundations-1.qmd
-          - modules/03_programming-foundations-2.qmd
-          - modules/04_programming-workshop.qmd
-          - text: "<mark>Data Manipulation</mark>"
-          - modules/05_data-visualization.qmd
-          - modules/06_data-summaries.qmd
-          - modules/07_data-wrangling.qmd
-          - modules/08_data-relations.qmd
-          - modules/09_data-tidying.qmd
-          - text: "<mark>Data Analysis</mark>"
-          - modules/10_statistical-analysis.qmd
-          - modules/11_machine-learning.qmd
-          - modules/12_nlp.qmd
-      - section: "<b>Projects</b>"
-        contents:
-          - projects/midterm-project.qmd
-          - projects/final-project.qmd
-          - projects
+    - id: "main-sidebar"  # Default sidebar for most pages
+      style: "floating"
+      logo: "img/tsb_hex.png" 
+      search: true
+          
+    - id: "lectures-sidebar"  # Special sidebar for lecture pages
+      style: "floating"
+      logo: "img/tsb_hex.png" 
+      search: true
+      contents:
+        - section: "<b>Lectures</b>"
+          href: lectures/index.qmd
+          contents:
+            - text: "<mark>Intro</mark>"
+            -  lectures/01_intro.qmd
+            - text: "<mark>Crisis and reform</mark>"
+            -  lectures/02_crisis.qmd
+            - text: "<mark>Social neuroscience</mark>"
+            -  lectures/01_intro.qmd
+            - text: "<mark>Neurodiversity</mark>"
+            -  lectures/02_crisis.qmd
+            - text: "<mark>Essay writing</mark>"
+            -  lectures/02_crisis.qmd
 
 format:
   html:
     theme: cosmo
     css: styles.css
     toc: true
+    link-external-newwindow: true
 
-editor: visual
+editor_options: 
+  type: source
+  chunk_output_type: console
+  markdown: 
+    wrap: 72
+    references:
+      location: block
+    canonical: true
+  chunk: 
+    tidy: true
+    wrap: 80
 
