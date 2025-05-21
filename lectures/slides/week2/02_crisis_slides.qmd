@@ -1,0 +1,546 @@
+---
+title: "[Lecture 2 - Is psychological science in a crisis?]{style=font-size:40pt;'}"
+subtitle: "[The Social Brain: Critical Perspectives on Science, Society and Neurodiversity]{style='color:#2f73a3; font-size:24pt;'}" 
+author: "Richard Ramsey"
+bibliography: references.bib
+csl: ../../../apa.csl
+format:
+  revealjs:
+    slide-number: true
+    embed-resources: true
+    transition: none
+    transition-speed: fast
+    logo: ../../../img/tsb_hex.png
+    css: ../../../styles.css
+    footer: "ETH Zürich | 376-1309-00 | The Social Brain"
+    preview-links: auto
+    revealjs-plugins:
+      - pointer
+    pointer:
+      color: "#32cd32"
+      pointerSize: 18
+editor: source
+editor_options: 
+  chunk_output_type: console
+---
+
+```{r load-packages, include = FALSE}
+library(papaja)
+library(citr)
+
+knitr::opts_chunk$set(echo = FALSE)
+
+# Fix the references.bib location for updating and writing refs #
+options(citr.update_bib = file.path(getwd(), "lectures/slides/week2/references.bib"))
+```
+
+## Today ##
+
+<br>
+
+:::: {.columns}
+::: {.column width="50%"}
+[Part 1]{.green-text}
+
+- Is psychological science in a crisis?
+
+<br>
+
+[Part 2]{.green-text}
+
+- Read articles and discuss
+:::
+::: {.column width="50%"}
+![](../icons/lecture.png){width=150px}\
+<br>
+![](../icons/reading.png){width=150px} ![](../icons/discussion.png){width=150px}
+:::
+::::
+
+# Introduction #
+
+## What is science? ##
+
+:::: {.columns}
+::: {.column width="50%"}
+**Science**
+:::
+::: {.column width="50%"}
+**Not science**
+:::
+::::
+
+## Estimating reproducibility ## 
+
+:::: {.columns}
+::: {.column width="50%"}
+
+<br>
+
+![](images/osc_title.png)
+:::
+
+::: {.column width="50%"}
+::: {.text-smaller}
+- Attempted to replicate 100 experiments from 3 leading Psychology journals.
+- contacted original authors for materials and hypotheses.
+- pre-registered analysis plans.
+- high power designs (e.g., much larger samples than the originals).
+:::
+:::
+::::
+
+::: {.citation-footer}
+[@opensciencecollaboration2015]
+:::
+
+## Estimating reproducibility ##
+
+::: {style="text-align: center;"}
+![](images/osc_p_effect_size.png){}
+:::
+
+::: {.citation-footer}
+[@opensciencecollaboration2015]
+:::
+
+## Estimating reproducibility ##
+
+:::: {.columns}
+::: {.column width="50%"}
+![](images/osc_table.png){}
+:::
+::: {.column width="50%"}
+::: {.img-large}
+![](images/power_failure.png)
+![](images/cancer_biology.png)
+![](images/bwa.png)
+:::
+:::
+::::
+
+::: {.citation-footer}
+[@opensciencecollaboration2015]
+:::
+
+# 7 Deadly Sins of Psychology #
+
+## 7 Deadly Sins of Psychology ##
+
+:::: {.columns}
+::: {.column width="50%"}
+1. Bias
+2. Hidden Flexibility
+3. Unreliability
+4. Data Hoarding
+5. Corruptibility
+6. Internment
+7. Bean Counting
+:::
+::: {.column width="50%"}
+:::{.img-medium}
+![](images/deadly_sins.png)
+:::
+:::
+::::
+
+## Bias ##
+
+:::: {.columns}
+::: {.column width="50%"}
+:::{.img-large}
+![](images/bias.jpeg)
+:::
+:::
+::: {.column width="50%"}
+>The human understanding when it has once adopted an opinion … draws all else to support and agree with it.
+
+Francis Bacon, 1620
+:::
+::::
+
+## Bias ##
+
+- Positive and new trumps the negative but true (“A beautiful story undone by an ugly truth”)
+
+- An extreme version: Daryl Bem and “precognition” – 2011.
+
+:::: {.columns}
+::: {.column width="50%" .fragment}
+::: {.image-container .img-large}
+![](images/bem1.png)
+:::
+:::
+::: {.column width="50%" .fragment}
+::: {.image-container .img-large}
+![](images/bem2.png)
+:::
+:::
+::::
+
+::: {.citation-footer}
+[@bem2011]
+:::
+
+## Bias ##
+
+<br>
+
+- Publication bias (or the “file-drawer effect”).
+
+- Studies that fail to show a statistically significant effects, or that reproduce the work of others, have such low priority that they are effectively censored from the scientific record.
+
+- They either end up in the file-drawer or never get conducted in the first place.
+
+## Bias ##
+
+- Publication bias (or the “file-drawer effect”).
+
+:::: {.columns}
+::: {.column width="50%" .fragment}
+::: {.image-container .img-full}
+![](images/sim1.png){}
+:::
+:::
+
+::: {.column width="50%" .fragment}
+::: {.image-container .img-full}
+![](images/sim2.png){}
+:::
+:::
+::::
+
+## Bias ## {.incremental}
+
+- Confirmation bias - we see what we expect and only check when there are deviations
+
+- The scientific literature is dominated by results that confirm hypotheses, rather than fail to confirm.
+
+- An arms-race has started to show new and “sexy” results, which confirm hypotheses, but ultimately bias the published literature. 
+
+## Bias ##
+
+:::: {.columns}
+::: {.column width="50%"}
+::: {.incremental}
+- Hindsight bias
+- HARKing (Hypothesising After the Results are Known)
+:::
+:::
+::: {.column width="50%"}
+![](images/hindsight-cartoon.png){}
+:::
+::::
+
+## Hidden Flexibility ##
+
+:::: {.columns}
+::: {.column width="50%"}
+:::{.img-large}
+![](images/hidden_flexibility.jpeg)
+:::
+:::
+::: {.column width="50%"}
+>Torture numbers and they will confess to anything.
+
+Gregg Easterbrook, 1999
+:::
+::::
+
+## Hidden Flexibility ##
+
+<br>
+
+:::: {.columns}
+::: {.column width="50%"}
+:::{.img-v-large}
+![](images/false-positive-1.png){}
+:::
+:::
+::: {.column width="50%"}
+:::{.img-v-large}
+![](images/false-positive-2.png){}
+:::
+:::
+::::
+
+::: {.citation-footer}
+[@simmons2011]
+:::
+
+## Hidden Flexibility ##
+
+- p-hacking
+- Peculiar patterns of p
+- Ghost hunting (or lack of high-quality replication)
+- Biased debugging
+  - If the results turn out as expected, do no further checks. If the results are a surprise, then check the code for bugs.
+  
+## Unreliability ##
+
+:::: {.columns}
+::: {.column width="50%"}
+:::{.img-large}
+![](images/unreliability.jpeg)
+:::
+:::
+::: {.column width="50%"}
+>And it’s this type of integrity, this kind of care not to fool yourself, that is missing to a large extent in much of the research in cargo cult science.
+
+Richard Feynman, 1974
+:::
+::::
+
+## Unreliability ## {.smaller}
+
+
+- Was Einstein wrong?
+  - Particles break light-speed limit … September 2011
+
+<br>
+
+::: {.incremental}
+- Answer…. No.
+- By June 2012, three independent teams had failed to replicate the original result. Neutrinos intheir experiments travelled at approximately the speed of light.
+
+- One month later, the original team reported that their findings were caused by a loose fibre-optic cable!!
+- But this is just what should happen in a good scientific environment, where human error will certainly happen.
+:::
+
+## Unreliability ##
+
+- Sources:
+  - disregard of direct replication
+  - lack of power
+  - failure to disclose methods
+  - statistical fallacies
+  - failure to retract
+
+## Data hoarding ##
+
+:::: {.columns}
+::: {.column width="50%"}
+:::{.img-large}
+![](images/data_hoarding.jpeg)
+:::
+:::
+::: {.column width="50%"}
+>Code and data or it didn’t happen.
+
+Anon.
+:::
+::::
+
+## Data hoarding ##
+
+<br>
+
+- A story from my first paper submission (many years ago…).
+- Failure to share
+- Secret sharing 
+- Failure to share hides misconduct
+
+## Corruptibility ##
+
+:::: {.columns}
+::: {.column width="50%"}
+:::{.img-large}
+![](images/corruptibility.jpeg)
+:::
+:::
+::: {.column width="50%"}
+>I was doing fine, but then I became impatient, overambitious, reckless.
+
+Diederik Stapel, 2012
+:::
+::::
+
+## Corruptibility ## {.smaller}
+
+<br>
+
+:::: {.columns}
+::: {.column width="50%"}
+- Fraud examples
+- <https://www.nytimes.com/2013/04/28/magazine/diederik-stapels-audacious-academic-fraud.html>
+- 58 retracted papers 
+- Most (or all) for data fabrication
+- <https://retractionwatch.com>
+:::
+::: {.column width="50%"}
+::: {.img-large}
+![](images/stapel.png)
+:::
+:::
+::::
+
+## Corruptibility ## {.smaller}
+
+<br>
+
+:::: {.columns}
+::: {.column width="50%"}
+- Science Fictions is another entertaining read
+- It emphasizes that Fraud, Bias, Hype and Questionable Research Practices are not restricted to Psychological research.
+- In fact, it is common in medical research and the drivers are largely the same 
+- This might be surprising given the consequences of medical research 
+
+:::
+::: {.column width="50%"}
+::: {.figure-container}
+::: {.img-medium}
+![](images/science-fictions.png)
+:::
+:::
+:::
+::::
+
+## Internment ##
+
+:::: {.columns}
+::: {.column width="50%"}
+:::{.img-large}
+![](images/internment.jpeg)
+:::
+:::
+::: {.column width="50%"}
+>Publish means “make public.”
+
+Mike Taylor, 2012
+:::
+::::
+
+## Internment ## {.smaller}
+
+- Not only are data not publicly avaiable (as we discussed earlier), but the article and conclusions are normally kept behind a paywall.
+
+- This is morally questionable, given that the vast majority of research across the world is funded by the public via taxes.
+
+- Univeristy libraries tend to have access via a subscription (so academics can read papers), but the general public do not.
+
+## Internment ##
+
+<br>
+
+- Why do Psychologists support barrier-based publishing?
+
+  - Prestige associated with barrier-based journals
+
+  - Incentives to publish in key journals for career progression
+
+  - There was no real alternative (historically)
+
+## Bean counting ##
+
+:::: {.columns}
+::: {.column width="50%"}
+:::{.img-large}
+![](images/bean_counting.jpeg)
+:::
+:::
+::: {.column width="50%"}
+>Not everything that counts can be counted, and not everything that can be counted counts.
+
+Gregg Easterbrook, 1999
+:::
+::::
+
+## Bean counting ## {.smaller}
+
+<br>
+
+Can science measure itself?
+
+- Metrics are used to measure the “quality” of science and scientists e.g., impact factor of a journal, grant capture, number of papers published, author position, number of citations.
+
+- So folks shoot for these by trying to game the system in anyway they can, which tends to encourage poor research rather than better research.
+
+- **Goodhart’s law:** when a measure becomes a target, it ceases to be a good measure.
+
+# Summary #
+
+## Where are we now? ##
+
+::: {.figure-container}
+::: {.img-v-large}
+![](images/wheel_of_death.png)
+:::
+:::
+
+::: {.citation-footer}
+[@munafo2017]
+:::
+
+## Is psychological science in a crisis? ##
+
+**What do you think?**
+
+::: {.figure-container}
+![](images/crisis-opportunity.jpg){width=600px}
+:::
+
+::: {.citation-footer}
+[Photo: Getty]
+:::
+
+## Redemption ##
+
+:::: {.columns}
+::: {.column width="50%"}
+::: {.img-large}
+![](images/redemption.jpeg)
+:::
+:::
+::: {.column width="50%"}
+>The method of science, as stodgy and grumpy as it may seem, is far more important than the findings of science.
+
+Carl Sagan, 1995
+
+<br>
+
+[Note: This is a prelude to next week]{.text-smaller}
+:::
+::::
+
+
+## Today ##
+
+<br>
+
+:::: {.columns}
+::: {.column width="50%"}
+[Part 1]{.green-text}
+
+- Is Psychological science in a crisis?
+
+<br>
+
+[Part 2]{.green-text}
+
+- Read articles and discuss
+:::
+::: {.column width="50%"}
+![](../icons/lecture.png){width=150px}\
+<br>
+![](../icons/reading.png){width=150px} ![](../icons/discussion.png){width=150px}
+:::
+::::
+
+# Take a break #
+
+# Part 2 - Read and discuss #
+
+## Discussion material ##
+
+<br>
+
+- break into small groups (~ 5 per group)
+- discuss aspects of the lecture – 7 deadly sins
+- discuss aspects of the journal article:
+<https://www.science.org/doi/full/10.1126/science.aac4716>
+- can you think of any solutions?
+
+## References
+
+::: {#refs style="font-size: 0.9em;"}
+:::
