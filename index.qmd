@@ -18,10 +18,16 @@ The seminar then applies this critical lens to social neuroscience, examining ho
 
 ## Website information
 
-On this website, you can find the course [syllabus](syllabus/syllabus.html), as well as the details for the course [lectures](lectures/index.html). 
+On this website, you can find the course [syllabus](syllabus/index.qmd), as well as the details for the course [lectures](lectures/index.html). 
 
 ## Acknowledgments
 
 The structure of this website closely follows open access materials shared by:
 
 -   Maureen Ritchey. [*Programming for Psychology and Neuroscience*](https://ritcheym.github.io/ppn/). 
+
+## License
+
+{{< fa regular copyright >}} Richard Ramsey, 2025<br>
+All content licensed under {{< fa brands creative-commons >}}
+{{< fa brands creative-commons-by >}} {{< fa brands creative-commons-sa >}} {{< fa brands creative-commons-nc >}} [(CC BY-NC-SA 4.0)](http://creativecommons.org/licenses/by-nc-sa/4.0/)

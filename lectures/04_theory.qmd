@@ -1,0 +1,22 @@
+---
+title: "A problem in theory?"
+---
+
+## Objectives
+
+blah.
+
+::: {.callout-note icon="false"}
+## Key concepts
+
+
+:::
+
+## Lecture slides
+
+- [View Slides](slides/week4/04_theory_slides.html){target="_blank"} (opens in new tab)
+- [Download Slides PDF](slides/week4/04_theory_slides.pdf){download="04_theory_slides.pdf"}
+
+## Discussion paper
+
+[Scheel et al., 2021](https://journals.sagepub.com/doi/full/10.1177/1745691620966795)

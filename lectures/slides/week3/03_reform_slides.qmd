@@ -1,0 +1,479 @@
+---
+title: "Lecture 3 - The reform movement in psychological science"
+subtitle: "The Social Brain: Critical Perspectives on Science, Society and Neurodiversity" 
+author: "Richard Ramsey"
+bibliography: references.bib
+csl: ../../../apa.csl
+format:
+  revealjs:
+    slide-number: true
+    embed-resources: true
+    transition: none
+    transition-speed: fast
+    logo: ../../../img/tsb_hex.png
+    css: ../../../styles.css
+    footer: "ETH Zürich | 376-1309-00 | The Social Brain"
+    preview-links: auto
+    revealjs-plugins:
+      - pointer
+    pointer:
+      color: "#32cd32"
+      pointerSize: 18
+editor: source
+editor_options: 
+  chunk_output_type: console
+---
+
+```{r load-packages, include = FALSE}
+library(papaja)
+library(citr)
+
+knitr::opts_chunk$set(echo = FALSE)
+
+# Fix the references.bib location for updating and writing refs #
+options(citr.update_bib = file.path(getwd(), "lectures/slides/week3/references.bib"))
+```
+
+## Today ##
+
+<br>
+
+:::: {.columns}
+::: {.column width="50%"}
+[Part 1]{.green-text}
+
+- The reform movement in psychological science
+
+<br>
+
+[Part 2]{.green-text}
+
+- Read articles and discuss
+:::
+::: {.column width="50%"}
+![](../icons/lecture.png){width=150px}\
+<br>
+![](../icons/reading.png){width=150px} ![](../icons/discussion.png){width=150px}
+:::
+::::
+
+
+# Recap last week #
+
+## Where are we now? ##
+
+::: {.figure-container}
+::: {.img-v-large}
+![](images/wheel_of_death.png)
+:::
+:::
+
+::: {.citation-footer}
+[@munafo2017]
+:::
+
+## Is psychological science in a crisis? ##
+
+<br>
+
+:::: {.columns}
+::: {.column width="50%"}
+::: {.figure-container}
+::: {.img-v-large}
+![](images/crisis-opportunity.jpg)
+:::
+:::
+:::
+
+::: {.column width="50%"}
+>Crisis implies we are at a loss for solutions, when in fact we have identified many ways to improve science’s credibility
+
+Simine Vazire [-@vazireImplicationsCredibilityRevolution2018]
+:::
+::::
+
+# What is the reform movement? #
+
+## What is the reform movement? ##
+
+- At a broad level, it is a response to the replication crisis, which involves a group of academics and organisations that aim to improve the quality of psychological science. There are too many to mention, so I’ll just outline one to give you the general idea.
+
+- Society for the Improvement of Psychological Science (SIPS)
+<https://improvingpsych.org/>
+
+## SIPS ##
+
+:::: {.columns}
+::: {.column width="50%"}
+::: {.figure-container}
+::: {.img-v-large}
+![](images/sips-1.png)
+:::
+:::
+:::
+
+::: {.column width="50%"}
+::: {.figure-container}
+::: {.img-large}
+![](images/sips-2.png)
+:::
+:::
+:::
+::::
+
+## Redemption ##
+
+:::: {.columns}
+::: {.column width="50%"}
+::: {.img-large}
+![](images/redemption.jpeg)
+:::
+:::
+
+::: {.column width="50%"}
+>The method of science, as stodgy and grumpy as it may seem, is far more important than the findings of science.
+
+Carl Sagan, 1995
+:::
+::::
+
+::: {.citation-footer}
+[@chambersSevenDeadlySins2017]
+:::
+
+## Redemption ##
+
+### Solving the Sins of…
+
+- Bias and Hidden Flexibility
+- Unreliability
+- Data Hoarding
+- Corruptibility
+- Internment
+- Bean Counting
+
+## Solving the Sins of Bias and Hidden Flexibility ##
+
+- Biases: 
+  - confirmation bias
+  - publication bias
+  - hindsight bias
+
+- Hidden flexibility: p-hacking until something turns up
+
+- Solution: pre-registration and Registered Reports. 
+
+## Solving Bias and Hidden Flexibility ##
+
+### Normal publishing cycle:
+
+- Do all the work first (plan, data collection, analysis, write-up) and **THEN** submit to a journal
+
+::: {.figure-container}
+::: {.img-full}
+![](images/peer-review-1.png)
+:::
+:::
+
+::: {.citation-footer}
+[Open Science Framework]
+:::
+
+## Solving Bias and Hidden Flexibility ##
+
+### Pre-registration is different:
+
+- You first write down and publish in a time-stamped manner **EXACTLY** what you are going to do. Then you do it.
+
+::: {.figure-container}
+::: {.img-full}
+![](images/peer-review-2.png)
+:::
+:::
+
+::: {.citation-footer}
+[Open Science Framework]
+:::
+
+## Solving Bias and Hidden Flexibility ##
+
+<br>
+
+- An example of pre-registration from my lab
+<https://aspredicted.org/uh5m5.pdf>{preview-link="true"}
+
+- And the subsequently published [paper](https://www.tandfonline.com/doi/full/10.1080/13506285.2023.2250505#abstract){preview-link="true"}.
+
+## Solving Bias and Hidden Flexibility ##
+
+:::: {.columns}
+::: {.column width="50%"}
+::: {.figure-container}
+::: {.img-full}
+**Pre-registration**
+![](images/aspredicted.png)
+:::
+:::
+:::
+
+::: {.column width="50%"}
+::: {.figure-container}
+::: {.img-full}
+**Pre-print**
+![](images/preprint.png)
+:::
+:::
+:::
+::::
+
+## Solving Bias and Hidden Flexibility ##
+
+### Registered Reports are even better:
+
+::: {.figure-container}
+::: {.img-full}
+![](images/peer-review-3.png)
+:::
+:::
+
+::: {.citation-footer}
+[Open Science Framework]
+:::
+
+## Solving Bias and Hidden Flexibility {.smaller}
+
+### Stage 1 Review:
+- The significance of the research questions
+- The logic, rationale, plausibility of the proposed hypotheses.
+- The soundness and feasibility of the methodology and analaysis pipeline (including statistical power analysis).
+- Whether clarity and degree of methodological detail would be sufficient to replicate exactly the proposed experimental procedures and analysis pipeline.
+- Whether the authors provide a sufficiently clear and detailed description of the methods to prevent undisclosed flexibility in the experimental procedures or analysis pipeline.
+- Whether the authors have considered sufficient outcome-neutral conditions (e.g., absence of floor or ceiling effects; positive controls) for ensuring that the results are able to test the stated hypotheses.
+
+## Solving Bias and Hidden Flexibility {.smaller}
+
+### Stage 2 Review:
+- Whether the data are able to test the authors’ proposed hypotheses by passing the approved outcome-neutral criteria (such as absence of floor or ceiling effects).
+- Whether the introduction, rationale and stated hypotheses are the same as the approved Stage 1 submission (required).
+- Whether the authors adhered precisely to the registered experimental procedures
+- Whether any unregistered post hoc analyses added by the authors are justified, methodologically sound, and informative.
+- Whether the authors’ conclusions are justified given the data
+
+## Solving the Sin of Unreliability ## {.smaller}
+
+### Unreliability: lack of replication, lack of power, vague and nonreplicable methods, misuse of statistics, failure to retract papers.
+
+Solutions:
+
+- Registered Reports
+- Reproducibility Index
+- Pottery Barn rule by journals and funders
+- Regular multi-centre replication initiatives
+
+## Solving the Sin of Data Hoarding ## {.smaller}
+ 
+### Data hoarding: a widespread lack of data sharing
+
+Solutions:
+
+- Peer Reviewers’ Openness (PRO) initiative (https://www.opennessinitiative.org/)
+- Transparency and Openness Promotion (TOP) guidelines (https://www.cos.io/initiatives/top-guidelines)
+- Centre for Open Science is a very useful platform (https://youtu.be/9YuNGB3vNOw)
+- Git and GitHub (and other version control systems and code repositories)
+
+## TOP guidelines ##
+
+::: {.figure-container}
+::: {.img-v-large}
+![](images/top.png)
+:::
+:::
+
+## Solving the Sin of Data Hoarding ## 
+
+### Open Science Framework
+
+::: {.figure-container}
+::: {.img-v-large}
+![](images/osf-1.png)
+:::
+:::
+
+## Solving the Sin of Data Hoarding ## 
+
+### Open Science Framework
+
+::: {.figure-container}
+::: {.img-v-large}
+![](images/osf-2.png)
+:::
+:::
+
+## Solving the Sin of Data Hoarding ## 
+
+### Git and GitHub
+
+::: {.figure-container}
+::: {.img-v-large}
+![](images/github.png)
+:::
+:::
+
+
+## Solving the Sin of Corruptibility ## 
+
+### Fraud
+
+Solutions:
+
+- Required data and code sharing
+- Data audits and “data detectives”
+- Profiling researchers (not sure about this one!)
+- Criminalisation of academic fraud
+- Protection and support of whistle-blowers
+
+## Solving the Sin of Corruptibility ## 
+
+### A recent example
+
+::: {.figure-container}
+::: {.img-v-large}
+![](images/wsj.png)
+:::
+:::
+
+::: {.citation-footer}
+[[Wall Street Journal](https://www.wsj.com/science/data-colada-debunk-stanford-president-research-14664f3?st=z6v0vfhlnqigaif&reflink=desktopwebshare_permalink)]
+:::
+
+## Solving the Sin of Corruptibility ## 
+
+### A recent example
+
+::: {.figure-container}
+::: {.img-v-large}
+![](images/data-colada.png)
+:::
+:::
+
+## Solving the Sin of Internment ##
+
+### Internment: research is “published” behind paywalls making it inaccessible to the public.
+
+Solutions:
+
+- Open Access (OA) publishing by governments and funders
+- Alternative publishing models (that side-step traditional journals) and which may be run by university libraries.
+
+- [Dorothy Bishop writing in the Guardian newspaper](https://www.theguardian.com/science/head-quarters/2015/may/12/will-traditional-science-journals-disappear)
+
+## Solving the Sin of Bean Counting ##
+
+### Bean counting: an obsession with superficial metrics to evaluate science and scientists
+
+Solutions:
+
+- Formal CRediT system (rather than opague authorship order). <https://credit.niso.org/>
+
+- More generally, new hiring and promotion guidelines are **BADLY** needed
+
+
+## Solutions that my lab has been trying ##
+
+- See my blog post on open science [here](https://rich-ramsey.com/posts/2023-05-16_meta_science/).
+
+::: {.figure-container}
+::: {.img-v-large}
+![](images/blog.png)
+:::
+:::
+
+## A list of resources ##
+
+- Useful resources can be found [here](https://rich-ramsey.com/resources/).
+
+::: {.figure-container}
+::: {.img-v-large}
+![](images/resources.png)
+:::
+:::
+
+# Summary #
+
+## We need saving from ourselves ##
+
+:::: {.columns}
+::: {.column width="50%"}
+::: {.figure-container}
+::: {.img-v-large .text-small}
+![](images/hannibal.png)
+
+>The first principle is that you must not fool yourself - and you are the easiest person to fool
+
+Richard Feynman [-@feynmanCargoCultScience1974]
+:::
+:::
+:::
+
+::: {.column width="50%"}
+::: {.text-small}
+
+- Each belt, shackle and guard may represent:
+  - Pre-registration.
+  - Statistical power and sample size.
+  - Replication.
+  - Meta-analysis.
+  - Open data, materials and code.
+  - Pre-prints.
+  - Making more modest claims.
+  
+:::
+:::
+::::
+
+## Scientific reform is difficult ##
+
+:::: {.columns}
+::: {.column width="50%"}
+::: {.figure-container}
+::: {.img-large .no-wrap}
+**It is overwhelming**
+
+![](images/brain_explosion.png)
+:::
+:::
+:::
+
+::: {.column width="50%"}
+::: {.figure-container}
+::: {.img-v-large}
+**Changing behaviour is hard**
+
+<br>
+
+![](images/weight.png)
+:::
+:::
+:::
+::::
+
+# Take a break #
+
+# Part 2 - Read and discuss #
+
+## Discussion material ##
+
+<br>
+
+- break into small groups (~ 5 per group)
+- discuss aspects of the lecture:
+  – which solutions do you consider to be most important and why?
+- discuss aspects of the journal article:
+<https://www.nature.com/articles/s41562-016-0021>
+  - can you think of any other solutions?
+  - are there any barriers to widespread uptake?
+
+## References
+
+::: {#refs .text-smaller}
+:::

@@ -35,6 +35,13 @@
     "text": "Acknowledgments\nThe structure of this website closely follows open access materials shared by:\n\nMaureen Ritchey. Programming for Psychology and Neuroscience."
   },
   {
+    "objectID": "index.html#license",
+    "href": "index.html#license",
+    "title": "The Social Brain: Critical Perspectives on Science, Society and Neurodiversity",
+    "section": "License",
+    "text": "License\n Richard Ramsey, 2025 All content licensed under     (CC BY-NC-SA 4.0)"
+  },
+  {
     "objectID": "lectures/01_intro.html",
     "href": "lectures/01_intro.html",
     "title": "Introduction",
@@ -58,30 +65,86 @@
   {
     "objectID": "lectures/02_crisis.html",
     "href": "lectures/02_crisis.html",
-    "title": "Crisis",
+    "title": "Is psychological science in a crisis?",
     "section": "",
     "text": "blah.\n\n\n\n\n\n\nKey concepts"
   },
   {
     "objectID": "lectures/02_crisis.html#objectives",
     "href": "lectures/02_crisis.html#objectives",
-    "title": "Crisis",
+    "title": "Is psychological science in a crisis?",
     "section": "",
     "text": "blah.\n\n\n\n\n\n\nKey concepts"
   },
   {
     "objectID": "lectures/02_crisis.html#lecture-slides",
     "href": "lectures/02_crisis.html#lecture-slides",
-    "title": "Crisis",
+    "title": "Is psychological science in a crisis?",
     "section": "Lecture slides",
-    "text": "Lecture slides"
+    "text": "Lecture slides\n\nView Slides (opens in new tab)\nDownload Slides PDF"
   },
   {
-    "objectID": "lectures/02_crisis.html#discussion-papers",
-    "href": "lectures/02_crisis.html#discussion-papers",
-    "title": "Crisis",
-    "section": "Discussion papers",
-    "text": "Discussion papers"
+    "objectID": "lectures/02_crisis.html#discussion-paper",
+    "href": "lectures/02_crisis.html#discussion-paper",
+    "title": "Is psychological science in a crisis?",
+    "section": "Discussion paper",
+    "text": "Discussion paper\nOpen Science Collaboration, 2015"
+  },
+  {
+    "objectID": "lectures/03_reform.html",
+    "href": "lectures/03_reform.html",
+    "title": "The reform movement in psychological science",
+    "section": "",
+    "text": "blah.\n\n\n\n\n\n\nKey concepts"
+  },
+  {
+    "objectID": "lectures/03_reform.html#objectives",
+    "href": "lectures/03_reform.html#objectives",
+    "title": "The reform movement in psychological science",
+    "section": "",
+    "text": "blah.\n\n\n\n\n\n\nKey concepts"
+  },
+  {
+    "objectID": "lectures/03_reform.html#lecture-slides",
+    "href": "lectures/03_reform.html#lecture-slides",
+    "title": "The reform movement in psychological science",
+    "section": "Lecture slides",
+    "text": "Lecture slides\n\nView Slides (opens in new tab)\nDownload Slides PDF"
+  },
+  {
+    "objectID": "lectures/03_reform.html#discussion-paper",
+    "href": "lectures/03_reform.html#discussion-paper",
+    "title": "The reform movement in psychological science",
+    "section": "Discussion paper",
+    "text": "Discussion paper\nMunafò et al., 2017"
+  },
+  {
+    "objectID": "lectures/04_theory.html",
+    "href": "lectures/04_theory.html",
+    "title": "A problem in theory?",
+    "section": "",
+    "text": "blah.\n\n\n\n\n\n\nKey concepts"
+  },
+  {
+    "objectID": "lectures/04_theory.html#objectives",
+    "href": "lectures/04_theory.html#objectives",
+    "title": "A problem in theory?",
+    "section": "",
+    "text": "blah.\n\n\n\n\n\n\nKey concepts"
+  },
+  {
+    "objectID": "lectures/04_theory.html#lecture-slides",
+    "href": "lectures/04_theory.html#lecture-slides",
+    "title": "A problem in theory?",
+    "section": "Lecture slides",
+    "text": "Lecture slides\n\nView Slides (opens in new tab)\nDownload Slides PDF"
+  },
+  {
+    "objectID": "lectures/04_theory.html#discussion-paper",
+    "href": "lectures/04_theory.html#discussion-paper",
+    "title": "A problem in theory?",
+    "section": "Discussion paper",
+    "text": "Discussion paper\nScheel et al., 2021"
   },
   {
     "objectID": "lectures/index.html",
@@ -224,6 +287,496 @@
     "text": "Discussion material\n\nHere are some accessible (i.e., non-technical) blog posts that cover the main themes in the course.\nRead these to kick-start a discussion in your group.\n\n\n\n\n\nCrisis and reform\nSocial neuroscience\nNeurodiversity\n\n\n\n\n\n\n\n\nETH Zürich | 376-1309-00 | The Social Brain"
   },
   {
+    "objectID": "lectures/slides/week2/02_crisis_slides.html#today",
+    "href": "lectures/slides/week2/02_crisis_slides.html#today",
+    "title": "Is psychological science in a crisis?",
+    "section": "Today",
+    "text": "Today\n\n\n\nPart 1\n\nIs psychological science in a crisis?\n\n\nPart 2\n\nRead articles and discuss"
+  },
+  {
+    "objectID": "lectures/slides/week2/02_crisis_slides.html#what-is-science",
+    "href": "lectures/slides/week2/02_crisis_slides.html#what-is-science",
+    "title": "Is psychological science in a crisis?",
+    "section": "What is science?",
+    "text": "What is science?\n\n\nScience\n\nNot science"
+  },
+  {
+    "objectID": "lectures/slides/week2/02_crisis_slides.html#estimating-reproducibility",
+    "href": "lectures/slides/week2/02_crisis_slides.html#estimating-reproducibility",
+    "title": "Is psychological science in a crisis?",
+    "section": "Estimating reproducibility",
+    "text": "Estimating reproducibility\n\n\n\n\n\n\n\nAttempted to replicate 100 experiments from 3 leading Psychology journals.\ncontacted original authors for materials and hypotheses.\npre-registered analysis plans.\nhigh power designs (e.g., much larger samples than the originals).\n\n\n\n\n\n(Open Science Collaboration, 2015)"
+  },
+  {
+    "objectID": "lectures/slides/week2/02_crisis_slides.html#estimating-reproducibility-1",
+    "href": "lectures/slides/week2/02_crisis_slides.html#estimating-reproducibility-1",
+    "title": "Is psychological science in a crisis?",
+    "section": "Estimating reproducibility",
+    "text": "Estimating reproducibility\n\n\n\n\n(Open Science Collaboration, 2015)"
+  },
+  {
+    "objectID": "lectures/slides/week2/02_crisis_slides.html#estimating-reproducibility-2",
+    "href": "lectures/slides/week2/02_crisis_slides.html#estimating-reproducibility-2",
+    "title": "Is psychological science in a crisis?",
+    "section": "Estimating reproducibility",
+    "text": "Estimating reproducibility\n\n\n\n\n\n  \n\n\n\n\n(Open Science Collaboration, 2015)"
+  },
+  {
+    "objectID": "lectures/slides/week2/02_crisis_slides.html#deadly-sins-of-psychology-1",
+    "href": "lectures/slides/week2/02_crisis_slides.html#deadly-sins-of-psychology-1",
+    "title": "Is psychological science in a crisis?",
+    "section": "7 Deadly Sins of Psychology",
+    "text": "7 Deadly Sins of Psychology\n\n\n\nBias\nHidden Flexibility\nUnreliability\nData Hoarding\nCorruptibility\nInternment\nBean Counting"
+  },
+  {
+    "objectID": "lectures/slides/week2/02_crisis_slides.html#bias",
+    "href": "lectures/slides/week2/02_crisis_slides.html#bias",
+    "title": "Is psychological science in a crisis?",
+    "section": "Bias",
+    "text": "Bias\n\n\n\n\n\n\n\nThe human understanding when it has once adopted an opinion … draws all else to support and agree with it.\n\nFrancis Bacon, 1620"
+  },
+  {
+    "objectID": "lectures/slides/week2/02_crisis_slides.html#bias-1",
+    "href": "lectures/slides/week2/02_crisis_slides.html#bias-1",
+    "title": "Is psychological science in a crisis?",
+    "section": "Bias",
+    "text": "Bias\n\nPositive and new trumps the negative but true (“A beautiful story undone by an ugly truth”)\nAn extreme version: Daryl Bem and “precognition” – 2011.\n\n\n\n\n\n\n\n\n\n\n\n\n\n(Bem, 2011)"
+  },
+  {
+    "objectID": "lectures/slides/week2/02_crisis_slides.html#bias-2",
+    "href": "lectures/slides/week2/02_crisis_slides.html#bias-2",
+    "title": "Is psychological science in a crisis?",
+    "section": "Bias",
+    "text": "Bias\n\n\nPublication bias (or the “file-drawer effect”).\nStudies that fail to show a statistically significant effects, or that reproduce the work of others, have such low priority that they are effectively censored from the scientific record.\nThey either end up in the file-drawer or never get conducted in the first place."
+  },
+  {
+    "objectID": "lectures/slides/week2/02_crisis_slides.html#bias-3",
+    "href": "lectures/slides/week2/02_crisis_slides.html#bias-3",
+    "title": "Is psychological science in a crisis?",
+    "section": "Bias",
+    "text": "Bias\n\nPublication bias (or the “file-drawer effect”)."
+  },
+  {
+    "objectID": "lectures/slides/week2/02_crisis_slides.html#bias-4",
+    "href": "lectures/slides/week2/02_crisis_slides.html#bias-4",
+    "title": "Is psychological science in a crisis?",
+    "section": "Bias",
+    "text": "Bias\n\nConfirmation bias - we see what we expect and only check when there are deviations\nThe scientific literature is dominated by results that confirm hypotheses, rather than fail to confirm.\nAn arms-race has started to show new and “sexy” results, which confirm hypotheses, but ultimately bias the published literature."
+  },
+  {
+    "objectID": "lectures/slides/week2/02_crisis_slides.html#bias-5",
+    "href": "lectures/slides/week2/02_crisis_slides.html#bias-5",
+    "title": "Is psychological science in a crisis?",
+    "section": "Bias",
+    "text": "Bias\n\n\n\n\nHindsight bias\nHARKing (Hypothesising After the Results are Known)"
+  },
+  {
+    "objectID": "lectures/slides/week2/02_crisis_slides.html#hidden-flexibility",
+    "href": "lectures/slides/week2/02_crisis_slides.html#hidden-flexibility",
+    "title": "Is psychological science in a crisis?",
+    "section": "Hidden Flexibility",
+    "text": "Hidden Flexibility\n\n\n\n\n\n\n\nTorture numbers and they will confess to anything.\n\nGregg Easterbrook, 1999"
+  },
+  {
+    "objectID": "lectures/slides/week2/02_crisis_slides.html#hidden-flexibility-1",
+    "href": "lectures/slides/week2/02_crisis_slides.html#hidden-flexibility-1",
+    "title": "Is psychological science in a crisis?",
+    "section": "Hidden Flexibility",
+    "text": "Hidden Flexibility\n\n\n\n\n\n\n\n\n\n\n\n\n\n(Simmons et al., 2011)"
+  },
+  {
+    "objectID": "lectures/slides/week2/02_crisis_slides.html#hidden-flexibility-2",
+    "href": "lectures/slides/week2/02_crisis_slides.html#hidden-flexibility-2",
+    "title": "Is psychological science in a crisis?",
+    "section": "Hidden Flexibility",
+    "text": "Hidden Flexibility\n\np-hacking\nPeculiar patterns of p\nGhost hunting (or lack of high-quality replication)\nBiased debugging\n\nIf the results turn out as expected, do no further checks. If the results are a surprise, then check the code for bugs."
+  },
+  {
+    "objectID": "lectures/slides/week2/02_crisis_slides.html#unreliability",
+    "href": "lectures/slides/week2/02_crisis_slides.html#unreliability",
+    "title": "Is psychological science in a crisis?",
+    "section": "Unreliability",
+    "text": "Unreliability\n\n\n\n\n\n\n\nAnd it’s this type of integrity, this kind of care not to fool yourself, that is missing to a large extent in much of the research in cargo cult science.\n\nRichard Feynman, 1974"
+  },
+  {
+    "objectID": "lectures/slides/week2/02_crisis_slides.html#unreliability-1",
+    "href": "lectures/slides/week2/02_crisis_slides.html#unreliability-1",
+    "title": "Is psychological science in a crisis?",
+    "section": "Unreliability",
+    "text": "Unreliability\n\nWas Einstein wrong?\n\nParticles break light-speed limit … September 2011\n\n\n\n\n\nAnswer…. No.\nBy June 2012, three independent teams had failed to replicate the original result. Neutrinos intheir experiments travelled at approximately the speed of light.\nOne month later, the original team reported that their findings were caused by a loose fibre-optic cable!!\nBut this is just what should happen in a good scientific environment, where human error will certainly happen."
+  },
+  {
+    "objectID": "lectures/slides/week2/02_crisis_slides.html#unreliability-2",
+    "href": "lectures/slides/week2/02_crisis_slides.html#unreliability-2",
+    "title": "Is psychological science in a crisis?",
+    "section": "Unreliability",
+    "text": "Unreliability\n\nSources:\n\ndisregard of direct replication\nlack of power\nfailure to disclose methods\nstatistical fallacies\nfailure to retract"
+  },
+  {
+    "objectID": "lectures/slides/week2/02_crisis_slides.html#data-hoarding",
+    "href": "lectures/slides/week2/02_crisis_slides.html#data-hoarding",
+    "title": "Is psychological science in a crisis?",
+    "section": "Data hoarding",
+    "text": "Data hoarding\n\n\n\n\n\n\n\nCode and data or it didn’t happen.\n\nAnon."
+  },
+  {
+    "objectID": "lectures/slides/week2/02_crisis_slides.html#data-hoarding-1",
+    "href": "lectures/slides/week2/02_crisis_slides.html#data-hoarding-1",
+    "title": "Is psychological science in a crisis?",
+    "section": "Data hoarding",
+    "text": "Data hoarding\n\n\nA story from my first paper submission (many years ago…).\nFailure to share\nSecret sharing\nFailure to share hides misconduct"
+  },
+  {
+    "objectID": "lectures/slides/week2/02_crisis_slides.html#corruptibility",
+    "href": "lectures/slides/week2/02_crisis_slides.html#corruptibility",
+    "title": "Is psychological science in a crisis?",
+    "section": "Corruptibility",
+    "text": "Corruptibility\n\n\n\n\n\n\n\nI was doing fine, but then I became impatient, overambitious, reckless.\n\nDiederik Stapel, 2012"
+  },
+  {
+    "objectID": "lectures/slides/week2/02_crisis_slides.html#corruptibility-1",
+    "href": "lectures/slides/week2/02_crisis_slides.html#corruptibility-1",
+    "title": "Is psychological science in a crisis?",
+    "section": "Corruptibility",
+    "text": "Corruptibility\n\n\n\n\nFraud examples\nhttps://www.nytimes.com/2013/04/28/magazine/diederik-stapels-audacious-academic-fraud.html\n58 retracted papers\nMost (or all) for data fabrication\nhttps://retractionwatch.com"
+  },
+  {
+    "objectID": "lectures/slides/week2/02_crisis_slides.html#corruptibility-2",
+    "href": "lectures/slides/week2/02_crisis_slides.html#corruptibility-2",
+    "title": "Is psychological science in a crisis?",
+    "section": "Corruptibility",
+    "text": "Corruptibility\n\n\n\n\nScience Fictions is another entertaining read\nIt emphasizes that Fraud, Bias, Hype and Questionable Research Practices are not restricted to Psychological research.\nIn fact, it is common in medical research and the drivers are largely the same\nThis might be surprising given the consequences of medical research"
+  },
+  {
+    "objectID": "lectures/slides/week2/02_crisis_slides.html#internment",
+    "href": "lectures/slides/week2/02_crisis_slides.html#internment",
+    "title": "Is psychological science in a crisis?",
+    "section": "Internment",
+    "text": "Internment\n\n\n\n\n\n\n\nPublish means “make public.”\n\nMike Taylor, 2012"
+  },
+  {
+    "objectID": "lectures/slides/week2/02_crisis_slides.html#internment-1",
+    "href": "lectures/slides/week2/02_crisis_slides.html#internment-1",
+    "title": "Is psychological science in a crisis?",
+    "section": "Internment",
+    "text": "Internment\n\nNot only are data not publicly avaiable (as we discussed earlier), but the article and conclusions are normally kept behind a paywall.\nThis is morally questionable, given that the vast majority of research across the world is funded by the public via taxes.\nUniveristy libraries tend to have access via a subscription (so academics can read papers), but the general public do not."
+  },
+  {
+    "objectID": "lectures/slides/week2/02_crisis_slides.html#internment-2",
+    "href": "lectures/slides/week2/02_crisis_slides.html#internment-2",
+    "title": "Is psychological science in a crisis?",
+    "section": "Internment",
+    "text": "Internment\n\n\nWhy do Psychologists support barrier-based publishing?\n\nPrestige associated with barrier-based journals\nIncentives to publish in key journals for career progression\nThere was no real alternative (historically)"
+  },
+  {
+    "objectID": "lectures/slides/week2/02_crisis_slides.html#bean-counting",
+    "href": "lectures/slides/week2/02_crisis_slides.html#bean-counting",
+    "title": "Is psychological science in a crisis?",
+    "section": "Bean counting",
+    "text": "Bean counting\n\n\n\n\n\n\n\nNot everything that counts can be counted, and not everything that can be counted counts.\n\nGregg Easterbrook, 1999"
+  },
+  {
+    "objectID": "lectures/slides/week2/02_crisis_slides.html#bean-counting-1",
+    "href": "lectures/slides/week2/02_crisis_slides.html#bean-counting-1",
+    "title": "Is psychological science in a crisis?",
+    "section": "Bean counting",
+    "text": "Bean counting\n\nCan science measure itself?\n\nMetrics are used to measure the “quality” of science and scientists e.g., impact factor of a journal, grant capture, number of papers published, author position, number of citations.\nSo folks shoot for these by trying to game the system in anyway they can, which tends to encourage poor research rather than better research.\nGoodhart’s law: when a measure becomes a target, it ceases to be a good measure."
+  },
+  {
+    "objectID": "lectures/slides/week2/02_crisis_slides.html#where-are-we-now",
+    "href": "lectures/slides/week2/02_crisis_slides.html#where-are-we-now",
+    "title": "Is psychological science in a crisis?",
+    "section": "Where are we now?",
+    "text": "Where are we now?\n\n\n\n\n\n\n(Munaf‘o et al., 2017 online 10)"
+  },
+  {
+    "objectID": "lectures/slides/week2/02_crisis_slides.html#is-psychological-science-in-a-crisis-1",
+    "href": "lectures/slides/week2/02_crisis_slides.html#is-psychological-science-in-a-crisis-1",
+    "title": "Is psychological science in a crisis?",
+    "section": "Is psychological science in a crisis?",
+    "text": "Is psychological science in a crisis?\nWhat do you think?\n\n\n\n\n[Photo: Getty]"
+  },
+  {
+    "objectID": "lectures/slides/week2/02_crisis_slides.html#redemption",
+    "href": "lectures/slides/week2/02_crisis_slides.html#redemption",
+    "title": "Is psychological science in a crisis?",
+    "section": "Redemption",
+    "text": "Redemption\n\n\n\n\n\n\n\nThe method of science, as stodgy and grumpy as it may seem, is far more important than the findings of science.\n\nCarl Sagan, 1995\n\nNote: This is a prelude to next week"
+  },
+  {
+    "objectID": "lectures/slides/week2/02_crisis_slides.html#today-1",
+    "href": "lectures/slides/week2/02_crisis_slides.html#today-1",
+    "title": "Is psychological science in a crisis?",
+    "section": "Today",
+    "text": "Today\n\n\n\nPart 1\n\nIs Psychological science in a crisis?\n\n\nPart 2\n\nRead articles and discuss"
+  },
+  {
+    "objectID": "lectures/slides/week2/02_crisis_slides.html#discussion-material",
+    "href": "lectures/slides/week2/02_crisis_slides.html#discussion-material",
+    "title": "Is psychological science in a crisis?",
+    "section": "Discussion material",
+    "text": "Discussion material\n\n\nbreak into small groups (~ 5 per group)\ndiscuss aspects of the lecture – 7 deadly sins\ndiscuss aspects of the journal article: https://www.science.org/doi/full/10.1126/science.aac4716\ncan you think of any solutions?"
+  },
+  {
+    "objectID": "lectures/slides/week2/02_crisis_slides.html#references",
+    "href": "lectures/slides/week2/02_crisis_slides.html#references",
+    "title": "Is psychological science in a crisis?",
+    "section": "References",
+    "text": "References\n\n\nBem, D. J. (2011). Feeling the future: Experimental evidence for anomalous retroactive influences on cognition and affect. Journal of Personality and Social Psychology, 100(3), 407–425. https://doi.org/10.1037/a0021524\n\n\nMunaf‘o, M. R., Nosek, B. A., Bishop, D. V. M., Button, K. S., Chambers, C. D., Percie du Sert, N., Simonsohn, U., Wagenmakers, E.-J., Ware, J. J., & Ioannidis, J. P. A. (2017 online 10). A manifesto for reproducible science. Nature Human Behaviour, 1, 0021. https://doi.org/10.1038/s41562-016-0021\n\n\nOpen Science Collaboration. (2015). Estimating the reproducibility of psychological science. Science, 349(6251). https://doi.org/10.1126/science.aac4716\n\n\nSimmons, J. P., Nelson, L. D., & Simonsohn, U. (2011). False-Positive Psychology: Undisclosed Flexibility in Data Collection and Analysis Allows Presenting Anything as Significant. Psychological Science, 22(11), 1359–1366. https://doi.org/10.1177/0956797611417632\n\n\n\n\n\nETH Zürich | 376-1309-00 | The Social Brain"
+  },
+  {
+    "objectID": "lectures/slides/week3/03_reform_slides.html#today",
+    "href": "lectures/slides/week3/03_reform_slides.html#today",
+    "title": "Lecture 3 - The reform movement in psychological science",
+    "section": "Today",
+    "text": "Today\n\n\n\nPart 1\n\nThe reform movement in psychological science\n\n\nPart 2\n\nRead articles and discuss"
+  },
+  {
+    "objectID": "lectures/slides/week3/03_reform_slides.html#where-are-we-now",
+    "href": "lectures/slides/week3/03_reform_slides.html#where-are-we-now",
+    "title": "Lecture 3 - The reform movement in psychological science",
+    "section": "Where are we now?",
+    "text": "Where are we now?\n\n\n\n\n\n\n(Munafò et al., 2017)"
+  },
+  {
+    "objectID": "lectures/slides/week3/03_reform_slides.html#is-psychological-science-in-a-crisis",
+    "href": "lectures/slides/week3/03_reform_slides.html#is-psychological-science-in-a-crisis",
+    "title": "Lecture 3 - The reform movement in psychological science",
+    "section": "Is psychological science in a crisis?",
+    "text": "Is psychological science in a crisis?\n\n\n\n\n\n\n\n\n\n\nCrisis implies we are at a loss for solutions, when in fact we have identified many ways to improve science’s credibility\n\nSimine Vazire (2018)"
+  },
+  {
+    "objectID": "lectures/slides/week3/03_reform_slides.html#what-is-the-reform-movement-1",
+    "href": "lectures/slides/week3/03_reform_slides.html#what-is-the-reform-movement-1",
+    "title": "Lecture 3 - The reform movement in psychological science",
+    "section": "What is the reform movement?",
+    "text": "What is the reform movement?\n\nAt a broad level, it is a response to the replication crisis, which involves a group of academics and organisations that aim to improve the quality of psychological science. There are too many to mention, so I’ll just outline one to give you the general idea.\nSociety for the Improvement of Psychological Science (SIPS) https://improvingpsych.org/"
+  },
+  {
+    "objectID": "lectures/slides/week3/03_reform_slides.html#sips",
+    "href": "lectures/slides/week3/03_reform_slides.html#sips",
+    "title": "Lecture 3 - The reform movement in psychological science",
+    "section": "SIPS",
+    "text": "SIPS"
+  },
+  {
+    "objectID": "lectures/slides/week3/03_reform_slides.html#redemption",
+    "href": "lectures/slides/week3/03_reform_slides.html#redemption",
+    "title": "Lecture 3 - The reform movement in psychological science",
+    "section": "Redemption",
+    "text": "Redemption\n\n\n\n\n\n\n\nThe method of science, as stodgy and grumpy as it may seem, is far more important than the findings of science.\n\nCarl Sagan, 1995\n\n\n\n(Chambers, 2017)"
+  },
+  {
+    "objectID": "lectures/slides/week3/03_reform_slides.html#redemption-1",
+    "href": "lectures/slides/week3/03_reform_slides.html#redemption-1",
+    "title": "Lecture 3 - The reform movement in psychological science",
+    "section": "Redemption",
+    "text": "Redemption\nSolving the Sins of…\n\nBias and Hidden Flexibility\nUnreliability\nData Hoarding\nCorruptibility\nInternment\nBean Counting"
+  },
+  {
+    "objectID": "lectures/slides/week3/03_reform_slides.html#solving-the-sins-of-bias-and-hidden-flexibility",
+    "href": "lectures/slides/week3/03_reform_slides.html#solving-the-sins-of-bias-and-hidden-flexibility",
+    "title": "Lecture 3 - The reform movement in psychological science",
+    "section": "Solving the Sins of Bias and Hidden Flexibility",
+    "text": "Solving the Sins of Bias and Hidden Flexibility\n\nBiases:\n\nconfirmation bias\npublication bias\nhindsight bias\n\nHidden flexibility: p-hacking until something turns up\nSolution: pre-registration and Registered Reports."
+  },
+  {
+    "objectID": "lectures/slides/week3/03_reform_slides.html#solving-bias-and-hidden-flexibility",
+    "href": "lectures/slides/week3/03_reform_slides.html#solving-bias-and-hidden-flexibility",
+    "title": "Lecture 3 - The reform movement in psychological science",
+    "section": "Solving Bias and Hidden Flexibility",
+    "text": "Solving Bias and Hidden Flexibility\nNormal publishing cycle:\n\nDo all the work first (plan, data collection, analysis, write-up) and THEN submit to a journal\n\n\n\n\n\n\n\nOpen Science Framework"
+  },
+  {
+    "objectID": "lectures/slides/week3/03_reform_slides.html#solving-bias-and-hidden-flexibility-1",
+    "href": "lectures/slides/week3/03_reform_slides.html#solving-bias-and-hidden-flexibility-1",
+    "title": "Lecture 3 - The reform movement in psychological science",
+    "section": "Solving Bias and Hidden Flexibility",
+    "text": "Solving Bias and Hidden Flexibility\nPre-registration is different:\n\nYou first write down and publish in a time-stamped manner EXACTLY what you are going to do. Then you do it.\n\n\n\n\n\n\n\nOpen Science Framework"
+  },
+  {
+    "objectID": "lectures/slides/week3/03_reform_slides.html#solving-bias-and-hidden-flexibility-2",
+    "href": "lectures/slides/week3/03_reform_slides.html#solving-bias-and-hidden-flexibility-2",
+    "title": "Lecture 3 - The reform movement in psychological science",
+    "section": "Solving Bias and Hidden Flexibility",
+    "text": "Solving Bias and Hidden Flexibility\n\n\nAn example of pre-registration from my lab https://aspredicted.org/uh5m5.pdf\nAnd the subsequently published paper."
+  },
+  {
+    "objectID": "lectures/slides/week3/03_reform_slides.html#solving-bias-and-hidden-flexibility-3",
+    "href": "lectures/slides/week3/03_reform_slides.html#solving-bias-and-hidden-flexibility-3",
+    "title": "Lecture 3 - The reform movement in psychological science",
+    "section": "Solving Bias and Hidden Flexibility",
+    "text": "Solving Bias and Hidden Flexibility\n\n\n\n\nPre-registration \n\n\n\n\n\nPre-print"
+  },
+  {
+    "objectID": "lectures/slides/week3/03_reform_slides.html#solving-bias-and-hidden-flexibility-4",
+    "href": "lectures/slides/week3/03_reform_slides.html#solving-bias-and-hidden-flexibility-4",
+    "title": "Lecture 3 - The reform movement in psychological science",
+    "section": "Solving Bias and Hidden Flexibility",
+    "text": "Solving Bias and Hidden Flexibility\nRegistered Reports are even better:\n\n\n\n\n\n\nOpen Science Framework"
+  },
+  {
+    "objectID": "lectures/slides/week3/03_reform_slides.html#solving-bias-and-hidden-flexibility-5",
+    "href": "lectures/slides/week3/03_reform_slides.html#solving-bias-and-hidden-flexibility-5",
+    "title": "Lecture 3 - The reform movement in psychological science",
+    "section": "Solving Bias and Hidden Flexibility",
+    "text": "Solving Bias and Hidden Flexibility\nStage 1 Review:\n\nThe significance of the research questions\nThe logic, rationale, plausibility of the proposed hypotheses.\nThe soundness and feasibility of the methodology and analaysis pipeline (including statistical power analysis).\nWhether clarity and degree of methodological detail would be sufficient to replicate exactly the proposed experimental procedures and analysis pipeline.\nWhether the authors provide a sufficiently clear and detailed description of the methods to prevent undisclosed flexibility in the experimental procedures or analysis pipeline.\nWhether the authors have considered sufficient outcome-neutral conditions (e.g., absence of floor or ceiling effects; positive controls) for ensuring that the results are able to test the stated hypotheses."
+  },
+  {
+    "objectID": "lectures/slides/week3/03_reform_slides.html#solving-bias-and-hidden-flexibility-6",
+    "href": "lectures/slides/week3/03_reform_slides.html#solving-bias-and-hidden-flexibility-6",
+    "title": "Lecture 3 - The reform movement in psychological science",
+    "section": "Solving Bias and Hidden Flexibility",
+    "text": "Solving Bias and Hidden Flexibility\nStage 2 Review:\n\nWhether the data are able to test the authors’ proposed hypotheses by passing the approved outcome-neutral criteria (such as absence of floor or ceiling effects).\nWhether the introduction, rationale and stated hypotheses are the same as the approved Stage 1 submission (required).\nWhether the authors adhered precisely to the registered experimental procedures\nWhether any unregistered post hoc analyses added by the authors are justified, methodologically sound, and informative.\nWhether the authors’ conclusions are justified given the data"
+  },
+  {
+    "objectID": "lectures/slides/week3/03_reform_slides.html#solving-the-sin-of-unreliability",
+    "href": "lectures/slides/week3/03_reform_slides.html#solving-the-sin-of-unreliability",
+    "title": "Lecture 3 - The reform movement in psychological science",
+    "section": "Solving the Sin of Unreliability",
+    "text": "Solving the Sin of Unreliability\nUnreliability: lack of replication, lack of power, vague and nonreplicable methods, misuse of statistics, failure to retract papers.\nSolutions:\n\nRegistered Reports\nReproducibility Index\nPottery Barn rule by journals and funders\nRegular multi-centre replication initiatives"
+  },
+  {
+    "objectID": "lectures/slides/week3/03_reform_slides.html#solving-the-sin-of-data-hoarding",
+    "href": "lectures/slides/week3/03_reform_slides.html#solving-the-sin-of-data-hoarding",
+    "title": "Lecture 3 - The reform movement in psychological science",
+    "section": "Solving the Sin of Data Hoarding",
+    "text": "Solving the Sin of Data Hoarding\nData hoarding: a widespread lack of data sharing\nSolutions:\n\nPeer Reviewers’ Openness (PRO) initiative (https://www.opennessinitiative.org/)\nTransparency and Openness Promotion (TOP) guidelines (https://www.cos.io/initiatives/top-guidelines)\nCentre for Open Science is a very useful platform (https://youtu.be/9YuNGB3vNOw)\nGit and GitHub (and other version control systems and code repositories)"
+  },
+  {
+    "objectID": "lectures/slides/week3/03_reform_slides.html#top-guidelines",
+    "href": "lectures/slides/week3/03_reform_slides.html#top-guidelines",
+    "title": "Lecture 3 - The reform movement in psychological science",
+    "section": "TOP guidelines",
+    "text": "TOP guidelines"
+  },
+  {
+    "objectID": "lectures/slides/week3/03_reform_slides.html#solving-the-sin-of-data-hoarding-1",
+    "href": "lectures/slides/week3/03_reform_slides.html#solving-the-sin-of-data-hoarding-1",
+    "title": "Lecture 3 - The reform movement in psychological science",
+    "section": "Solving the Sin of Data Hoarding",
+    "text": "Solving the Sin of Data Hoarding\nOpen Science Framework"
+  },
+  {
+    "objectID": "lectures/slides/week3/03_reform_slides.html#solving-the-sin-of-data-hoarding-2",
+    "href": "lectures/slides/week3/03_reform_slides.html#solving-the-sin-of-data-hoarding-2",
+    "title": "Lecture 3 - The reform movement in psychological science",
+    "section": "Solving the Sin of Data Hoarding",
+    "text": "Solving the Sin of Data Hoarding\nOpen Science Framework"
+  },
+  {
+    "objectID": "lectures/slides/week3/03_reform_slides.html#solving-the-sin-of-data-hoarding-3",
+    "href": "lectures/slides/week3/03_reform_slides.html#solving-the-sin-of-data-hoarding-3",
+    "title": "Lecture 3 - The reform movement in psychological science",
+    "section": "Solving the Sin of Data Hoarding",
+    "text": "Solving the Sin of Data Hoarding\nGit and GitHub"
+  },
+  {
+    "objectID": "lectures/slides/week3/03_reform_slides.html#solving-the-sin-of-corruptibility",
+    "href": "lectures/slides/week3/03_reform_slides.html#solving-the-sin-of-corruptibility",
+    "title": "Lecture 3 - The reform movement in psychological science",
+    "section": "Solving the Sin of Corruptibility",
+    "text": "Solving the Sin of Corruptibility\nFraud\nSolutions:\n\nRequired data and code sharing\nData audits and “data detectives”\nProfiling researchers (not sure about this one!)\nCriminalisation of academic fraud\nProtection and support of whistle-blowers"
+  },
+  {
+    "objectID": "lectures/slides/week3/03_reform_slides.html#solving-the-sin-of-corruptibility-1",
+    "href": "lectures/slides/week3/03_reform_slides.html#solving-the-sin-of-corruptibility-1",
+    "title": "Lecture 3 - The reform movement in psychological science",
+    "section": "Solving the Sin of Corruptibility",
+    "text": "Solving the Sin of Corruptibility\nA recent example\n\n\n\n\n\n\n[Wall Street Journal]"
+  },
+  {
+    "objectID": "lectures/slides/week3/03_reform_slides.html#solving-the-sin-of-corruptibility-2",
+    "href": "lectures/slides/week3/03_reform_slides.html#solving-the-sin-of-corruptibility-2",
+    "title": "Lecture 3 - The reform movement in psychological science",
+    "section": "Solving the Sin of Corruptibility",
+    "text": "Solving the Sin of Corruptibility\nA recent example"
+  },
+  {
+    "objectID": "lectures/slides/week3/03_reform_slides.html#solving-the-sin-of-internment",
+    "href": "lectures/slides/week3/03_reform_slides.html#solving-the-sin-of-internment",
+    "title": "Lecture 3 - The reform movement in psychological science",
+    "section": "Solving the Sin of Internment",
+    "text": "Solving the Sin of Internment\nInternment: research is “published” behind paywalls making it inaccessible to the public.\nSolutions:\n\nOpen Access (OA) publishing by governments and funders\nAlternative publishing models (that side-step traditional journals) and which may be run by university libraries.\nDorothy Bishop writing in the Guardian newspaper"
+  },
+  {
+    "objectID": "lectures/slides/week3/03_reform_slides.html#solving-the-sin-of-bean-counting",
+    "href": "lectures/slides/week3/03_reform_slides.html#solving-the-sin-of-bean-counting",
+    "title": "Lecture 3 - The reform movement in psychological science",
+    "section": "Solving the Sin of Bean Counting",
+    "text": "Solving the Sin of Bean Counting\nBean counting: an obsession with superficial metrics to evaluate science and scientists\nSolutions:\n\nFormal CRediT system (rather than opague authorship order). https://credit.niso.org/\nMore generally, new hiring and promotion guidelines are BADLY needed"
+  },
+  {
+    "objectID": "lectures/slides/week3/03_reform_slides.html#solutions-that-my-lab-has-been-trying",
+    "href": "lectures/slides/week3/03_reform_slides.html#solutions-that-my-lab-has-been-trying",
+    "title": "Lecture 3 - The reform movement in psychological science",
+    "section": "Solutions that my lab has been trying",
+    "text": "Solutions that my lab has been trying\n\nSee my blog post on open science here."
+  },
+  {
+    "objectID": "lectures/slides/week3/03_reform_slides.html#a-list-of-resources",
+    "href": "lectures/slides/week3/03_reform_slides.html#a-list-of-resources",
+    "title": "Lecture 3 - The reform movement in psychological science",
+    "section": "A list of resources",
+    "text": "A list of resources\n\nUseful resources can be found here."
+  },
+  {
+    "objectID": "lectures/slides/week3/03_reform_slides.html#we-need-saving-from-ourselves",
+    "href": "lectures/slides/week3/03_reform_slides.html#we-need-saving-from-ourselves",
+    "title": "Lecture 3 - The reform movement in psychological science",
+    "section": "We need saving from ourselves",
+    "text": "We need saving from ourselves\n\n\n\n\n\n\nThe first principle is that you must not fool yourself - and you are the easiest person to fool\n\nRichard Feynman (1974)\n\n\n\n\n\nEach belt, shackle and guard may represent:\n\nPre-registration.\nStatistical power and sample size.\nReplication.\nMeta-analysis.\nOpen data, materials and code.\nPre-prints.\nMaking more modest claims."
+  },
+  {
+    "objectID": "lectures/slides/week3/03_reform_slides.html#scientific-reform-is-difficult",
+    "href": "lectures/slides/week3/03_reform_slides.html#scientific-reform-is-difficult",
+    "title": "Lecture 3 - The reform movement in psychological science",
+    "section": "Scientific reform is difficult",
+    "text": "Scientific reform is difficult\n\n\n\n\nIt is overwhelming\n\n\n\n\n\n\nChanging behaviour is hard"
+  },
+  {
+    "objectID": "lectures/slides/week3/03_reform_slides.html#discussion-material",
+    "href": "lectures/slides/week3/03_reform_slides.html#discussion-material",
+    "title": "Lecture 3 - The reform movement in psychological science",
+    "section": "Discussion material",
+    "text": "Discussion material\n\n\nbreak into small groups (~ 5 per group)\ndiscuss aspects of the lecture: – which solutions do you consider to be most important and why?\ndiscuss aspects of the journal article: https://www.nature.com/articles/s41562-016-0021\n\ncan you think of any other solutions?\nare there any barriers to widespread uptake?"
+  },
+  {
+    "objectID": "lectures/slides/week3/03_reform_slides.html#references",
+    "href": "lectures/slides/week3/03_reform_slides.html#references",
+    "title": "Lecture 3 - The reform movement in psychological science",
+    "section": "References",
+    "text": "References\n\n\nChambers, C. D. (2017). The Seven Deadly Sins of Psychology: A Manifesto for Reforming the Culture of Scientific Practice. Princeton University Press.\n\n\nFeynman, R. P. (1974). Cargo Cult Science. Engineering and Science, 37(7), 10–13.\n\n\nMunafò, M. R., Nosek, B. A., Bishop, D. V. M., Button, K. S., Chambers, C. D., Percie du Sert, N., Simonsohn, U., Wagenmakers, E.-J., Ware, J. J., & Ioannidis, J. P. A. (2017). A manifesto for reproducible science. Nature Human Behaviour, 1, 0021. https://doi.org/10.1038/s41562-016-0021\n\n\nVazire, S. (2018). Implications of the Credibility Revolution for Productivity, Creativity, and Progress. Perspectives on Psychological Science, 13(4), 411–417. https://doi.org/10.1177/1745691617751884\n\n\n\n\n\nETH Zürich | 376-1309-00 | The Social Brain"
+  },
+  {
+    "objectID": "lectures/slides/week4/04_theory_slides.html#today",
+    "href": "lectures/slides/week4/04_theory_slides.html#today",
+    "title": "Lecture 4 - A problem in theory?",
+    "section": "Today",
+    "text": "Today\n\n\n\nPart 1\n\nA problem in theory?\n\n\nPart 2\n\nRead articles and discuss"
+  },
+  {
+    "objectID": "lectures/slides/week4/04_theory_slides.html#today-1",
+    "href": "lectures/slides/week4/04_theory_slides.html#today-1",
+    "title": "Lecture 4 - A problem in theory?",
+    "section": "Today",
+    "text": "Today\n\n\n\nPart 1\n\nA problem in theory?\n\n\nPart 2\n\nRead articles and discuss"
+  },
+  {
+    "objectID": "lectures/slides/week4/04_theory_slides.html#discussion-material",
+    "href": "lectures/slides/week4/04_theory_slides.html#discussion-material",
+    "title": "Lecture 4 - A problem in theory?",
+    "section": "Discussion material",
+    "text": "Discussion material\n\n\nbreak into small groups (~ 5 per group)\ndiscuss aspects of the lecture\ndiscuss aspects of the journal article: https://journals.sagepub.com/doi/full/10.1177/1745691620966795"
+  },
+  {
+    "objectID": "lectures/slides/week4/04_theory_slides.html#references",
+    "href": "lectures/slides/week4/04_theory_slides.html#references",
+    "title": "Lecture 4 - A problem in theory?",
+    "section": "References",
+    "text": "References\n\n\n\n\n\n\nETH Zürich | 376-1309-00 | The Social Brain"
+  },
+  {
     "objectID": "resources.html",
     "href": "resources.html",
     "title": "Resources",
@@ -301,290 +854,10 @@
     "text": "Supporting Materials\n\nLectures\nLecture slides will be posted on Moodle before each lecture.\n\n\nTexts, journal articles and books\nThe course will feature select material from books and journal articles. This material will be available on this website, via Moodle or via ETHZ’s library holdings and subscriptions."
   },
   {
-    "objectID": "lectures/slides/week2/02_crisis_slides.html#today",
-    "href": "lectures/slides/week2/02_crisis_slides.html#today",
-    "title": "Lecture 2 - Is psychological science in a crisis?",
-    "section": "Today",
-    "text": "Today\n\n\n\nPart 1\n\nIs psychological science in a crisis?\n\n\nPart 2\n\nRead articles and discuss"
-  },
-  {
-    "objectID": "lectures/slides/week2/02_crisis_slides.html#what-is-science",
-    "href": "lectures/slides/week2/02_crisis_slides.html#what-is-science",
-    "title": "Lecture 2 - Is psychological science in a crisis?",
-    "section": "What is science?",
-    "text": "What is science?\n\n\nScience\n\nNot science"
-  },
-  {
-    "objectID": "lectures/slides/week2/02_crisis_slides.html#science",
-    "href": "lectures/slides/week2/02_crisis_slides.html#science",
-    "title": "Lecture 2 - Is psychological science in a crisis?",
-    "section": "Science",
-    "text": "Science"
-  },
-  {
-    "objectID": "lectures/slides/week2/02_crisis_slides.html#not-science",
-    "href": "lectures/slides/week2/02_crisis_slides.html#not-science",
-    "title": "Lecture 2 - Is psychological science in a crisis?",
-    "section": "Not science",
-    "text": "Not science"
-  },
-  {
-    "objectID": "lectures/slides/week2/02_crisis_slides.html#estimating-reproducibility",
-    "href": "lectures/slides/week2/02_crisis_slides.html#estimating-reproducibility",
-    "title": "Lecture 2 - Is psychological science in a crisis?",
-    "section": "Estimating reproducibility",
-    "text": "Estimating reproducibility\n\n\n\n\n\n\n\nAttempted to replicate 100 experiments from 3 leading Psychology journals.\ncontacted original authors for materials and hypotheses.\npre-registered analysis plans.\nhigh power designs (e.g., much larger samples than the originals).\n\n\n\n\n\n(Open Science Collaboration, 2015)"
-  },
-  {
-    "objectID": "lectures/slides/week2/02_crisis_slides.html#estimating-reproducibility-1",
-    "href": "lectures/slides/week2/02_crisis_slides.html#estimating-reproducibility-1",
-    "title": "Lecture 2 - Is psychological science in a crisis?",
-    "section": "Estimating reproducibility",
-    "text": "Estimating reproducibility\n\n\n\n\n(Open Science Collaboration, 2015)"
-  },
-  {
-    "objectID": "lectures/slides/week2/02_crisis_slides.html#estimating-reproducibility-2",
-    "href": "lectures/slides/week2/02_crisis_slides.html#estimating-reproducibility-2",
-    "title": "Lecture 2 - Is psychological science in a crisis?",
-    "section": "Estimating reproducibility",
-    "text": "Estimating reproducibility\n\n\n\n\n\n  \n\n\n\n\n(Open Science Collaboration, 2015)"
-  },
-  {
-    "objectID": "lectures/slides/week2/02_crisis_slides.html#deadly-sins-of-psychology-1",
-    "href": "lectures/slides/week2/02_crisis_slides.html#deadly-sins-of-psychology-1",
-    "title": "Lecture 2 - Is psychological science in a crisis?",
-    "section": "7 Deadly Sins of Psychology",
-    "text": "7 Deadly Sins of Psychology\n\n\n\nBias\nHidden Flexibility\nUnreliability\nData Hoarding\nCorruptibility\nInternment\nBean Counting"
-  },
-  {
-    "objectID": "lectures/slides/week2/02_crisis_slides.html#bias",
-    "href": "lectures/slides/week2/02_crisis_slides.html#bias",
-    "title": "Lecture 2 - Is psychological science in a crisis?",
-    "section": "Bias",
-    "text": "Bias\n\n\n\n\n\n\n\nThe human understanding when it has once adopted an opinion … draws all else to support and agree with it.\n\nFrancis Bacon, 1620"
-  },
-  {
-    "objectID": "lectures/slides/week2/02_crisis_slides.html#bias-1",
-    "href": "lectures/slides/week2/02_crisis_slides.html#bias-1",
-    "title": "Lecture 2 - Is psychological science in a crisis?",
-    "section": "Bias",
-    "text": "Bias\n\nPositive and new trumps the negative but true (“A beautiful story undone by an ugly truth”)\nAn extreme version: Daryl Bem and “precognition” – 2011.\n\n\n\n\n\n\n\n\n\n\n\n\n\n(Bem, 2011)"
-  },
-  {
-    "objectID": "lectures/slides/week2/02_crisis_slides.html#bias-2",
-    "href": "lectures/slides/week2/02_crisis_slides.html#bias-2",
-    "title": "Lecture 2 - Is psychological science in a crisis?",
-    "section": "Bias",
-    "text": "Bias\n\n\nPublication bias (or the “file-drawer effect”).\nStudies that fail to show a statistically significant effects, or that reproduce the work of others, have such low priority that they are effectively censored from the scientific record.\nThey either end up in the file-drawer or never get conducted in the first place."
-  },
-  {
-    "objectID": "lectures/slides/week2/02_crisis_slides.html#bias-3",
-    "href": "lectures/slides/week2/02_crisis_slides.html#bias-3",
-    "title": "Lecture 2 - Is psychological science in a crisis?",
-    "section": "Bias",
-    "text": "Bias\n\nPublication bias (or the “file-drawer effect”)."
-  },
-  {
-    "objectID": "lectures/slides/week2/02_crisis_slides.html#bias-4",
-    "href": "lectures/slides/week2/02_crisis_slides.html#bias-4",
-    "title": "Lecture 2 - Is psychological science in a crisis?",
-    "section": "Bias",
-    "text": "Bias\n\nConfirmation bias - we see what we expect and only check when there are deviations\nThe scientific literature is dominated by results that confirm hypotheses, rather than fail to confirm.\nAn arms-race has started to show new and “sexy” results, which confirm hypotheses, but ultimately bias the published literature."
-  },
-  {
-    "objectID": "lectures/slides/week2/02_crisis_slides.html#bias-5",
-    "href": "lectures/slides/week2/02_crisis_slides.html#bias-5",
-    "title": "Lecture 2 - Is psychological science in a crisis?",
-    "section": "Bias",
-    "text": "Bias\n\n\n\n\nHindsight bias\nHARKing (Hypothesising After the Results are Known)"
-  },
-  {
-    "objectID": "lectures/slides/week2/02_crisis_slides.html#hidden-flexibility",
-    "href": "lectures/slides/week2/02_crisis_slides.html#hidden-flexibility",
-    "title": "Lecture 2 - Is psychological science in a crisis?",
-    "section": "Hidden Flexibility",
-    "text": "Hidden Flexibility\n\n\n\n\n\n\n\nTorture numbers and they will confess to anything.\n\nGregg Easterbrook, 1999"
-  },
-  {
-    "objectID": "lectures/slides/week2/02_crisis_slides.html#hidden-flexibility-1",
-    "href": "lectures/slides/week2/02_crisis_slides.html#hidden-flexibility-1",
-    "title": "Lecture 2 - Is psychological science in a crisis?",
-    "section": "Hidden Flexibility",
-    "text": "Hidden Flexibility\n\n\n\n\n\n\n\n\n\n\n\n\n\n(Simmons et al., 2011)"
-  },
-  {
-    "objectID": "lectures/slides/week2/02_crisis_slides.html#hidden-flexibility-2",
-    "href": "lectures/slides/week2/02_crisis_slides.html#hidden-flexibility-2",
-    "title": "Lecture 2 - Is psychological science in a crisis?",
-    "section": "Hidden Flexibility",
-    "text": "Hidden Flexibility\n\np-hacking\nPeculiar patterns of p\nGhost hunting (or lack of high-quality replication)\nBiased debugging\n\nIf the results turn out as expected, do no further checks. If the results are a surprise, then check the code for bugs."
-  },
-  {
-    "objectID": "lectures/slides/week2/02_crisis_slides.html#unreliability",
-    "href": "lectures/slides/week2/02_crisis_slides.html#unreliability",
-    "title": "Lecture 2 - Is psychological science in a crisis?",
-    "section": "Unreliability",
-    "text": "Unreliability\n\n\n\n\n\n\n\nAnd it’s this type of integrity, this kind of care not to fool yourself, that is missing to a large extent in much of the research in cargo cult science.\n\nRichard Feynman, 1974"
-  },
-  {
-    "objectID": "lectures/slides/week2/02_crisis_slides.html#unreliability-1",
-    "href": "lectures/slides/week2/02_crisis_slides.html#unreliability-1",
-    "title": "Lecture 2 - Is psychological science in a crisis?",
-    "section": "Unreliability",
-    "text": "Unreliability\n\nWas Einstein wrong?\n\nParticles break light-speed limit … September 2011\n\n\n\n\n\nAnswer…. No.\nBy June 2012, three independent teams had failed to replicate the original result. Neutrinos intheir experiments travelled at approximately the speed of light.\nOne month later, the original team reported that their findings were caused by a loose fibre-optic cable!!\nBut this is just what should happen in a good scientific environment, where human error will certainly happen."
-  },
-  {
-    "objectID": "lectures/slides/week2/02_crisis_slides.html#unreliability-2",
-    "href": "lectures/slides/week2/02_crisis_slides.html#unreliability-2",
-    "title": "Lecture 2 - Is psychological science in a crisis?",
-    "section": "Unreliability",
-    "text": "Unreliability\n\nSources:\n\ndisregard of direct replication\nlack of power\nfailure to disclose methods\nstatistical fallacies\nfailure to retract"
-  },
-  {
-    "objectID": "lectures/slides/week2/02_crisis_slides.html#data-hoarding",
-    "href": "lectures/slides/week2/02_crisis_slides.html#data-hoarding",
-    "title": "Lecture 2 - Is psychological science in a crisis?",
-    "section": "Data hoarding",
-    "text": "Data hoarding\n\n\n\n\n\n\n\nCode and data or it didn’t happen.\n\nAnon."
-  },
-  {
-    "objectID": "lectures/slides/week2/02_crisis_slides.html#data-hoarding-1",
-    "href": "lectures/slides/week2/02_crisis_slides.html#data-hoarding-1",
-    "title": "Lecture 2 - Is psychological science in a crisis?",
-    "section": "Data hoarding",
-    "text": "Data hoarding\n\n\nA story from my first paper submission (many years ago…).\nFailure to share\nSecret sharing\nFailure to share hides misconduct"
-  },
-  {
-    "objectID": "lectures/slides/week2/02_crisis_slides.html#corruptibility",
-    "href": "lectures/slides/week2/02_crisis_slides.html#corruptibility",
-    "title": "Lecture 2 - Is psychological science in a crisis?",
-    "section": "Corruptibility",
-    "text": "Corruptibility\n\n\n\n\n\n\n\nI was doing fine, but then I became impatient, overambitious, reckless.\n\nDiederik Stapel, 2012"
-  },
-  {
-    "objectID": "lectures/slides/week2/02_crisis_slides.html#corruptibility-1",
-    "href": "lectures/slides/week2/02_crisis_slides.html#corruptibility-1",
-    "title": "Lecture 2 - Is psychological science in a crisis?",
-    "section": "Corruptibility",
-    "text": "Corruptibility\n\n\n\n\nFraud examples\nhttps://www.nytimes.com/2013/04/28/magazine/diederik-stapels-audacious-academic-fraud.html\n58 retracted papers\nMost (or all) for data fabrication\nhttps://retractionwatch.com"
-  },
-  {
-    "objectID": "lectures/slides/week2/02_crisis_slides.html#corruptibility-2",
-    "href": "lectures/slides/week2/02_crisis_slides.html#corruptibility-2",
-    "title": "Lecture 2 - Is psychological science in a crisis?",
-    "section": "Corruptibility",
-    "text": "Corruptibility\n\n\n\n\nScience Fictions is another entertaining read\nIt emphasizes that Fraud, Bias, Hype and Questionable Research Practices are not restricted to Psychological research.\nIn fact, it is common in medical research and the drivers are largely the same\nThis might be surprising given the consequences of medical research"
-  },
-  {
-    "objectID": "lectures/slides/week2/02_crisis_slides.html#internment",
-    "href": "lectures/slides/week2/02_crisis_slides.html#internment",
-    "title": "Lecture 2 - Is psychological science in a crisis?",
-    "section": "Internment",
-    "text": "Internment\n\n\n\n\n\n\n\nPublish means “make public.”\n\nMike Taylor, 2012"
-  },
-  {
-    "objectID": "lectures/slides/week2/02_crisis_slides.html#internment-1",
-    "href": "lectures/slides/week2/02_crisis_slides.html#internment-1",
-    "title": "Lecture 2 - Is psychological science in a crisis?",
-    "section": "Internment",
-    "text": "Internment\n\nNot only are data not publicly avaiable (as we discussed earlier), but the article and conclusions are normally kept behind a paywall.\nThis is morally questionable, given that the vast majority of research across the world is funded by the public via taxes.\nUniveristy libraries tend to have access via a subscription (so academics can read papers), but the general public do not."
-  },
-  {
-    "objectID": "lectures/slides/week2/02_crisis_slides.html#internment-2",
-    "href": "lectures/slides/week2/02_crisis_slides.html#internment-2",
-    "title": "Lecture 2 - Is psychological science in a crisis?",
-    "section": "Internment",
-    "text": "Internment\n\n\nWhy do Psychologists support barrier-based publishing?\n\nPrestige associated with barrier-based journals\nIncentives to publish in key journals for career progression\nThere was no real alternative (historically)"
-  },
-  {
-    "objectID": "lectures/slides/week2/02_crisis_slides.html#bean-counting",
-    "href": "lectures/slides/week2/02_crisis_slides.html#bean-counting",
-    "title": "Lecture 2 - Is psychological science in a crisis?",
-    "section": "Bean counting",
-    "text": "Bean counting\n\n\n\n\n\n\n\nNot everything that counts can be counted, and not everything that can be counted counts.\n\nGregg Easterbrook, 1999"
-  },
-  {
-    "objectID": "lectures/slides/week2/02_crisis_slides.html#bean-counting-1",
-    "href": "lectures/slides/week2/02_crisis_slides.html#bean-counting-1",
-    "title": "Lecture 2 - Is psychological science in a crisis?",
-    "section": "Bean counting",
-    "text": "Bean counting\n\nCan science measure itself?\n\nMetrics are used to measure the “quality” of science and scientists e.g., impact factor of a journal, grant capture, number of papers published, author position, number of citations.\nSo folks shoot for these by trying to game the system in anyway they can, which tends to encourage poor research rather than better research.\nGoodhart’s law: when a measure becomes a target, it ceases to be a good measure."
-  },
-  {
-    "objectID": "lectures/slides/week2/02_crisis_slides.html#where-are-we-now",
-    "href": "lectures/slides/week2/02_crisis_slides.html#where-are-we-now",
-    "title": "Lecture 2 - Is psychological science in a crisis?",
-    "section": "Where are we now?",
-    "text": "Where are we now?\n\n\n\n\n\n\n(Munaf‘o et al., 2017 online 10)"
-  },
-  {
     "objectID": "lectures/slides/week2/02_crisis_slides.html#is-psychological-science-in-a-crisis",
     "href": "lectures/slides/week2/02_crisis_slides.html#is-psychological-science-in-a-crisis",
-    "title": "Lecture 2 - Is psychological science in a crisis?",
+    "title": "Is psychological science in a crisis?",
     "section": "Is psychological science in a crisis?",
     "text": "Is psychological science in a crisis?\nWhat do you think?\n\n\n\n\n[Photo: Getty]"
-  },
-  {
-    "objectID": "lectures/slides/week2/02_crisis_slides.html#redemption",
-    "href": "lectures/slides/week2/02_crisis_slides.html#redemption",
-    "title": "Lecture 2 - Is psychological science in a crisis?",
-    "section": "Redemption",
-    "text": "Redemption\n\n\n\n\n\n\n\nThe method of science, as stodgy and grumpy as it may seem, is far more important than the findings of science.\n\nCarl Sagan, 1995\n\nNote: This is a prelude to next week"
-  },
-  {
-    "objectID": "lectures/slides/week2/02_crisis_slides.html#today-1",
-    "href": "lectures/slides/week2/02_crisis_slides.html#today-1",
-    "title": "Lecture 2 - Is psychological science in a crisis?",
-    "section": "Today",
-    "text": "Today\n\n\n\nPart 1\n\nIs Psychological science in a crisis?\n\n\nPart 2\n\nRead articles and discuss"
-  },
-  {
-    "objectID": "lectures/slides/week2/02_crisis_slides.html#discussion-material",
-    "href": "lectures/slides/week2/02_crisis_slides.html#discussion-material",
-    "title": "Lecture 2 - Is psychological science in a crisis?",
-    "section": "Discussion material",
-    "text": "Discussion material\n\n\nbreak into small groups (~ 5 per group)\ndiscuss aspects of the lecture – 7 deadly sins\ndiscuss aspects of the journal article: https://www.science.org/doi/full/10.1126/science.aac4716\ncan you think of any solutions?"
-  },
-  {
-    "objectID": "lectures/slides/week2/02_crisis_slides.html#references",
-    "href": "lectures/slides/week2/02_crisis_slides.html#references",
-    "title": "Lecture 2 - Is psychological science in a crisis?",
-    "section": "References",
-    "text": "References\n\n\nBem, D. J. (2011). Feeling the future: Experimental evidence for anomalous retroactive influences on cognition and affect. Journal of Personality and Social Psychology, 100(3), 407–425. https://doi.org/10.1037/a0021524\n\n\nMunaf‘o, M. R., Nosek, B. A., Bishop, D. V. M., Button, K. S., Chambers, C. D., Percie du Sert, N., Simonsohn, U., Wagenmakers, E.-J., Ware, J. J., & Ioannidis, J. P. A. (2017 online 10). A manifesto for reproducible science. Nature Human Behaviour, 1, 0021. https://doi.org/10.1038/s41562-016-0021\n\n\nOpen Science Collaboration. (2015). Estimating the reproducibility of psychological science. Science, 349(6251). https://doi.org/10.1126/science.aac4716\n\n\nSimmons, J. P., Nelson, L. D., & Simonsohn, U. (2011). False-Positive Psychology: Undisclosed Flexibility in Data Collection and Analysis Allows Presenting Anything as Significant. Psychological Science, 22(11), 1359–1366. https://doi.org/10.1177/0956797611417632\n\n\n\n\n\nETH Zürich | 376-1309-00 | The Social Brain"
-  },
-  {
-    "objectID": "lectures/slides/week2/02_crisis_slides.html#today-v1",
-    "href": "lectures/slides/week2/02_crisis_slides.html#today-v1",
-    "title": "Lecture 2 - Is psychological science in a crisis?",
-    "section": "Today v1",
-    "text": "Today v1\n\n\n\nPart 1\n\nIs Psychological science in a crisis?\n\n\nPart 2\n\nRead articles and discuss"
-  },
-  {
-    "objectID": "lectures/slides/week2/02_crisis_slides.html#today-v2",
-    "href": "lectures/slides/week2/02_crisis_slides.html#today-v2",
-    "title": "Lecture 2 - Is psychological science in a crisis?",
-    "section": "Today v2",
-    "text": "Today v2\n\n\n\nPart 1 - Content for part 1  Part 2 - Content for part 2 :::\n::: \n   ::: :::"
-  },
-  {
-    "objectID": "lectures/slides/week2/02_crisis_slides.html#todays-layout",
-    "href": "lectures/slides/week2/02_crisis_slides.html#todays-layout",
-    "title": "Lecture 2 - Is psychological science in a crisis?",
-    "section": "Today’s Layout",
-    "text": "Today’s Layout\n\n\n\nPart 1 - Is Psychological science in a crisis?  Part 2 - Read articles and discuss :::\n\n\n\n\n \n\n\n\n:::"
-  },
-  {
-    "objectID": "lectures/slides/week2/02_crisis_slides.html#estimating-reproducibility-v1",
-    "href": "lectures/slides/week2/02_crisis_slides.html#estimating-reproducibility-v1",
-    "title": "Lecture 2 - Is psychological science in a crisis?",
-    "section": "Estimating reproducibility v1",
-    "text": "Estimating reproducibility v1\n\n\n\n\n\nOpen Science Collaboration, 2015\n\n\n\n\n\nAttempted to replicate 100 experiments from 3 leading Psychology journals.\ncontacted original authors for materials and hypotheses.\npre-registered analysis plans.\nhigh power designs (e.g., much larger samples than the originals)."
-  },
-  {
-    "objectID": "lectures/slides/week2/02_crisis_slides.html#estimating-reproducibility-v2",
-    "href": "lectures/slides/week2/02_crisis_slides.html#estimating-reproducibility-v2",
-    "title": "Lecture 2 - Is psychological science in a crisis?",
-    "section": "Estimating reproducibility v2",
-    "text": "Estimating reproducibility v2\n\n\n\n\n\nOpen Science Collaboration, 2015\n\n\n\n\n\nAttempted to replicate 100 experiments from 3 leading Psychology journals.\ncontacted original authors for materials and hypotheses.\npre-registered analysis plans.\nhigh power designs (e.g., much larger samples than the originals)."
   }
 ]

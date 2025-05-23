@@ -1,0 +1,22 @@
+---
+title: "The reform movement in psychological science"
+---
+
+## Objectives
+
+blah.
+
+::: {.callout-note icon="false"}
+## Key concepts
+
+
+:::
+
+## Lecture slides
+
+- [View Slides](slides/week3/03_reform_slides.html){target="_blank"} (opens in new tab)
+- [Download Slides PDF](slides/week3/03_reform_slides.pdf){download="03_reform_slides.pdf"}
+
+## Discussion paper
+
+[Munafò et al., 2017](https://www.nature.com/articles/s41562-016-0021)

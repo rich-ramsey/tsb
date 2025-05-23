@@ -1,6 +1,6 @@
 ---
-title: "[Lecture 1 - Introduction]{style=font-size:40pt;'}"
-subtitle: "[The Social Brain: Critical Perspectives on Science, Society and Neurodiversity]{style='color:#2f73a3; font-size:24pt;'}" 
+title: "Lecture 1 - Introduction"
+subtitle: "The Social Brain: Critical Perspectives on Science, Society and Neurodiversity" 
 author: "Richard Ramsey"
 #bibliography: references.bib
 format:

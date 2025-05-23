@@ -1,5 +1,5 @@
 ---
-title: "Crisis"
+title: "Is psychological science in a crisis?"
 ---
 
 ## Objectives
@@ -14,5 +14,9 @@ blah.
 
 ## Lecture slides
 
+- [View Slides](slides/week2/02_crisis_slides.html){target="_blank"} (opens in new tab)
+- [Download Slides PDF](slides/week2/02_crisis_slides.pdf){download="02_crisis_slides.pdf"}
 
-## Discussion papers
+## Discussion paper
+
+[Open Science Collaboration, 2015](https://www.science.org/doi/full/10.1126/science.aac4716)

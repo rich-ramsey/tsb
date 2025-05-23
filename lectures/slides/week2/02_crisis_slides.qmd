@@ -1,6 +1,6 @@
 ---
-title: "[Lecture 2 - Is psychological science in a crisis?]{style=font-size:40pt;'}"
-subtitle: "[The Social Brain: Critical Perspectives on Science, Society and Neurodiversity]{style='color:#2f73a3; font-size:24pt;'}" 
+title: "Is psychological science in a crisis?"
+subtitle: "The Social Brain: Critical Perspectives on Science, Society and Neurodiversity" 
 author: "Richard Ramsey"
 bibliography: references.bib
 csl: ../../../apa.csl
@@ -542,5 +542,5 @@ Carl Sagan, 1995
 
 ## References
 
-::: {#refs style="font-size: 0.9em;"}
+::: {#refs .text-smaller}
 :::

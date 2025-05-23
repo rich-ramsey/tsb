@@ -6,7 +6,7 @@ project:
     - "!*.Rmd"             # Exclude .Rmd files, but try to avoid them for consistency
     - "!_scripts/*.qmd"    # Exclude utility scripts
     - "!_drafts/*.qmd"     # Exclude draft content
-    - "!admin/*.qmd"     # Exclude draft content
+    - "!admin/*.qmd"       # Exclude draft content
     #- "syllabus/index.qmd:pdf" # Add specific PDF outputs
   resources:
     - files/*.Rmd
@@ -46,12 +46,21 @@ website:
             -  lectures/01_intro.qmd
             - text: "<mark>Crisis and reform</mark>"
             -  lectures/02_crisis.qmd
+            -  lectures/03_reform.qmd
+            -  lectures/04_theory.qmd
+            -  lectures/05_reflection.qmd
             - text: "<mark>Social neuroscience</mark>"
-            -  lectures/01_intro.qmd
+            -  lectures/06_neuro_1.qmd
+            -  lectures/07_neuro_2.qmd
+            -  lectures/08_neuro_3.qmd
             - text: "<mark>Neurodiversity</mark>"
-            -  lectures/02_crisis.qmd
+            -  lectures/09_neurodiversity.qmd
+            -  lectures/10_clinic.qmd
+            -  lectures/11_loneliness.qmd
+            -  lectures/12_autism.qmd
+            -  lectures/13_attention.qmd
             - text: "<mark>Essay writing</mark>"
-            -  lectures/02_crisis.qmd
+            -  lectures/14_essay.qmd
 
 format:
   html:
