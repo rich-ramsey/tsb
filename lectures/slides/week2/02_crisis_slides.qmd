@@ -537,10 +537,16 @@ Carl Sagan, 1995
 - break into small groups (~ 5 per group)
 - discuss aspects of the lecture – 7 deadly sins
 - discuss aspects of the journal article:
-<https://www.science.org/doi/full/10.1126/science.aac4716>
+<https://www.science.org/doi/full/10.1126/science.aac4716>{target='_blank'}
 - can you think of any solutions?
 
 ## References
 
 ::: {#refs .text-smaller}
 :::
+
+## Acknowledgements 
+
+- Unless otherwise specified, icons and images were used under license from [The Noun Project](https://thenounproject.com/)
+
+- Slides were created with [Quarto](https://quarto.org/) and [RevealJS](https://revealjs.com/)

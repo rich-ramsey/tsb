@@ -368,3 +368,10 @@ e.g., Should Autism be considered one diagnosis or multiple different diagnoses?
 ![](../icons/reading.png){width=200px}![](../icons/discussion.png){width=200px}
 :::
 ::::
+
+
+## Acknowledgements 
+
+- Unless otherwise specified, icons and images were used under license from [The Noun Project](https://thenounproject.com/)
+
+- Slides were created with [Quarto](https://quarto.org/) and [RevealJS](https://revealjs.com/)

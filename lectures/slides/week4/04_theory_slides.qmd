@@ -1,6 +1,6 @@
 ---
-title: "[Lecture 4 - A problem in theory?]{style=font-size:40pt;'}"
-subtitle: "[The Social Brain: Critical Perspectives on Science, Society and Neurodiversity]{style='color:#2f73a3; font-size:24pt;'}" 
+title: "Lecture 4 - A problem in theory?"
+subtitle: "The Social Brain: Critical Perspectives on Science, Society and Neurodiversity" 
 author: "Richard Ramsey"
 bibliography: references.bib
 csl: ../../../apa.csl
@@ -57,7 +57,462 @@ options(citr.update_bib = file.path(getwd(), "lectures/slides/week4/references.b
 :::
 ::::
 
+# Context #
 
+## Unreliable methods, but what about theory? ##
+
+:::: {.columns}
+::: {.column width="60%"}
+::: {.figure-container}
+::: {.img-full}
+![](images/wheel_of_death.png)
+:::
+:::
+:::
+
+::: {.column width="40%"}
+::: {.figure-container}
+::: {.img-large}
+![](images/scales-text.png)
+:::
+:::
+:::
+::::
+
+
+::: {.citation-footer}
+[@munafo2017]
+:::
+
+## A problem in theory ##
+
+Without a sufficiently well-developed theory, then it is hard to interpret results in a meaningful way.
+
+:::: {.columns}
+::: {.column width="40%"}
+::: {.figure-container}
+::: {.img-medium}
+![](images/boy-screen.jpg)
+:::
+:::
+:::
+
+
+::: {.column width="60%"}
+::: {.text-smaller}
+- Anything that turns up as statistically significant can be used to tell a story or sell newspapers.
+
+- At most, only 0.4% of adolescent wellbeing is related to screen use - which only slightly surpasses the negative effect of regularly eating potatoes.
+:::
+:::
+::::
+
+::: {.citation-footer}
+[@orben2019]
+:::
+
+## A problem in theory ##
+
+Predictions are often impossible to falsify because of infinite wriggle room…
+
+:::: {.columns}
+::: {.column width="33.3%"}
+::: {.figure-container}
+::: {.img-medium}
+![Data](images/data.png)
+:::
+:::
+:::
+
+::: {.column width="33.3%"}
+::: {.figure-container}
+::: {.img-medium}
+![HARKing](images/theory.png)
+:::
+:::
+:::
+
+::: {.column width="33.3%"}
+::: {.figure-container}
+::: {.img-medium}
+![Wriggle room](images/freedom.png)
+:::
+:::
+:::
+::::
+
+## Theory as a blueprint for science ##
+
+<br>
+
+:::: {.columns}
+::: {.column width="33.3%"}
+::: {.figure-container}
+::: {.img-large}
+![Evidence / Facts / Experiments](images/bricks.jpg)
+:::
+:::
+:::
+
+::: {.column width="33.3%"}
+::: {.figure-container}
+::: {.img-large}
+![Theory](images/blueprint.jpg)
+:::
+:::
+:::
+
+::: {.column width="33.3%"}
+::: {.figure-container}
+::: {.img-large}
+![Oragnised knowledge](images/house.jpg)
+:::
+:::
+:::
+::::
+
+::: {.citation-footer}
+[@gray2017]
+:::
+
+## Theory before the test ##
+
+### Are psychological scientists ready to test hypotheses?
+
+Inputs to informative hypothesis tests:
+
+:::: {.columns}
+::: {.column width="50%"}
+- Concept formation
+- Developing measures
+- Establishing relationships between concepts
+:::
+
+::: {.column width="50%"}
+- Boundary conditions and auxiliary assumptions
+- Deriving statistical predictions
+:::
+::::
+
+::: {.citation-footer}
+[@scheel2021]
+:::
+
+## Concept formation ##
+
+What do we mean by terms such as screen time, intrinsic motivation or depression?
+
+:::: {.columns}
+::: {.column width="50%"}
+::: {.figure-container}
+::: {.img-medium}
+![](images/definition.png)
+:::
+:::
+:::
+
+
+::: {.column width="50%"}
+**Why is this important?**
+
+- Lots of time and money is spent having pointless debate and argument about reproducibility, when key terms are not adequately defined
+:::
+::::
+
+## Measurement ##
+
+**Measurement schmeasurement**
+
+>We demonstrate that psychology is plagued by a measurement  schmeasurement attitude: questionable measurement practices are common, hide a stunning source of researcher degrees of  freedom, pose a serious threat to cumulative psychological science, but are largely ignored.
+
+[@flake2020]
+
+## Measurement ##
+
+<br>
+
+:::: {.columns}
+::: {.column width="50%"}
+::: {.figure-container}
+::: {.img-medium}
+![](images/measurement.png)
+:::
+:::
+:::
+
+
+::: {.column width="50%"}
+- Are the measures valid and reliable?
+- And are they measuring the concept of interest?
+:::
+::::
+
+::: {.citation-footer}
+[@flake2020]
+:::
+
+## RMET - Example ##
+
+::: {.figure-container}
+::: {.img-full}
+![](images/rmet.png)
+:::
+:::
+
+::: {.citation-footer}
+[@baron-cohen2001]
+:::
+
+## RMET - Problems ##
+
+[[some stuff here describing the problems]]
+
+::: {.citation-footer}
+[@higgins2022]
+:::
+
+## Relationships between concepts ##
+
+Once concepts are defined, we need a causal model of how they relate to each other.
+ 
+::: {.figure-container}
+::: {.img-large}
+![](images/causal-model.png)
+:::
+:::
+
+
+## Boundary conditions ##
+
+A good theory is clear about its boundary conditions – where does the theory apply and where is beyond its scope?
+
+:::: {.columns}
+::: {.column width="33.3%"}
+::: {.figure-container}
+::: {.img-medium}
+![Basic vision vs. social cognition](images/eye.png)
+:::
+:::
+:::
+
+::: {.column width="33.3%"}
+::: {.figure-container}
+::: {.img-medium}
+![Individual differences](images/group.png)
+:::
+:::
+:::
+
+::: {.column width="33.3%"}
+::: {.figure-container}
+::: {.img-medium}
+![Cultural variation](images/globe.png)
+:::
+:::
+:::
+::::
+
+
+## Why is there a lack of good quality theory? ##
+
+<br>
+
+
+- OK, these seem like sensible ideas. But they are not **new** ideas?
+
+- Paul Meehl was writing about this in [-@meehl1967].
+
+Question for the class:
+
+- Why don’t researchers do more “theory” before the test?
+
+
+# How can we improve theory building? #
+
+## How can we improve theory building? ##
+
+<br>
+
+- This is hard and it is generally undervalued
+
+I’ll provide two examples:
+
+  - Theory Mapping
+  - Formal theory
+
+## Theory mapping ##
+
+:::: {.columns}
+::: {.column width="50%"}
+::: {.figure-container}
+::: {.img-v-large}
+![](images/theory-map-1.png)
+:::
+:::
+:::
+
+::: {.column width="50%"}
+::: {.figure-container}
+::: {.img-large .fragment}
+![](images/theory-map-2.png)
+:::
+:::
+:::
+::::
+
+::: {.citation-footer}
+[@gray2017]
+:::
+
+## Formal theory ##
+
+:::: {.columns}
+::: {.column width="60%"}
+- Psychological theory tends to be narrative
+
+- Predictions are ordinal
+
+- Formal theory is a mathematical description that can give rise to quantitative predictions
+:::
+
+::: {.column width="40%"}
+::: {.figure-container}
+::: {.img-large}
+![](images/formal-theory.png)
+:::
+:::
+:::
+::::
+
+
+::: {.citation-footer}
+[@yarkoni2022; @guestHowComputationalModeling2021; @farrell2018]
+:::
+
+
+## What are the benefits of formal theories? ##
+
+:::: {.columns}
+::: {.column width="50%"}
+
+<br>
+
+It forces researchers to be explicit about parts of the system under investigation and how they are linked together (e.g., $E = mc^2$).
+:::
+
+::: {.column width="50%"}
+::: {.figure-container}
+::: {.img-large}
+![](images/causal-model.png)
+:::
+:::
+:::
+::::
+
+::: {.citation-footer}
+[@hintzman1991]
+:::
+
+## Formal theory from my lab ##
+
+:::: {.columns}
+::: {.column width="50%"}
+::: {.figure-container}
+::: {.img-large}
+![](images/hand-task.png)
+:::
+:::
+:::
+
+
+::: {.column width="50%"}
+::: {.figure-container}
+::: {.img-large}
+![](images/brain-theories.png)
+:::
+:::
+:::
+::::
+
+::: {.citation-footer}
+[@ward2024]
+:::
+
+## Formal theory from my lab ##
+
+::: {.figure-container}
+::: {.img-v-large}
+![](images/icon-model.png)
+:::
+:::
+
+::: {.citation-footer}
+[@ward2024]
+:::
+
+## Formal theory from my lab ##
+
+:::: {.columns}
+::: {.column width="40%"}
+::: {.figure-container}
+::: {.img-medium}
+![](images/activation.png)
+:::
+:::
+:::
+
+
+::: {.column width="60%"}
+::: {.figure-container}
+::: {.img-v-large}
+![](images/cycles.png)
+:::
+:::
+:::
+::::
+
+::: {.citation-footer}
+[@ward2024]
+:::
+
+## Formal theory from my lab ##
+
+::: {.figure-container}
+::: {.img-v-large}
+![](images/emotion-task.png)
+:::
+:::
+
+
+::: {.figure-container .fragment}
+::: {.img-large}
+![](images/search-task.png)
+:::
+:::
+
+::: {.citation-footer}
+[@ward2024]
+:::
+
+## Formal theory from my lab ##
+
+<br>
+
+:::: {.columns}
+::: {.column width="60%"}
+- The benefit of formal theory here is not that our model is **“correct”**, but that it is explicit and it can therefore be more easily be falsified.
+
+- Formal theory reduces verbal wriggle room
+:::
+
+::: {.column width="40%"}
+::: {.figure-container}
+::: {.img-v-large}
+![](images/handcuffs.png)
+:::
+:::
+:::
+::::
 
 
 ## Today ##
@@ -94,10 +549,16 @@ options(citr.update_bib = file.path(getwd(), "lectures/slides/week4/references.b
 - break into small groups (~ 5 per group)
 - discuss aspects of the lecture 
 - discuss aspects of the journal article:
-<https://journals.sagepub.com/doi/full/10.1177/1745691620966795>
+<https://journals.sagepub.com/doi/full/10.1177/1745691620966795>{target='_blank'}
 
 
 ## References
 
 ::: {#refs .text-smaller}
 :::
+
+## Acknowledgements 
+
+- Unless otherwise specified, icons and images were used under license from [The Noun Project](https://thenounproject.com/)
+
+- Slides were created with [Quarto](https://quarto.org/) and [RevealJS](https://revealjs.com/)
