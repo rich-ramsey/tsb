@@ -6,7 +6,8 @@ project:
     - "!*.Rmd"             # Exclude .Rmd files, but try to avoid them for consistency
     - "!_scripts/*.qmd"    # Exclude utility scripts
     - "!_drafts/*.qmd"     # Exclude draft content
-    - "!admin/*.qmd"       # Exclude draft content
+    - "!admin/*.qmd"       # Exclude admin content
+    - "!sandpit/*.qmd"     # Exclude sandpit content
     #- "syllabus/index.qmd:pdf" # Add specific PDF outputs
   resources:
     - files/*.Rmd
