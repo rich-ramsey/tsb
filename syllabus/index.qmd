@@ -19,7 +19,11 @@ format:
     colorlinks: true
     output-file: syllabus.pdf
 ---
- 
+
+::: {.content-visible when-format="pdf"}
+\newpage
+:::
+
 ## **376-1309-00: The Social Brain: Critical Perspectives on Science, Society and Neurodiversity**
 
 **Instructor:** Rich Ramsey, PhD.\
@@ -85,74 +89,22 @@ Semester: Autumn\
 When: Tuesdays 10:15am to 12noon\		
 Location: LFW B2
 
-```{r}
-#| label: schedule-table
-#| echo: false
-#| warning: false
-
-library(kableExtra)
-library(dplyr)
-
-# Create the basic data
-raw_data <- tribble(
-  ~Week, ~Date, ~Title, ~Link, ~Description,
-  1, "Sep 16", "Intro", "../lectures/01_intro.html", "Introduction to the course",
-  2, "Sep 23", "Crisis Part 1", "../lectures/02_crisis.html", "Is psychological science in a crisis?",
-  3, "Sep 30", "Crisis Part 2", "../lectures/02_crisis.html", "The reform movement in psychological science",
-  4, "Oct 7", "Crisis Part 3 (Recorded lecture)", "../lectures/02_crisis.html", "Are there problems in psychological theory?",
-  5, "Oct 14", "Crisis Part 4 (No lecture - reflective writing)", "../lectures/02_crisis.html", "Does the crisis extend beyond psychology?",
-  6, "Oct 21", "Social Neuroscience Part 1", "../lectures/02_crisis.html", "Social Neuroscience 1",
-  7, "Oct 28", "Social Neuroscience Part 2", "../lectures/02_crisis.html", "Social Neuroscience 2",
-  8, "Nov 4", "Social Neuroscience Part 3", "../lectures/02_crisis.html", "Social Neuroscience 3",
-  9, "Nov 11", "Neurodiversity Part 1", "../lectures/02_crisis.html", "Re-thinking neurodiversity",
-  10, "Nov 18", "Neurodiversity Part 2", "../lectures/02_crisis.html", "Guest lecture: A view from the clinic",
-  11, "Nov 25", "Neurodiversity Part 3", "../lectures/02_crisis.html", "Loneliness",
-  12, "Dec 2", "Neurodiversity Part 4", "../lectures/02_crisis.html", "Autism",
-  13, "Dec 9", "Neurodiversity Part 5", "../lectures/02_crisis.html", "Attention and Impulsivity",
-  14, "Dec 16", "Essay Writing", "../lectures/02_crisis.html", "Essay Writing"
-)
-
-# Transform to create proper links
-schedule <- raw_data %>% 
-  mutate(
-    # Create different table styling based on format
-    Lecture = if (knitr::is_html_output()) {
-      cell_spec(
-        Title,
-        "html", 
-        link = Link
-      )
-    } else {
-      # For PDF output, just use the title without links
-      Title
-    }
-  ) %>% 
-  select(Week, Date, Lecture, Description)
-
-# Render table differently based on output format
-if (knitr::is_html_output()) {
-  schedule %>% 
-    kbl(escape = FALSE, format = "html") %>% 
-    kable_styling(
-      bootstrap_options = c("striped", "hover"),
-      full_width = TRUE,
-      position = "center"
-    ) %>% 
-    column_spec(1:2, width = "5em", bold = TRUE) %>%
-    column_spec(3, width = "20em") %>%
-    column_spec(4, width = "30em")
-} else {
-  # Very simplified table for PDF output to avoid dimension errors
-  schedule %>% 
-    kbl(format = "latex", booktabs = TRUE, longtable = FALSE) %>%
-    kable_styling(
-      latex_options = "HOLD_position",
-      full_width = FALSE
-    ) %>%
-    row_spec(0, bold = TRUE) %>% 
-    column_spec(1:2, bold = TRUE)
-}
-```
+| **Week** | **Date** | **Lecture** | **Description** |
+|:--------:|:--------:|-------------|-----------------|
+| 1 | Sep 16 | [Intro](../lectures/01_intro.html) | Introduction to the course |
+| 2 | Sep 23 | [Crisis Part 1](../lectures/02_crisis.html) | Is psychological science in a crisis? |
+| 3 | Sep 30 | [Crisis Part 2](../lectures/03_reform.html) | The reform movement in psychological science |
+| 4 | Oct 7 | [Crisis Part 3 (Recorded lecture)](../lectures/04_theory.html) | A problem in theory? |
+| 5 | Oct 14 | [Crisis Part 4 (No lecture - reflective writing)](../lectures/05_reflection.html) | Does the crisis extend beyond psychology? |
+| 6 | Oct 21 | [Social Neuroscience Part 1](../lectures/02_crisis.html) | Social Neuroscience 1 |
+| 7 | Oct 28 | [Social Neuroscience Part 2](../lectures/02_crisis.html) | Social Neuroscience 2 |
+| 8 | Nov 4 | [Social Neuroscience Part 3](../lectures/02_crisis.html) | Social Neuroscience 3 |
+| 9 | Nov 11 | [Neurodiversity Part 1](../lectures/02_crisis.html) | Re-thinking neurodiversity |
+| 10 | Nov 18 | [Neurodiversity Part 2](../lectures/02_crisis.html) | Guest lecture: A view from the clinic |
+| 11 | Nov 25 | [Neurodiversity Part 3](../lectures/02_crisis.html) | Loneliness |
+| 12 | Dec 2 | [Neurodiversity Part 4](../lectures/02_crisis.html) | Autism |
+| 13 | Dec 9 | [Neurodiversity Part 5](../lectures/02_crisis.html) | Attention and Impulsivity |
+| 14 | Dec 16 | [Essay Writing](../lectures/02_crisis.html) | Essay Writing |
 
 
 ## Assessment ##
