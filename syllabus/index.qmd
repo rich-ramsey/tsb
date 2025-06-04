@@ -7,25 +7,31 @@ format:
     css: ../styles.css
     toc: true
     link-external-newwindow: true
- pdf:
-    documentclass: article
-    papersize: a4
-    geometry:
-      - margin=1in
+ typst:
     toc: true
     toc-depth: 3
     toc-title: "Contents"
-    number-sections: false
+    number-sections: true
+    # Hide code by default for PDFs (good for papers/handouts)
+    echo: false
+    margin:
+      x: 2.5cm
+      y: 2.5cm
+    papersize: a4
+    mainfont: "Times New Roman"
+    fontsize: 11pt
     colorlinks: true
     output-file: syllabus.pdf
 ---
 
-::: {.content-visible when-format="pdf"}
-\newpage
+::: {.content-visible when-format="typst"}
+{{< pagebreak >}}
 :::
 
-## **376-1309-00: The Social Brain: Critical Perspectives on Science, Society and Neurodiversity**
+## Course Details ##
 
+**Code:** 376-1309-00\
+**Title:** Thee Social Brain: Critical Perspectives on Science, Society and Neurodiversity\
 **Instructor:** Rich Ramsey, PhD.\
 **Contact:** See me in class. \
 **Website:** [www.rich-ramsey.com](http://www.rich-ramsey.com/)
@@ -38,7 +44,7 @@ format:
 :::
 :::
 
-## Course description ##
+## Course Description ##
 
 Meaningful social interactions form the foundation of cohesive societies, with implications extending far beyond psychology and neuroscience into education, technology, policy, and healthcare.
 Although the scientific study of social behavior has only recently emerged as a distinct research discipline, its applications are already widespread, raising critical questions about the relationship between knowledge creation and societal applications.

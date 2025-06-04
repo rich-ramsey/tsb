@@ -4,6 +4,7 @@
 .Ruserdata
 /.quarto/
 .DS_Store
-admin/
+/admin/
 *.pptx
-sandpit/
+/sandpit/
+/_freeze/

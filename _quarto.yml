@@ -13,6 +13,11 @@ project:
     - files/*.Rmd
     - files/*.html
     
+# Global execute options
+execute:
+  freeze: auto
+  cache: false
+  
 website:
   title: "TSB"
   favicon: "img/tsb_hex.png"
