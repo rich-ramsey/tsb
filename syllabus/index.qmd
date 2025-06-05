@@ -31,7 +31,7 @@ format:
 ## Course Details ##
 
 **Code:** 376-1309-00\
-**Title:** Thee Social Brain: Critical Perspectives on Science, Society and Neurodiversity\
+**Title:** The Social Brain: Critical Perspectives on Science, Society and Neurodiversity\
 **Instructor:** Rich Ramsey, PhD.\
 **Contact:** See me in class. \
 **Website:** [www.rich-ramsey.com](http://www.rich-ramsey.com/)
