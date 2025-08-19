@@ -1,0 +1,22 @@
+---
+title: "Attention and impulsivity"
+---
+
+## Objectives
+
+blah.
+
+::: {.callout-note icon="false"}
+## Key concepts
+
+
+:::
+
+## Lecture slides
+
+- [View Slides](slides/week13/13_attention_slides.html){target="_blank"} (opens in new tab)
+- [Download Slides PDF](slides/week13/13_attention_slides.pdf){download="13_attention_slides.pdf"}
+
+## Discussion paper
+
+[link here]

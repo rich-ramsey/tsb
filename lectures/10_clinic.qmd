@@ -1,0 +1,21 @@
+---
+title: "Guest lecture: A view from the clinic"
+---
+
+## Objectives
+
+blah.
+
+::: {.callout-note icon="false"}
+## Key concepts
+
+
+:::
+
+## Lecture slides
+
+- [Download Slides PDF](slides/week10/10_clinic_slides.pdf){download="10_clinic_slides.pdf"}
+
+## Discussion 
+
+There will be a group discussion with the guest lecturer and those involved in treatment.

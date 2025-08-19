@@ -1,0 +1,109 @@
+---
+title: "Lecture 9 - Re-thinking neurodiversity"
+subtitle: "The Social Brain: Critical Perspectives on Science, Society and Neurodiversity" 
+author: "Richard Ramsey"
+bibliography: references.bib
+csl: ../../../apa.csl
+format:
+  revealjs:
+    slide-number: true
+    embed-resources: true
+    transition: none
+    transition-speed: fast
+    logo: ../../../img/tsb_hex.png
+    css: ../../../styles.css
+    footer: "ETH Zürich | 376-1309-00 | The Social Brain"
+    preview-links: auto
+    revealjs-plugins:
+      - pointer
+    pointer:
+      color: "#32cd32"
+      pointerSize: 18
+editor: source
+editor_options: 
+  chunk_output_type: console
+---
+
+```{r load-packages, include = FALSE}
+library(papaja)
+library(citr)
+
+knitr::opts_chunk$set(echo = FALSE)
+
+# Fix the references.bib location for updating and writing refs #
+options(citr.update_bib = file.path(getwd(), "lectures/slides/week9/references.bib"))
+```
+
+## Today ##
+
+<br>
+
+:::: {.columns}
+::: {.column width="50%"}
+[Part 1]{.green-text}
+
+- Re-thinking neurodiversity
+
+<br>
+
+[Part 2]{.green-text}
+
+- Read articles and discuss
+:::
+::: {.column width="50%"}
+![](../icons/lecture.png){width=150px}\
+<br>
+![](../icons/reading.png){width=150px} ![](../icons/discussion.png){width=150px}
+:::
+::::
+
+
+
+
+## Today ##
+
+<br>
+
+:::: {.columns}
+::: {.column width="50%"}
+[Part 1]{.green-text}
+
+- Re-thinking neurodiversity
+
+<br>
+
+[Part 2]{.green-text}
+
+- Read articles and discuss
+:::
+::: {.column width="50%"}
+![](../icons/lecture.png){width=150px}\
+<br>
+![](../icons/reading.png){width=150px} ![](../icons/discussion.png){width=150px}
+:::
+::::
+
+# Take a break #
+
+# Part 2 - Read and discuss #
+
+## Discussion material ##
+
+<br>
+
+- break into small groups (~ 5 per group)
+- discuss aspects of the lecture 
+- discuss aspects of the journal article:
+<link here>{target='_blank'}
+
+
+## References
+
+::: {#refs .text-smaller}
+:::
+
+## Acknowledgements 
+
+- Unless otherwise specified, icons and images were used under license from [The Noun Project](https://thenounproject.com/)
+
+- Slides were created with [Quarto](https://quarto.org/) and [RevealJS](https://revealjs.com/)

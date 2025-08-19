@@ -1,0 +1,69 @@
+---
+title: "Lecture 14 - Essay writing"
+subtitle: "The Social Brain: Critical Perspectives on Science, Society and Neurodiversity" 
+author: "Richard Ramsey"
+bibliography: references.bib
+csl: ../../../apa.csl
+format:
+  revealjs:
+    slide-number: true
+    embed-resources: true
+    transition: none
+    transition-speed: fast
+    logo: ../../../img/tsb_hex.png
+    css: ../../../styles.css
+    footer: "ETH Zürich | 376-1309-00 | The Social Brain"
+    preview-links: auto
+    revealjs-plugins:
+      - pointer
+    pointer:
+      color: "#32cd32"
+      pointerSize: 18
+editor: source
+editor_options: 
+  chunk_output_type: console
+---
+
+```{r load-packages, include = FALSE}
+library(papaja)
+library(citr)
+
+knitr::opts_chunk$set(echo = FALSE)
+
+# Fix the references.bib location for updating and writing refs #
+#options(citr.update_bib = file.path(getwd(), "lectures/slides/week14/references.bib"))
+```
+
+## Today ##
+
+<br>
+
+:::: {.columns}
+::: {.column width="50%"}
+[Part 1]{.green-text}
+
+- Essay writing
+
+<br>
+
+[Part 2]{.green-text}
+
+- Q&A plus discussion
+:::
+::: {.column width="50%"}
+![](../icons/lecture.png){width=150px}\
+<br>
+![](../icons/reading.png){width=150px} ![](../icons/discussion.png){width=150px}
+:::
+::::
+
+## References
+
+::: {#refs .text-smaller}
+:::
+
+## Acknowledgements 
+
+- Unless otherwise specified, icons and images were used under license from [The Noun Project](https://thenounproject.com/)
+
+- Slides were created with [Quarto](https://quarto.org/) and [RevealJS](https://revealjs.com/)

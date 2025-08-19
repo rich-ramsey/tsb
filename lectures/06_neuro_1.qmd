@@ -1,0 +1,26 @@
+---
+title: "An introduction to social neuroscience"
+---
+
+## Objectives
+
+blah.
+
+::: {.callout-note icon="false"}
+## Key concepts
+
+
+:::
+
+## Lecture slides
+
+- [View Slides](slides/week6/06_neuro_1_slides.html){target="_blank"} (opens in new tab)
+- [Download Slides PDF](slides/week6/06_neuro_1_slides.pdf){download="06_neuro_1_slides.pdf"}
+
+## Discussion paper
+
+[link here]
+
+## Book chapter
+
+**An introduction to social neuroscience:** Ward (2023, Chapter 1)

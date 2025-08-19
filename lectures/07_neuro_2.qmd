@@ -1,0 +1,26 @@
+---
+title: "Reading faces and bodies"
+---
+
+## Objectives
+
+blah.
+
+::: {.callout-note icon="false"}
+## Key concepts
+
+
+:::
+
+## Lecture slides
+
+- [View Slides](slides/week7/07_neuro_2_slides.html){target="_blank"} (opens in new tab)
+- [Download Slides PDF](slides/week7/07_neuro_2_slides.pdf){download="07_neuro_2_slides.pdf"}
+
+## Discussion paper
+
+[link here]
+
+## Book chapter
+
+**Reading faces and bodies:** Ward (2023, Chapter 5)

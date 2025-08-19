@@ -46,7 +46,7 @@
     "href": "syllabus/index.html#schedule",
     "title": "Syllabus",
     "section": "Schedule",
-    "text": "Schedule\nSemester: Autumn\nWhen: Tuesdays 10:15am to 12noon \nLocation: LFW B2\n\n\n\nWeek\nDate\nLecture\nDescription\n\n\n\n\n1\nSep 16\nIntro\nIntroduction to the course\n\n\n2\nSep 23\nCrisis Part 1\nIs psychological science in a crisis?\n\n\n3\nSep 30\nCrisis Part 2\nThe reform movement in psychological science\n\n\n4\nOct 7\nCrisis Part 3 (Recorded lecture)\nA problem in theory?\n\n\n5\nOct 14\nCrisis Part 4 (No lecture - reflective writing)\nDoes the crisis extend beyond psychology?\n\n\n6\nOct 21\nSocial Neuroscience Part 1\nSocial Neuroscience 1\n\n\n7\nOct 28\nSocial Neuroscience Part 2\nSocial Neuroscience 2\n\n\n8\nNov 4\nSocial Neuroscience Part 3\nSocial Neuroscience 3\n\n\n9\nNov 11\nNeurodiversity Part 1\nRe-thinking neurodiversity\n\n\n10\nNov 18\nNeurodiversity Part 2\nGuest lecture: A view from the clinic\n\n\n11\nNov 25\nNeurodiversity Part 3\nLoneliness\n\n\n12\nDec 2\nNeurodiversity Part 4\nAutism\n\n\n13\nDec 9\nNeurodiversity Part 5\nAttention and Impulsivity\n\n\n14\nDec 16\nEssay Writing\nEssay Writing"
+    "text": "Schedule\nSemester: Autumn\nWhen: Tuesdays 10:15am to 12noon \nLocation: LFW B2\n\n\n\nWeek\nDate\nLecture\nDescription\n\n\n\n\n1\nSep 16\nIntro\nIntroduction to the course\n\n\n2\nSep 23\nCrisis Part 1\nIs psychological science in a crisis?\n\n\n3\nSep 30\nCrisis Part 2\nThe reform movement in psychological science\n\n\n4\nOct 7\nCrisis Part 3 (Recorded lecture)\nA problem in theory?\n\n\n5\nOct 14\nCrisis Part 4 (No lecture - reflective writing)\nDoes the crisis extend beyond psychology?\n\n\n6\nOct 21\nSocial Neuroscience Part 1\nAn introduction to social neuroscience\n\n\n7\nOct 28\nSocial Neuroscience Part 2\nReading faces and bodies\n\n\n8\nNov 4\nSocial Neuroscience Part 3\nUnderstanding others\n\n\n9\nNov 11\nNeurodiversity Part 1\nRe-thinking neurodiversity\n\n\n10\nNov 18\nNeurodiversity Part 2\nGuest lecture: A view from the clinic\n\n\n11\nNov 25\nNeurodiversity Part 3\nLoneliness\n\n\n12\nDec 2\nNeurodiversity Part 4\nAutism\n\n\n13\nDec 9\nNeurodiversity Part 5\nAttention and impulsivity\n\n\n14\nDec 16\nEssay Writing\nEssay writing"
   },
   {
     "objectID": "syllabus/index.html#assessment",
@@ -68,6 +68,76 @@
     "title": "Syllabus",
     "section": "Supporting Materials",
     "text": "Supporting Materials\n\nLectures\nLecture slides will be posted on Moodle before each lecture.\n\n\nTexts, journal articles and books\nThe course will feature select material from books and journal articles. This material will be available on this website, via Moodle or via ETHZ’s library holdings and subscriptions."
+  },
+  {
+    "objectID": "lectures/slides/week9/09_neurodiversity_slides.html#today",
+    "href": "lectures/slides/week9/09_neurodiversity_slides.html#today",
+    "title": "Lecture 9 - Re-thinking neurodiversity",
+    "section": "Today",
+    "text": "Today\n\n\n\nPart 1\n\nRe-thinking neurodiversity\n\n\nPart 2\n\nRead articles and discuss"
+  },
+  {
+    "objectID": "lectures/slides/week9/09_neurodiversity_slides.html#today-1",
+    "href": "lectures/slides/week9/09_neurodiversity_slides.html#today-1",
+    "title": "Lecture 9 - Re-thinking neurodiversity",
+    "section": "Today",
+    "text": "Today\n\n\n\nPart 1\n\nRe-thinking neurodiversity\n\n\nPart 2\n\nRead articles and discuss"
+  },
+  {
+    "objectID": "lectures/slides/week9/09_neurodiversity_slides.html#discussion-material",
+    "href": "lectures/slides/week9/09_neurodiversity_slides.html#discussion-material",
+    "title": "Lecture 9 - Re-thinking neurodiversity",
+    "section": "Discussion material",
+    "text": "Discussion material\n\n\nbreak into small groups (~ 5 per group)\ndiscuss aspects of the lecture\ndiscuss aspects of the journal article: {target=’_blank’}"
+  },
+  {
+    "objectID": "lectures/slides/week9/09_neurodiversity_slides.html#references",
+    "href": "lectures/slides/week9/09_neurodiversity_slides.html#references",
+    "title": "Lecture 9 - Re-thinking neurodiversity",
+    "section": "References",
+    "text": "References"
+  },
+  {
+    "objectID": "lectures/slides/week9/09_neurodiversity_slides.html#acknowledgements",
+    "href": "lectures/slides/week9/09_neurodiversity_slides.html#acknowledgements",
+    "title": "Lecture 9 - Re-thinking neurodiversity",
+    "section": "Acknowledgements",
+    "text": "Acknowledgements\n\nUnless otherwise specified, icons and images were used under license from The Noun Project\nSlides were created with Quarto and RevealJS"
+  },
+  {
+    "objectID": "lectures/slides/week7/07_neuro_2_slides.html#today",
+    "href": "lectures/slides/week7/07_neuro_2_slides.html#today",
+    "title": "Lecture 7 - Social Neuroscience: Reading faces and bodies",
+    "section": "Today",
+    "text": "Today\n\n\n\nPart 1\n\nSocial Neuroscience: Reading faces and bodies\n\n\nPart 2\n\nRead articles and discuss"
+  },
+  {
+    "objectID": "lectures/slides/week7/07_neuro_2_slides.html#today-1",
+    "href": "lectures/slides/week7/07_neuro_2_slides.html#today-1",
+    "title": "Lecture 7 - Social Neuroscience: Reading faces and bodies",
+    "section": "Today",
+    "text": "Today\n\n\n\nPart 1\n\nSocial Neuroscience: Reading faces and bodies\n\n\nPart 2\n\nRead articles and discuss"
+  },
+  {
+    "objectID": "lectures/slides/week7/07_neuro_2_slides.html#discussion-material",
+    "href": "lectures/slides/week7/07_neuro_2_slides.html#discussion-material",
+    "title": "Lecture 7 - Social Neuroscience: Reading faces and bodies",
+    "section": "Discussion material",
+    "text": "Discussion material\n\n\nbreak into small groups (~ 5 per group)\ndiscuss aspects of the lecture\ndiscuss aspects of the journal article: {target=’_blank’}"
+  },
+  {
+    "objectID": "lectures/slides/week7/07_neuro_2_slides.html#references",
+    "href": "lectures/slides/week7/07_neuro_2_slides.html#references",
+    "title": "Lecture 7 - Social Neuroscience: Reading faces and bodies",
+    "section": "References",
+    "text": "References"
+  },
+  {
+    "objectID": "lectures/slides/week7/07_neuro_2_slides.html#acknowledgements",
+    "href": "lectures/slides/week7/07_neuro_2_slides.html#acknowledgements",
+    "title": "Lecture 7 - Social Neuroscience: Reading faces and bodies",
+    "section": "Acknowledgements",
+    "text": "Acknowledgements\n\nUnless otherwise specified, icons and images were used under license from The Noun Project\nSlides were created with Quarto and RevealJS"
   },
   {
     "objectID": "lectures/slides/week4/04_theory_slides.html#today",
@@ -504,6 +574,76 @@
     "text": "Acknowledgements\n\nUnless otherwise specified, icons and images were used under license from The Noun Project\nSlides were created with Quarto and RevealJS"
   },
   {
+    "objectID": "lectures/slides/week13/13_attention_slides.html#today",
+    "href": "lectures/slides/week13/13_attention_slides.html#today",
+    "title": "Lecture 13 - Attention and impulsivity",
+    "section": "Today",
+    "text": "Today\n\n\n\nPart 1\n\nAttention and impulsivity\n\n\nPart 2\n\nRead articles and discuss"
+  },
+  {
+    "objectID": "lectures/slides/week13/13_attention_slides.html#today-1",
+    "href": "lectures/slides/week13/13_attention_slides.html#today-1",
+    "title": "Lecture 13 - Attention and impulsivity",
+    "section": "Today",
+    "text": "Today\n\n\n\nPart 1\n\nAttention and impulsivity\n\n\nPart 2\n\nRead articles and discuss"
+  },
+  {
+    "objectID": "lectures/slides/week13/13_attention_slides.html#discussion-material",
+    "href": "lectures/slides/week13/13_attention_slides.html#discussion-material",
+    "title": "Lecture 13 - Attention and impulsivity",
+    "section": "Discussion material",
+    "text": "Discussion material\n\n\nbreak into small groups (~ 5 per group)\ndiscuss aspects of the lecture\ndiscuss aspects of the journal article: {target=’_blank’}"
+  },
+  {
+    "objectID": "lectures/slides/week13/13_attention_slides.html#references",
+    "href": "lectures/slides/week13/13_attention_slides.html#references",
+    "title": "Lecture 13 - Attention and impulsivity",
+    "section": "References",
+    "text": "References"
+  },
+  {
+    "objectID": "lectures/slides/week13/13_attention_slides.html#acknowledgements",
+    "href": "lectures/slides/week13/13_attention_slides.html#acknowledgements",
+    "title": "Lecture 13 - Attention and impulsivity",
+    "section": "Acknowledgements",
+    "text": "Acknowledgements\n\nUnless otherwise specified, icons and images were used under license from The Noun Project\nSlides were created with Quarto and RevealJS"
+  },
+  {
+    "objectID": "lectures/slides/week11/11_loneliness_slides.html#today",
+    "href": "lectures/slides/week11/11_loneliness_slides.html#today",
+    "title": "Lecture 11 - Loneliness",
+    "section": "Today",
+    "text": "Today\n\n\n\nPart 1\n\nLoneliness\n\n\nPart 2\n\nRead articles and discuss"
+  },
+  {
+    "objectID": "lectures/slides/week11/11_loneliness_slides.html#today-1",
+    "href": "lectures/slides/week11/11_loneliness_slides.html#today-1",
+    "title": "Lecture 11 - Loneliness",
+    "section": "Today",
+    "text": "Today\n\n\n\nPart 1\n\nLoneliness\n\n\nPart 2\n\nRead articles and discuss"
+  },
+  {
+    "objectID": "lectures/slides/week11/11_loneliness_slides.html#discussion-material",
+    "href": "lectures/slides/week11/11_loneliness_slides.html#discussion-material",
+    "title": "Lecture 11 - Loneliness",
+    "section": "Discussion material",
+    "text": "Discussion material\n\n\nbreak into small groups (~ 5 per group)\ndiscuss aspects of the lecture\ndiscuss aspects of the journal article: {target=’_blank’}"
+  },
+  {
+    "objectID": "lectures/slides/week11/11_loneliness_slides.html#references",
+    "href": "lectures/slides/week11/11_loneliness_slides.html#references",
+    "title": "Lecture 11 - Loneliness",
+    "section": "References",
+    "text": "References"
+  },
+  {
+    "objectID": "lectures/slides/week11/11_loneliness_slides.html#acknowledgements",
+    "href": "lectures/slides/week11/11_loneliness_slides.html#acknowledgements",
+    "title": "Lecture 11 - Loneliness",
+    "section": "Acknowledgements",
+    "text": "Acknowledgements\n\nUnless otherwise specified, icons and images were used under license from The Noun Project\nSlides were created with Quarto and RevealJS"
+  },
+  {
     "objectID": "lectures/index.html",
     "href": "lectures/index.html",
     "title": "Lectures",
@@ -515,225 +655,207 @@
     ]
   },
   {
-    "objectID": "lectures/04_theory.html",
-    "href": "lectures/04_theory.html",
-    "title": "A problem in theory?",
+    "objectID": "lectures/13_attention.html",
+    "href": "lectures/13_attention.html",
+    "title": "Attention and impulsivity",
     "section": "",
     "text": "blah.\n\n\n\n\n\n\nKey concepts",
     "crumbs": [
       "Lectures",
       "<b>Lectures</b>",
-      "A problem in theory?"
+      "Attention and impulsivity"
     ]
   },
   {
-    "objectID": "lectures/04_theory.html#objectives",
-    "href": "lectures/04_theory.html#objectives",
-    "title": "A problem in theory?",
+    "objectID": "lectures/13_attention.html#objectives",
+    "href": "lectures/13_attention.html#objectives",
+    "title": "Attention and impulsivity",
     "section": "",
     "text": "blah.\n\n\n\n\n\n\nKey concepts",
     "crumbs": [
       "Lectures",
       "<b>Lectures</b>",
-      "A problem in theory?"
+      "Attention and impulsivity"
     ]
   },
   {
-    "objectID": "lectures/04_theory.html#lecture-slides",
-    "href": "lectures/04_theory.html#lecture-slides",
-    "title": "A problem in theory?",
+    "objectID": "lectures/13_attention.html#lecture-slides",
+    "href": "lectures/13_attention.html#lecture-slides",
+    "title": "Attention and impulsivity",
     "section": "Lecture slides",
     "text": "Lecture slides\n\nView Slides (opens in new tab)\nDownload Slides PDF",
     "crumbs": [
       "Lectures",
       "<b>Lectures</b>",
-      "A problem in theory?"
+      "Attention and impulsivity"
     ]
   },
   {
-    "objectID": "lectures/04_theory.html#discussion-paper",
-    "href": "lectures/04_theory.html#discussion-paper",
-    "title": "A problem in theory?",
+    "objectID": "lectures/13_attention.html#discussion-paper",
+    "href": "lectures/13_attention.html#discussion-paper",
+    "title": "Attention and impulsivity",
     "section": "Discussion paper",
-    "text": "Discussion paper\nScheel et al., 2021",
+    "text": "Discussion paper\n[link here]",
     "crumbs": [
       "Lectures",
       "<b>Lectures</b>",
-      "A problem in theory?"
+      "Attention and impulsivity"
     ]
   },
   {
-    "objectID": "lectures/02_crisis.html",
-    "href": "lectures/02_crisis.html",
-    "title": "Is psychological science in a crisis?",
+    "objectID": "lectures/11_loneliness.html",
+    "href": "lectures/11_loneliness.html",
+    "title": "Loneliness",
     "section": "",
     "text": "blah.\n\n\n\n\n\n\nKey concepts",
     "crumbs": [
       "Lectures",
       "<b>Lectures</b>",
-      "Is psychological science in a crisis?"
+      "Loneliness"
     ]
   },
   {
-    "objectID": "lectures/02_crisis.html#objectives",
-    "href": "lectures/02_crisis.html#objectives",
-    "title": "Is psychological science in a crisis?",
+    "objectID": "lectures/11_loneliness.html#objectives",
+    "href": "lectures/11_loneliness.html#objectives",
+    "title": "Loneliness",
     "section": "",
     "text": "blah.\n\n\n\n\n\n\nKey concepts",
     "crumbs": [
       "Lectures",
       "<b>Lectures</b>",
-      "Is psychological science in a crisis?"
+      "Loneliness"
     ]
   },
   {
-    "objectID": "lectures/02_crisis.html#lecture-slides",
-    "href": "lectures/02_crisis.html#lecture-slides",
-    "title": "Is psychological science in a crisis?",
+    "objectID": "lectures/11_loneliness.html#lecture-slides",
+    "href": "lectures/11_loneliness.html#lecture-slides",
+    "title": "Loneliness",
     "section": "Lecture slides",
     "text": "Lecture slides\n\nView Slides (opens in new tab)\nDownload Slides PDF",
     "crumbs": [
       "Lectures",
       "<b>Lectures</b>",
-      "Is psychological science in a crisis?"
+      "Loneliness"
     ]
   },
   {
-    "objectID": "lectures/02_crisis.html#discussion-paper",
-    "href": "lectures/02_crisis.html#discussion-paper",
-    "title": "Is psychological science in a crisis?",
+    "objectID": "lectures/11_loneliness.html#discussion-paper",
+    "href": "lectures/11_loneliness.html#discussion-paper",
+    "title": "Loneliness",
     "section": "Discussion paper",
-    "text": "Discussion paper\nOpen Science Collaboration, 2015",
+    "text": "Discussion paper\n[link here]",
     "crumbs": [
       "Lectures",
       "<b>Lectures</b>",
-      "Is psychological science in a crisis?"
+      "Loneliness"
     ]
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "The Social Brain: Critical Perspectives on Science, Society and Neurodiversity",
-    "section": "",
-    "text": "This is the course website for The Social Brain: Critical Perspectives on Science, Society and Neurodiversity, developed and taught by Dr. Rich Ramsey at ETH Zürich."
-  },
-  {
-    "objectID": "index.html#welcome",
-    "href": "index.html#welcome",
-    "title": "The Social Brain: Critical Perspectives on Science, Society and Neurodiversity",
-    "section": "",
-    "text": "This is the course website for The Social Brain: Critical Perspectives on Science, Society and Neurodiversity, developed and taught by Dr. Rich Ramsey at ETH Zürich."
-  },
-  {
-    "objectID": "index.html#course-description",
-    "href": "index.html#course-description",
-    "title": "The Social Brain: Critical Perspectives on Science, Society and Neurodiversity",
-    "section": "Course description",
-    "text": "Course description\nMeaningful social interactions form the foundation of cohesive societies, with implications extending far beyond psychology and neuroscience into education, technology, policy, and healthcare. Although the scientific study of social behavior has only recently emerged as a distinct research discipline, its applications are already widespread, raising critical questions about the relationship between knowledge creation and societal applications. Simultaneously, multiple scientific disciplines are confronting a “replication crisis,” revealing challenges in reproducing findings and highlighting questionable research practices that demand critical reflection on how scientific knowledge is produced and communicated. This seminar examines the historical, moral, epistemological, and societal contexts of social neuroscience research, encouraging students to question established frameworks and consider a variety of new perspectives. We begin by exploring how a widespread replication crisis has emerged in science and what it means for both research practices and public science literacy. The seminar then applies this critical lens to social neuroscience, examining how reconceptualizing cognitive variation as a natural continuum rather than through deficit models can transform scientific understanding and promote more inclusive societal perspectives that value the rich diversity of human experience and capability."
-  },
-  {
-    "objectID": "index.html#website-information",
-    "href": "index.html#website-information",
-    "title": "The Social Brain: Critical Perspectives on Science, Society and Neurodiversity",
-    "section": "Website information",
-    "text": "Website information\nOn this website, you can find the course syllabus, as well as the details for the course lectures."
-  },
-  {
-    "objectID": "index.html#acknowledgments",
-    "href": "index.html#acknowledgments",
-    "title": "The Social Brain: Critical Perspectives on Science, Society and Neurodiversity",
-    "section": "Acknowledgments",
-    "text": "Acknowledgments\nThe structure of this website closely follows open access materials shared by:\n\nMaureen Ritchey. Programming for Psychology and Neuroscience."
-  },
-  {
-    "objectID": "index.html#license",
-    "href": "index.html#license",
-    "title": "The Social Brain: Critical Perspectives on Science, Society and Neurodiversity",
-    "section": "License",
-    "text": "License\n Richard Ramsey, 2025 All content licensed under     (CC BY-NC-SA 4.0)"
-  },
-  {
-    "objectID": "lectures/01_intro.html",
-    "href": "lectures/01_intro.html",
-    "title": "Introduction",
+    "objectID": "lectures/09_neurodiversity.html",
+    "href": "lectures/09_neurodiversity.html",
+    "title": "Re-thinking neurodiversity",
     "section": "",
     "text": "blah.\n\n\n\n\n\n\nKey concepts",
     "crumbs": [
       "Lectures",
       "<b>Lectures</b>",
-      "Introduction"
+      "Re-thinking neurodiversity"
     ]
   },
   {
-    "objectID": "lectures/01_intro.html#objectives",
-    "href": "lectures/01_intro.html#objectives",
-    "title": "Introduction",
+    "objectID": "lectures/09_neurodiversity.html#objectives",
+    "href": "lectures/09_neurodiversity.html#objectives",
+    "title": "Re-thinking neurodiversity",
     "section": "",
     "text": "blah.\n\n\n\n\n\n\nKey concepts",
     "crumbs": [
       "Lectures",
       "<b>Lectures</b>",
-      "Introduction"
+      "Re-thinking neurodiversity"
     ]
   },
   {
-    "objectID": "lectures/01_intro.html#lecture-slides",
-    "href": "lectures/01_intro.html#lecture-slides",
-    "title": "Introduction",
+    "objectID": "lectures/09_neurodiversity.html#lecture-slides",
+    "href": "lectures/09_neurodiversity.html#lecture-slides",
+    "title": "Re-thinking neurodiversity",
     "section": "Lecture slides",
     "text": "Lecture slides\n\nView Slides (opens in new tab)\nDownload Slides PDF",
     "crumbs": [
       "Lectures",
       "<b>Lectures</b>",
-      "Introduction"
+      "Re-thinking neurodiversity"
     ]
   },
   {
-    "objectID": "lectures/03_reform.html",
-    "href": "lectures/03_reform.html",
-    "title": "The reform movement in psychological science",
-    "section": "",
-    "text": "blah.\n\n\n\n\n\n\nKey concepts",
-    "crumbs": [
-      "Lectures",
-      "<b>Lectures</b>",
-      "The reform movement in psychological science"
-    ]
-  },
-  {
-    "objectID": "lectures/03_reform.html#objectives",
-    "href": "lectures/03_reform.html#objectives",
-    "title": "The reform movement in psychological science",
-    "section": "",
-    "text": "blah.\n\n\n\n\n\n\nKey concepts",
-    "crumbs": [
-      "Lectures",
-      "<b>Lectures</b>",
-      "The reform movement in psychological science"
-    ]
-  },
-  {
-    "objectID": "lectures/03_reform.html#lecture-slides",
-    "href": "lectures/03_reform.html#lecture-slides",
-    "title": "The reform movement in psychological science",
-    "section": "Lecture slides",
-    "text": "Lecture slides\n\nView Slides (opens in new tab)\nDownload Slides PDF",
-    "crumbs": [
-      "Lectures",
-      "<b>Lectures</b>",
-      "The reform movement in psychological science"
-    ]
-  },
-  {
-    "objectID": "lectures/03_reform.html#discussion-paper",
-    "href": "lectures/03_reform.html#discussion-paper",
-    "title": "The reform movement in psychological science",
+    "objectID": "lectures/09_neurodiversity.html#discussion-paper",
+    "href": "lectures/09_neurodiversity.html#discussion-paper",
+    "title": "Re-thinking neurodiversity",
     "section": "Discussion paper",
-    "text": "Discussion paper\nMunafò et al., 2017",
+    "text": "Discussion paper\n[link here]",
     "crumbs": [
       "Lectures",
       "<b>Lectures</b>",
-      "The reform movement in psychological science"
+      "Re-thinking neurodiversity"
+    ]
+  },
+  {
+    "objectID": "lectures/07_neuro_2.html",
+    "href": "lectures/07_neuro_2.html",
+    "title": "Reading faces and bodies",
+    "section": "",
+    "text": "blah.\n\n\n\n\n\n\nKey concepts",
+    "crumbs": [
+      "Lectures",
+      "<b>Lectures</b>",
+      "Reading faces and bodies"
+    ]
+  },
+  {
+    "objectID": "lectures/07_neuro_2.html#objectives",
+    "href": "lectures/07_neuro_2.html#objectives",
+    "title": "Reading faces and bodies",
+    "section": "",
+    "text": "blah.\n\n\n\n\n\n\nKey concepts",
+    "crumbs": [
+      "Lectures",
+      "<b>Lectures</b>",
+      "Reading faces and bodies"
+    ]
+  },
+  {
+    "objectID": "lectures/07_neuro_2.html#lecture-slides",
+    "href": "lectures/07_neuro_2.html#lecture-slides",
+    "title": "Reading faces and bodies",
+    "section": "Lecture slides",
+    "text": "Lecture slides\n\nView Slides (opens in new tab)\nDownload Slides PDF",
+    "crumbs": [
+      "Lectures",
+      "<b>Lectures</b>",
+      "Reading faces and bodies"
+    ]
+  },
+  {
+    "objectID": "lectures/07_neuro_2.html#discussion-paper",
+    "href": "lectures/07_neuro_2.html#discussion-paper",
+    "title": "Reading faces and bodies",
+    "section": "Discussion paper",
+    "text": "Discussion paper\n[link here]",
+    "crumbs": [
+      "Lectures",
+      "<b>Lectures</b>",
+      "Reading faces and bodies"
+    ]
+  },
+  {
+    "objectID": "lectures/07_neuro_2.html#book-chapter",
+    "href": "lectures/07_neuro_2.html#book-chapter",
+    "title": "Reading faces and bodies",
+    "section": "Book chapter",
+    "text": "Book chapter\nReading faces and bodies: Ward (2023, Chapter 5)",
+    "crumbs": [
+      "Lectures",
+      "<b>Lectures</b>",
+      "Reading faces and bodies"
     ]
   },
   {
@@ -794,6 +916,492 @@
       "Lectures",
       "<b>Lectures</b>",
       "Reflection"
+    ]
+  },
+  {
+    "objectID": "lectures/03_reform.html",
+    "href": "lectures/03_reform.html",
+    "title": "The reform movement in psychological science",
+    "section": "",
+    "text": "blah.\n\n\n\n\n\n\nKey concepts",
+    "crumbs": [
+      "Lectures",
+      "<b>Lectures</b>",
+      "The reform movement in psychological science"
+    ]
+  },
+  {
+    "objectID": "lectures/03_reform.html#objectives",
+    "href": "lectures/03_reform.html#objectives",
+    "title": "The reform movement in psychological science",
+    "section": "",
+    "text": "blah.\n\n\n\n\n\n\nKey concepts",
+    "crumbs": [
+      "Lectures",
+      "<b>Lectures</b>",
+      "The reform movement in psychological science"
+    ]
+  },
+  {
+    "objectID": "lectures/03_reform.html#lecture-slides",
+    "href": "lectures/03_reform.html#lecture-slides",
+    "title": "The reform movement in psychological science",
+    "section": "Lecture slides",
+    "text": "Lecture slides\n\nView Slides (opens in new tab)\nDownload Slides PDF",
+    "crumbs": [
+      "Lectures",
+      "<b>Lectures</b>",
+      "The reform movement in psychological science"
+    ]
+  },
+  {
+    "objectID": "lectures/03_reform.html#discussion-paper",
+    "href": "lectures/03_reform.html#discussion-paper",
+    "title": "The reform movement in psychological science",
+    "section": "Discussion paper",
+    "text": "Discussion paper\nMunafò et al., 2017",
+    "crumbs": [
+      "Lectures",
+      "<b>Lectures</b>",
+      "The reform movement in psychological science"
+    ]
+  },
+  {
+    "objectID": "lectures/01_intro.html",
+    "href": "lectures/01_intro.html",
+    "title": "Introduction",
+    "section": "",
+    "text": "blah.\n\n\n\n\n\n\nKey concepts",
+    "crumbs": [
+      "Lectures",
+      "<b>Lectures</b>",
+      "Introduction"
+    ]
+  },
+  {
+    "objectID": "lectures/01_intro.html#objectives",
+    "href": "lectures/01_intro.html#objectives",
+    "title": "Introduction",
+    "section": "",
+    "text": "blah.\n\n\n\n\n\n\nKey concepts",
+    "crumbs": [
+      "Lectures",
+      "<b>Lectures</b>",
+      "Introduction"
+    ]
+  },
+  {
+    "objectID": "lectures/01_intro.html#lecture-slides",
+    "href": "lectures/01_intro.html#lecture-slides",
+    "title": "Introduction",
+    "section": "Lecture slides",
+    "text": "Lecture slides\n\nView Slides (opens in new tab)\nDownload Slides PDF",
+    "crumbs": [
+      "Lectures",
+      "<b>Lectures</b>",
+      "Introduction"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "The Social Brain: Critical Perspectives on Science, Society and Neurodiversity",
+    "section": "",
+    "text": "This is the course website for The Social Brain: Critical Perspectives on Science, Society and Neurodiversity, developed and taught by Dr. Rich Ramsey at ETH Zürich."
+  },
+  {
+    "objectID": "index.html#welcome",
+    "href": "index.html#welcome",
+    "title": "The Social Brain: Critical Perspectives on Science, Society and Neurodiversity",
+    "section": "",
+    "text": "This is the course website for The Social Brain: Critical Perspectives on Science, Society and Neurodiversity, developed and taught by Dr. Rich Ramsey at ETH Zürich."
+  },
+  {
+    "objectID": "index.html#course-description",
+    "href": "index.html#course-description",
+    "title": "The Social Brain: Critical Perspectives on Science, Society and Neurodiversity",
+    "section": "Course description",
+    "text": "Course description\nMeaningful social interactions form the foundation of cohesive societies, with implications extending far beyond psychology and neuroscience into education, technology, policy, and healthcare. Although the scientific study of social behavior has only recently emerged as a distinct research discipline, its applications are already widespread, raising critical questions about the relationship between knowledge creation and societal applications. Simultaneously, multiple scientific disciplines are confronting a “replication crisis,” revealing challenges in reproducing findings and highlighting questionable research practices that demand critical reflection on how scientific knowledge is produced and communicated. This seminar examines the historical, moral, epistemological, and societal contexts of social neuroscience research, encouraging students to question established frameworks and consider a variety of new perspectives. We begin by exploring how a widespread replication crisis has emerged in science and what it means for both research practices and public science literacy. The seminar then applies this critical lens to social neuroscience, examining how reconceptualizing cognitive variation as a natural continuum rather than through deficit models can transform scientific understanding and promote more inclusive societal perspectives that value the rich diversity of human experience and capability."
+  },
+  {
+    "objectID": "index.html#website-information",
+    "href": "index.html#website-information",
+    "title": "The Social Brain: Critical Perspectives on Science, Society and Neurodiversity",
+    "section": "Website information",
+    "text": "Website information\nOn this website, you can find the course syllabus, as well as the details for the course lectures."
+  },
+  {
+    "objectID": "index.html#acknowledgments",
+    "href": "index.html#acknowledgments",
+    "title": "The Social Brain: Critical Perspectives on Science, Society and Neurodiversity",
+    "section": "Acknowledgments",
+    "text": "Acknowledgments\nThe structure of this website closely follows open access materials shared by:\n\nMaureen Ritchey. Programming for Psychology and Neuroscience."
+  },
+  {
+    "objectID": "index.html#license",
+    "href": "index.html#license",
+    "title": "The Social Brain: Critical Perspectives on Science, Society and Neurodiversity",
+    "section": "License",
+    "text": "License\n Richard Ramsey, 2025 All content licensed under     (CC BY-NC-SA 4.0)"
+  },
+  {
+    "objectID": "lectures/02_crisis.html",
+    "href": "lectures/02_crisis.html",
+    "title": "Is psychological science in a crisis?",
+    "section": "",
+    "text": "blah.\n\n\n\n\n\n\nKey concepts",
+    "crumbs": [
+      "Lectures",
+      "<b>Lectures</b>",
+      "Is psychological science in a crisis?"
+    ]
+  },
+  {
+    "objectID": "lectures/02_crisis.html#objectives",
+    "href": "lectures/02_crisis.html#objectives",
+    "title": "Is psychological science in a crisis?",
+    "section": "",
+    "text": "blah.\n\n\n\n\n\n\nKey concepts",
+    "crumbs": [
+      "Lectures",
+      "<b>Lectures</b>",
+      "Is psychological science in a crisis?"
+    ]
+  },
+  {
+    "objectID": "lectures/02_crisis.html#lecture-slides",
+    "href": "lectures/02_crisis.html#lecture-slides",
+    "title": "Is psychological science in a crisis?",
+    "section": "Lecture slides",
+    "text": "Lecture slides\n\nView Slides (opens in new tab)\nDownload Slides PDF",
+    "crumbs": [
+      "Lectures",
+      "<b>Lectures</b>",
+      "Is psychological science in a crisis?"
+    ]
+  },
+  {
+    "objectID": "lectures/02_crisis.html#discussion-paper",
+    "href": "lectures/02_crisis.html#discussion-paper",
+    "title": "Is psychological science in a crisis?",
+    "section": "Discussion paper",
+    "text": "Discussion paper\nOpen Science Collaboration, 2015",
+    "crumbs": [
+      "Lectures",
+      "<b>Lectures</b>",
+      "Is psychological science in a crisis?"
+    ]
+  },
+  {
+    "objectID": "lectures/04_theory.html",
+    "href": "lectures/04_theory.html",
+    "title": "A problem in theory?",
+    "section": "",
+    "text": "blah.\n\n\n\n\n\n\nKey concepts",
+    "crumbs": [
+      "Lectures",
+      "<b>Lectures</b>",
+      "A problem in theory?"
+    ]
+  },
+  {
+    "objectID": "lectures/04_theory.html#objectives",
+    "href": "lectures/04_theory.html#objectives",
+    "title": "A problem in theory?",
+    "section": "",
+    "text": "blah.\n\n\n\n\n\n\nKey concepts",
+    "crumbs": [
+      "Lectures",
+      "<b>Lectures</b>",
+      "A problem in theory?"
+    ]
+  },
+  {
+    "objectID": "lectures/04_theory.html#lecture-slides",
+    "href": "lectures/04_theory.html#lecture-slides",
+    "title": "A problem in theory?",
+    "section": "Lecture slides",
+    "text": "Lecture slides\n\nView Slides (opens in new tab)\nDownload Slides PDF",
+    "crumbs": [
+      "Lectures",
+      "<b>Lectures</b>",
+      "A problem in theory?"
+    ]
+  },
+  {
+    "objectID": "lectures/04_theory.html#discussion-paper",
+    "href": "lectures/04_theory.html#discussion-paper",
+    "title": "A problem in theory?",
+    "section": "Discussion paper",
+    "text": "Discussion paper\nScheel et al., 2021",
+    "crumbs": [
+      "Lectures",
+      "<b>Lectures</b>",
+      "A problem in theory?"
+    ]
+  },
+  {
+    "objectID": "lectures/06_neuro_1.html",
+    "href": "lectures/06_neuro_1.html",
+    "title": "An introduction to social neuroscience",
+    "section": "",
+    "text": "blah.\n\n\n\n\n\n\nKey concepts",
+    "crumbs": [
+      "Lectures",
+      "<b>Lectures</b>",
+      "An introduction to social neuroscience"
+    ]
+  },
+  {
+    "objectID": "lectures/06_neuro_1.html#objectives",
+    "href": "lectures/06_neuro_1.html#objectives",
+    "title": "An introduction to social neuroscience",
+    "section": "",
+    "text": "blah.\n\n\n\n\n\n\nKey concepts",
+    "crumbs": [
+      "Lectures",
+      "<b>Lectures</b>",
+      "An introduction to social neuroscience"
+    ]
+  },
+  {
+    "objectID": "lectures/06_neuro_1.html#lecture-slides",
+    "href": "lectures/06_neuro_1.html#lecture-slides",
+    "title": "An introduction to social neuroscience",
+    "section": "Lecture slides",
+    "text": "Lecture slides\n\nView Slides (opens in new tab)\nDownload Slides PDF",
+    "crumbs": [
+      "Lectures",
+      "<b>Lectures</b>",
+      "An introduction to social neuroscience"
+    ]
+  },
+  {
+    "objectID": "lectures/06_neuro_1.html#discussion-paper",
+    "href": "lectures/06_neuro_1.html#discussion-paper",
+    "title": "An introduction to social neuroscience",
+    "section": "Discussion paper",
+    "text": "Discussion paper\n[link here]",
+    "crumbs": [
+      "Lectures",
+      "<b>Lectures</b>",
+      "An introduction to social neuroscience"
+    ]
+  },
+  {
+    "objectID": "lectures/06_neuro_1.html#book-chapter",
+    "href": "lectures/06_neuro_1.html#book-chapter",
+    "title": "An introduction to social neuroscience",
+    "section": "Book chapter",
+    "text": "Book chapter\nAn introduction to social neuroscience: Ward (2023, Chapter 1)",
+    "crumbs": [
+      "Lectures",
+      "<b>Lectures</b>",
+      "An introduction to social neuroscience"
+    ]
+  },
+  {
+    "objectID": "lectures/08_neuro_3.html",
+    "href": "lectures/08_neuro_3.html",
+    "title": "Understanding others",
+    "section": "",
+    "text": "blah.\n\n\n\n\n\n\nKey concepts",
+    "crumbs": [
+      "Lectures",
+      "<b>Lectures</b>",
+      "Understanding others"
+    ]
+  },
+  {
+    "objectID": "lectures/08_neuro_3.html#objectives",
+    "href": "lectures/08_neuro_3.html#objectives",
+    "title": "Understanding others",
+    "section": "",
+    "text": "blah.\n\n\n\n\n\n\nKey concepts",
+    "crumbs": [
+      "Lectures",
+      "<b>Lectures</b>",
+      "Understanding others"
+    ]
+  },
+  {
+    "objectID": "lectures/08_neuro_3.html#lecture-slides",
+    "href": "lectures/08_neuro_3.html#lecture-slides",
+    "title": "Understanding others",
+    "section": "Lecture slides",
+    "text": "Lecture slides\n\nView Slides (opens in new tab)\nDownload Slides PDF",
+    "crumbs": [
+      "Lectures",
+      "<b>Lectures</b>",
+      "Understanding others"
+    ]
+  },
+  {
+    "objectID": "lectures/08_neuro_3.html#discussion-paper",
+    "href": "lectures/08_neuro_3.html#discussion-paper",
+    "title": "Understanding others",
+    "section": "Discussion paper",
+    "text": "Discussion paper\n[link here]",
+    "crumbs": [
+      "Lectures",
+      "<b>Lectures</b>",
+      "Understanding others"
+    ]
+  },
+  {
+    "objectID": "lectures/08_neuro_3.html#book-chapter",
+    "href": "lectures/08_neuro_3.html#book-chapter",
+    "title": "Understanding others",
+    "section": "Book chapter",
+    "text": "Book chapter\nUnderstanding others: Ward (2023, Chapter 6)",
+    "crumbs": [
+      "Lectures",
+      "<b>Lectures</b>",
+      "Understanding others"
+    ]
+  },
+  {
+    "objectID": "lectures/10_clinic.html",
+    "href": "lectures/10_clinic.html",
+    "title": "Guest lecture: A view from the clinic",
+    "section": "",
+    "text": "blah.\n\n\n\n\n\n\nKey concepts",
+    "crumbs": [
+      "Lectures",
+      "<b>Lectures</b>",
+      "Guest lecture: A view from the clinic"
+    ]
+  },
+  {
+    "objectID": "lectures/10_clinic.html#objectives",
+    "href": "lectures/10_clinic.html#objectives",
+    "title": "Guest lecture: A view from the clinic",
+    "section": "",
+    "text": "blah.\n\n\n\n\n\n\nKey concepts",
+    "crumbs": [
+      "Lectures",
+      "<b>Lectures</b>",
+      "Guest lecture: A view from the clinic"
+    ]
+  },
+  {
+    "objectID": "lectures/10_clinic.html#lecture-slides",
+    "href": "lectures/10_clinic.html#lecture-slides",
+    "title": "Guest lecture: A view from the clinic",
+    "section": "Lecture slides",
+    "text": "Lecture slides\n\nDownload Slides PDF",
+    "crumbs": [
+      "Lectures",
+      "<b>Lectures</b>",
+      "Guest lecture: A view from the clinic"
+    ]
+  },
+  {
+    "objectID": "lectures/10_clinic.html#discussion",
+    "href": "lectures/10_clinic.html#discussion",
+    "title": "Guest lecture: A view from the clinic",
+    "section": "Discussion",
+    "text": "Discussion\nThere will be a group discussion with the guest lecturer and those involved in treatment.",
+    "crumbs": [
+      "Lectures",
+      "<b>Lectures</b>",
+      "Guest lecture: A view from the clinic"
+    ]
+  },
+  {
+    "objectID": "lectures/12_autism.html",
+    "href": "lectures/12_autism.html",
+    "title": "Autism",
+    "section": "",
+    "text": "blah.\n\n\n\n\n\n\nKey concepts",
+    "crumbs": [
+      "Lectures",
+      "<b>Lectures</b>",
+      "Autism"
+    ]
+  },
+  {
+    "objectID": "lectures/12_autism.html#objectives",
+    "href": "lectures/12_autism.html#objectives",
+    "title": "Autism",
+    "section": "",
+    "text": "blah.\n\n\n\n\n\n\nKey concepts",
+    "crumbs": [
+      "Lectures",
+      "<b>Lectures</b>",
+      "Autism"
+    ]
+  },
+  {
+    "objectID": "lectures/12_autism.html#lecture-slides",
+    "href": "lectures/12_autism.html#lecture-slides",
+    "title": "Autism",
+    "section": "Lecture slides",
+    "text": "Lecture slides\n\nView Slides (opens in new tab)\nDownload Slides PDF",
+    "crumbs": [
+      "Lectures",
+      "<b>Lectures</b>",
+      "Autism"
+    ]
+  },
+  {
+    "objectID": "lectures/12_autism.html#discussion-paper",
+    "href": "lectures/12_autism.html#discussion-paper",
+    "title": "Autism",
+    "section": "Discussion paper",
+    "text": "Discussion paper\n[link here]",
+    "crumbs": [
+      "Lectures",
+      "<b>Lectures</b>",
+      "Autism"
+    ]
+  },
+  {
+    "objectID": "lectures/14_essay.html",
+    "href": "lectures/14_essay.html",
+    "title": "Essay writing",
+    "section": "",
+    "text": "blah.\n\n\n\n\n\n\nKey concepts",
+    "crumbs": [
+      "Lectures",
+      "<b>Lectures</b>",
+      "Essay writing"
+    ]
+  },
+  {
+    "objectID": "lectures/14_essay.html#objectives",
+    "href": "lectures/14_essay.html#objectives",
+    "title": "Essay writing",
+    "section": "",
+    "text": "blah.\n\n\n\n\n\n\nKey concepts",
+    "crumbs": [
+      "Lectures",
+      "<b>Lectures</b>",
+      "Essay writing"
+    ]
+  },
+  {
+    "objectID": "lectures/14_essay.html#lecture-slides",
+    "href": "lectures/14_essay.html#lecture-slides",
+    "title": "Essay writing",
+    "section": "Lecture slides",
+    "text": "Lecture slides\n\nView Slides (opens in new tab)\nDownload Slides PDF",
+    "crumbs": [
+      "Lectures",
+      "<b>Lectures</b>",
+      "Essay writing"
+    ]
+  },
+  {
+    "objectID": "lectures/14_essay.html#resources",
+    "href": "lectures/14_essay.html#resources",
+    "title": "Essay writing",
+    "section": "Resources",
+    "text": "Resources\n[link here]",
+    "crumbs": [
+      "Lectures",
+      "<b>Lectures</b>",
+      "Essay writing"
     ]
   },
   {
@@ -933,6 +1541,62 @@
     "objectID": "lectures/slides/week1/01_intro_slides.html#acknowledgements",
     "href": "lectures/slides/week1/01_intro_slides.html#acknowledgements",
     "title": "Lecture 1 - Introduction",
+    "section": "Acknowledgements",
+    "text": "Acknowledgements\n\nUnless otherwise specified, icons and images were used under license from The Noun Project\nSlides were created with Quarto and RevealJS"
+  },
+  {
+    "objectID": "lectures/slides/week12/12_autism_slides.html#today",
+    "href": "lectures/slides/week12/12_autism_slides.html#today",
+    "title": "Lecture 12 - Autism",
+    "section": "Today",
+    "text": "Today\n\n\n\nPart 1\n\nAutism\n\n\nPart 2\n\nRead articles and discuss"
+  },
+  {
+    "objectID": "lectures/slides/week12/12_autism_slides.html#today-1",
+    "href": "lectures/slides/week12/12_autism_slides.html#today-1",
+    "title": "Lecture 12 - Autism",
+    "section": "Today",
+    "text": "Today\n\n\n\nPart 1\n\nAutism\n\n\nPart 2\n\nRead articles and discuss"
+  },
+  {
+    "objectID": "lectures/slides/week12/12_autism_slides.html#discussion-material",
+    "href": "lectures/slides/week12/12_autism_slides.html#discussion-material",
+    "title": "Lecture 12 - Autism",
+    "section": "Discussion material",
+    "text": "Discussion material\n\n\nbreak into small groups (~ 5 per group)\ndiscuss aspects of the lecture\ndiscuss aspects of the journal article: {target=’_blank’}"
+  },
+  {
+    "objectID": "lectures/slides/week12/12_autism_slides.html#references",
+    "href": "lectures/slides/week12/12_autism_slides.html#references",
+    "title": "Lecture 12 - Autism",
+    "section": "References",
+    "text": "References"
+  },
+  {
+    "objectID": "lectures/slides/week12/12_autism_slides.html#acknowledgements",
+    "href": "lectures/slides/week12/12_autism_slides.html#acknowledgements",
+    "title": "Lecture 12 - Autism",
+    "section": "Acknowledgements",
+    "text": "Acknowledgements\n\nUnless otherwise specified, icons and images were used under license from The Noun Project\nSlides were created with Quarto and RevealJS"
+  },
+  {
+    "objectID": "lectures/slides/week14/14_essay_slides.html#today",
+    "href": "lectures/slides/week14/14_essay_slides.html#today",
+    "title": "Lecture 14 - Essay writing",
+    "section": "Today",
+    "text": "Today\n\n\n\nPart 1\n\nEssay writing\n\n\nPart 2\n\nQ&A plus discussion"
+  },
+  {
+    "objectID": "lectures/slides/week14/14_essay_slides.html#references",
+    "href": "lectures/slides/week14/14_essay_slides.html#references",
+    "title": "Lecture 14 - Essay writing",
+    "section": "References",
+    "text": "References"
+  },
+  {
+    "objectID": "lectures/slides/week14/14_essay_slides.html#acknowledgements",
+    "href": "lectures/slides/week14/14_essay_slides.html#acknowledgements",
+    "title": "Lecture 14 - Essay writing",
     "section": "Acknowledgements",
     "text": "Acknowledgements\n\nUnless otherwise specified, icons and images were used under license from The Noun Project\nSlides were created with Quarto and RevealJS"
   },
@@ -1164,6 +1828,76 @@
     "objectID": "lectures/slides/week3/03_reform_slides.html#acknowledgements",
     "href": "lectures/slides/week3/03_reform_slides.html#acknowledgements",
     "title": "Lecture 3 - The reform movement in psychological science",
+    "section": "Acknowledgements",
+    "text": "Acknowledgements\n\nUnless otherwise specified, icons and images were used under license from The Noun Project\nSlides were created with Quarto and RevealJS"
+  },
+  {
+    "objectID": "lectures/slides/week6/06_neuro_1_slides.html#today",
+    "href": "lectures/slides/week6/06_neuro_1_slides.html#today",
+    "title": "Lecture 6 - An introduction to social neuroscience",
+    "section": "Today",
+    "text": "Today\n\n\n\nPart 1\n\nAn introduction to social neuroscience\n\n\nPart 2\n\nRead articles and discuss"
+  },
+  {
+    "objectID": "lectures/slides/week6/06_neuro_1_slides.html#today-1",
+    "href": "lectures/slides/week6/06_neuro_1_slides.html#today-1",
+    "title": "Lecture 6 - An introduction to social neuroscience",
+    "section": "Today",
+    "text": "Today\n\n\n\nPart 1\n\nAn introduction to social neuroscience\n\n\nPart 2\n\nRead articles and discuss"
+  },
+  {
+    "objectID": "lectures/slides/week6/06_neuro_1_slides.html#discussion-material",
+    "href": "lectures/slides/week6/06_neuro_1_slides.html#discussion-material",
+    "title": "Lecture 6 - An introduction to social neuroscience",
+    "section": "Discussion material",
+    "text": "Discussion material\n\n\nbreak into small groups (~ 5 per group)\ndiscuss aspects of the lecture\ndiscuss aspects of the journal article: {target=’_blank’}"
+  },
+  {
+    "objectID": "lectures/slides/week6/06_neuro_1_slides.html#references",
+    "href": "lectures/slides/week6/06_neuro_1_slides.html#references",
+    "title": "Lecture 6 - An introduction to social neuroscience",
+    "section": "References",
+    "text": "References"
+  },
+  {
+    "objectID": "lectures/slides/week6/06_neuro_1_slides.html#acknowledgements",
+    "href": "lectures/slides/week6/06_neuro_1_slides.html#acknowledgements",
+    "title": "Lecture 6 - An introduction to social neuroscience",
+    "section": "Acknowledgements",
+    "text": "Acknowledgements\n\nUnless otherwise specified, icons and images were used under license from The Noun Project\nSlides were created with Quarto and RevealJS"
+  },
+  {
+    "objectID": "lectures/slides/week8/08_neuro_3_slides.html#today",
+    "href": "lectures/slides/week8/08_neuro_3_slides.html#today",
+    "title": "Lecture 8 - Social Neuroscience: Understanding others",
+    "section": "Today",
+    "text": "Today\n\n\n\nPart 1\n\nSocial Neuroscience: Understanding others\n\n\nPart 2\n\nRead articles and discuss"
+  },
+  {
+    "objectID": "lectures/slides/week8/08_neuro_3_slides.html#today-1",
+    "href": "lectures/slides/week8/08_neuro_3_slides.html#today-1",
+    "title": "Lecture 8 - Social Neuroscience: Understanding others",
+    "section": "Today",
+    "text": "Today\n\n\n\nPart 1\n\nSocial Neuroscience: Understanding others\n\n\nPart 2\n\nRead articles and discuss"
+  },
+  {
+    "objectID": "lectures/slides/week8/08_neuro_3_slides.html#discussion-material",
+    "href": "lectures/slides/week8/08_neuro_3_slides.html#discussion-material",
+    "title": "Lecture 8 - Social Neuroscience: Understanding others",
+    "section": "Discussion material",
+    "text": "Discussion material\n\n\nbreak into small groups (~ 5 per group)\ndiscuss aspects of the lecture\ndiscuss aspects of the journal article: {target=’_blank’}"
+  },
+  {
+    "objectID": "lectures/slides/week8/08_neuro_3_slides.html#references",
+    "href": "lectures/slides/week8/08_neuro_3_slides.html#references",
+    "title": "Lecture 8 - Social Neuroscience: Understanding others",
+    "section": "References",
+    "text": "References"
+  },
+  {
+    "objectID": "lectures/slides/week8/08_neuro_3_slides.html#acknowledgements",
+    "href": "lectures/slides/week8/08_neuro_3_slides.html#acknowledgements",
+    "title": "Lecture 8 - Social Neuroscience: Understanding others",
     "section": "Acknowledgements",
     "text": "Acknowledgements\n\nUnless otherwise specified, icons and images were used under license from The Noun Project\nSlides were created with Quarto and RevealJS"
   },
