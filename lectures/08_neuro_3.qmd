@@ -4,7 +4,7 @@ title: "Understanding others"
 
 ## Objectives
 
-blah.
+This week, I review evidence from social neuroscience on understanding others and how we infer mental states from other people's minds.
 
 ::: {.callout-note icon="false"}
 ## Key concepts

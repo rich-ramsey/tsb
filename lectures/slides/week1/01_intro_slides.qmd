@@ -78,29 +78,34 @@ knitr::opts_chunk$set(echo = FALSE)
 ## What are my lab's research interests? ## {.smaller}
 
 :::: {.columns}
-::: {.column width="33.3%"}
+::: {.column width="30%"}
 **Themes**
 
-- Social Cognitive Neuroscience
-- Person percetion
+- Cognitive neuroscience
+- Person perception
 - Loneliness
 - Meta science
 - Open science
 :::
-::: {.column width="33.3%"}
+::: {.column width="30%"}
 ![](images/cbs_hex.png)
-[www.rich-ramsey.com](www.rich.ramsey.com)
+
 :::
-::: {.column width="33.3%"}
+::: {.column width="40%"}
 **Methods**
 
 - Experimental psychology
 - Human neuroscience (e.g., fMRI)
 - "Big Data"
 - Computational modelling
+- Pupillometry
 
 :::
 ::::
+
+::: {.citation-footer}
+[<https://www.rich-ramsey.com>{target='_blank'}]
+:::
 
 ## Course website ## 
 
@@ -169,7 +174,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 - Critical evaluation of scientific evidence, data and theory
 - Develop independent thinking skills
-- Appreciate how understandign neurodviersity impacts basic research and society in general
+- Appreciate how understanding neurodiversity impacts basic research and society in general
 :::
 ::::
 
@@ -178,15 +183,9 @@ knitr::opts_chunk$set(echo = FALSE)
 ::: {.incremental}
 -   To examine critically how neuroscientific concepts, theories, and findings relate to broader historical, moral, and social contexts, enhancing reflective competencies.
 
-<br>
-
 -   To question the production and validation of scientific evidence within the context of the replication crisis, enabling students to evaluate how knowledge is created, validated, and communicated.
 
-<br>
-
 -   To understand how conceptualising cognitive variation as a natural continuum challenges deficit-focused models, promoting more inclusive frameworks for society.
-
-<br>
 
 -   To develop effective communication skills for translating complex scientific concepts to diverse audiences, fostering public understanding of science.
 :::
@@ -241,16 +240,16 @@ schedule <- tribble(
   1, "Sep 16", "Intro", "Introduction to the course",
   2, "Sep 23", "Crisis Part 1", "Is psychological science in a crisis?",
   3, "Sep 30", "Crisis Part 2", "The reform movement in psychological science",
-  4, "Oct 7", "No lecture", "",
-  5, "Oct 14", "Crisis Part 3", "Are there problems in psychological theory?",
-  6, "Oct 21", "Crisis Part 4", "Does the crisis extend beyond psychology?",
-  7, "Oct 28", "Social Neuroscience 1", "Core foundations",
-  8, "Nov 4", "Social Neuroscience 2", "Current applications",
+  4, "Oct 7", "Crisis Part 3 (Recorded lecture)", "A problem in theory?",
+  5, "Oct 14", "Crisis Part 4 (No lecture - reflective writing)", "Does the crisis extend beyond psychology?",
+  6, "Oct 21", "Social Neuroscience 1", "An introduction to social neuroscience",
+  7, "Oct 28", "Social Neuroscience 2", "Reading faces and bodies",
+  8, "Nov 4", "Social Neuroscience 3", "Understanding others",
   9, "Nov 11", "Neurodiversity 1", "Re-thinking neurodiversity",
   10, "Nov 18", "Neurodiversity 2", "Guest lecture: A view from the clinic",
   11, "Nov 25", "Neurodiversity 3", "Loneliness",
   12, "Dec 2", "Neurodiversity 4", "Autism",
-  13, "Dec 9", "Neurodiversity 5", "Attention and Impulsivity",
+  13, "Dec 9", "Neurodiversity 5", "Attention and impulsivity",
   14, "Dec 16", "Essay Writing", "Guidelines and best practices"
 )
 
@@ -289,18 +288,41 @@ schedule  |>
 
 - **There is NO exam**
 
+- Just email me the file. If I do not write back to you with confirmation within a few days, then email me again.
+
 ## Assessment format ##
 
 You can write your essay in two different ways.
 
-**1.** Address a general question.
+**1. Address a general question.**
 
 e.g., Is psychology a science or a pseudoscience?
 
-**2.** Address a more specific question.
+**2. Address a more specific question.**
 
 e.g., Should Autism be considered one diagnosis or multiple different diagnoses?
 
+**You decide the focus of your essay based on what you find interesting.**
+
+## Assessment structure ##
+
+Example structure (it seems obvious, but nonetheless…):
+
+- Introduction
+- Main body of the essay
+- Conclusion
+
+## Assessment content ## {.smaller}
+
+Things to cover:
+
+- Identify an open research question, which warrants further attention
+- Provide a brief background to the topic
+- Highlight a gap in knowledge (what we do not know)
+- Be critical 
+- Identify a novel research question or research direction
+- State your hypotheses and/or aims
+- Discuss the implications of the research (why is it worth doing?) 
 
 # Part 1 - Writing tips #
 
@@ -337,12 +359,32 @@ e.g., Should Autism be considered one diagnosis or multiple different diagnoses?
 - Try to link paragraphs to promote the flow and pace of your writing 
 - Have a friend or classmate read it
 
+# Part 1 - Reflective writing #
+
+## Week 4 ##
+
+- In week 4, there is no lecture.
+- Instead, there is an assignment, which is **NOT** marked.
+- I repeat, it is **not marked**, but it is compulsory to hand it in via email by ***Monday October 20th at 9am***.
+- Please write between 500 and 750 words on the extent to which the reproducibility crisis extends beyond psychology and human neuroscience.
+
+## Reflective writing objectives ## {.smaller}
+
+<br>
+
+- I would like you to reflect on the extent to which the reproducibility crisis extends beyond psychology and human neuroscience.
+
+- Most of you have varied backgrounds, which span computer science, physics, chemistry, biology, maths etc.
+
+- Therefore, I would like you to situate what you have learnt in the last 4 weeks within a broader context of scientific research more generally. 
+
 # Part 1 - Summary #
 
 - Introduction
 - Syllabus
 - Assessment
 - Writing tips
+- Reflective writing
 
 # Take a break #
 

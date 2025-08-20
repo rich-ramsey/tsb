@@ -4,13 +4,8 @@ title: "Introduction"
 
 ## Objectives
 
-blah.
+This week, I will provide an overview of the basic structure and content of the course. 
 
-::: {.callout-note icon="false"}
-## Key concepts
-
-
-:::
 
 ## Lecture slides
 

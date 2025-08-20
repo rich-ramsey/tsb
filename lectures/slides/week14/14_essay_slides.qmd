@@ -53,9 +53,120 @@ knitr::opts_chunk$set(echo = FALSE)
 ::: {.column width="50%"}
 ![](../icons/lecture.png){width=150px}\
 <br>
-![](../icons/reading.png){width=150px} ![](../icons/discussion.png){width=150px}
+![](../icons/discussion.png){width=150px}
 :::
 ::::
+
+# Part 1 - Essay writing: assessment details #
+
+## Assessment type ##
+
+- There is one piece of assessment in this course, which is a written assignment in essay format.
+
+- 2000 words maximum.
+
+- Submission date: Monday January 6th, 2026.
+
+- **There is NO exam**
+
+- Just email me the file. If I do not write back to you with confirmation within a few days, then email me again.
+
+## Assessment format ##
+
+You can write your essay in two different ways.
+
+**1.** Address a general question.
+
+e.g., Is psychology a science or a pseudoscience?
+
+**2.** Address a more specific question.
+
+e.g., Should Autism be considered one diagnosis or multiple different diagnoses?
+
+## Assessment structure ##
+
+Example structure (it seems obvious, but nonetheless…):
+
+- Introduction
+- Main body of the essay
+- Conclusion
+
+## Assessment content ## {.smaller}
+
+Things to cover:
+
+- Identify an open research question, which warrants further attention
+- Provide a brief background to the topic
+- Highlight a gap in knowledge (what we do not know)
+- Be critical 
+- Identify a novel research question or research direction
+- State your hypotheses and/or aims
+- Discuss the implications of the research (why is it worth doing?) 
+
+## Assessment criteria ## {.smaller}
+
+**Threshold** 
+
+- Adequate understanding of the material is demonstrated, which is largely based on information provided within lectures. 
+
+**Good**
+
+- Generally accurate coverage of relevant material, which shows evidence of independent thought that extends lecture materials. Well organised and structured. 
+
+**Excellent**
+
+- Consistently accurate coverage of relevant material, which shows a depth of independent thought that comprehensively extends lecture materials. Well organised and structured with a clear and efficient writing style.
+
+
+# Part 1 - Essay writing: tips and style guide #
+
+## Narrow focus ##
+
+- Your essay should have a narrow focus, I do not want a detailed literature review. 
+
+- You are not being assessed on the breadth of your knowledge. Therefore, I will not mark you down for having a narrow focus.
+
+- However, I expect a very clear and well-supported rationale for your critical viewpoint and future direction.
+
+- I will reward attempts to think on your own.
+
+## Keep it simple !!! ##
+
+- Find an experiment or topic from my lectures that interests you
+- Go away and read around the topic 
+- Think of a feature that limits understanding – i.e., be critical – and suggest a way to extend current knowledge
+
+## Plan, plan and plan some more ##
+
+- Plan your written assignment BEFORE you start to write. You will find it easier to write if you organise your ideas first into a structure. 
+
+- Consider the balance of your assignment, in terms of the amount of text per section.
+
+- Make multiple plans, rather than one. One page A4 per plan.
+
+- Review the plans and consider revision and/or consolidation.
+
+## Writing style ##
+
+- Clarity is crucial 
+- If you can say it with less words, do so (i.e., keep sentences short).
+- Try to link paragraphs to promote the flow and pace of your writing.
+- Have a friend or classmate read it.
+
+
+# Take a break #
+
+
+# Part 2 - Read articles and discuss #
+
+## Discussion material ##
+
+Discuss essay writing:
+
+- See the resources on course website.
+- Do some of your own research on what makes a good essay.
+- Consider the structure and content of your essays.
+- Then let’s discuss as a group.
 
 ## References
 

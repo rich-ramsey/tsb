@@ -4,7 +4,7 @@ title: "Is psychological science in a crisis?"
 
 ## Objectives
 
-blah.
+This week, I will introduce the so-called "reproducibility crisis" in psychology and related disciplines.
 
 ::: {.callout-note icon="false"}
 ## Key concepts

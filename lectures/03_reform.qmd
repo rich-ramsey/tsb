@@ -4,7 +4,7 @@ title: "The reform movement in psychological science"
 
 ## Objectives
 
-blah.
+This week, I will outline the reform movement in psychological science, which aims to improve research quality in light of the reproducibility crisis and related questionable research practices.
 
 ::: {.callout-note icon="false"}
 ## Key concepts

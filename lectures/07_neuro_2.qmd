@@ -4,7 +4,7 @@ title: "Reading faces and bodies"
 
 ## Objectives
 
-blah.
+This week, I review evidence from social neuroscience on person perception and how we "read" signals from faces and bodies.
 
 ::: {.callout-note icon="false"}
 ## Key concepts

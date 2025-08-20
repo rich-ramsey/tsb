@@ -4,7 +4,7 @@ title: "A problem in theory?"
 
 ## Objectives
 
-blah.
+This week, I'll outline how weaknesses in theory (rather than methods) also contribute to a questionable level of research quality.
 
 ::: {.callout-note icon="false"}
 ## Key concepts

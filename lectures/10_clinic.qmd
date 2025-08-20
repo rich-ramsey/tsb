@@ -4,7 +4,7 @@ title: "Guest lecture: A view from the clinic"
 
 ## Objectives
 
-blah.
+This week, we have a guest lecture from Dr. Gianluca Saetta. Gianluca will talk about his experiences working with patients as a clinical psychologist. We will also have a group discussion with a patient and their associated treatment team.
 
 ::: {.callout-note icon="false"}
 ## Key concepts

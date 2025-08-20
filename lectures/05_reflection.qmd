@@ -4,7 +4,7 @@ title: "Reflection"
 
 ## Objectives
 
-I would like you to reflect on the extent to which the reproducibility crisis extends beyond psychology and human neuroscience.
+This week, I would like you to reflect on the extent to which the reproducibility crisis extends beyond psychology and human neuroscience.
 
 Most of you have varied backgrounds, which span computer science, physics, chemistry, biology, maths etc.
 
@@ -26,8 +26,14 @@ There is no lecture this week.
 
 It is your task to go away and find relevant papers to discuss and include in your reflective writing piece.
 
+To get you thinking outside of psychology and neuroscience, here are some recent reports in the journal Nature about untrustworthy medical research:
+
+[link 1](https://www.nature.com/articles/d41586-023-02299-w)
+
+[link 2](https://www.nature.com/articles/d41586-024-04206-3)
+
 ## Assignment 
 
 There is an assignment this week, which is **NOT** marked.
-I repeat, it is **not marked**, but it is compulsory to hand it in via email by *Monday October 20th at 9am*.
+I repeat, it is **not marked**, but it is compulsory to hand it in via email by ***Monday October 20th at 9am***.
 Please write between 500 and 750 words on the extent to which the reproducibility crisis extends beyond psychology and human neuroscience.

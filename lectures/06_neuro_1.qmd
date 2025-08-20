@@ -4,7 +4,7 @@ title: "An introduction to social neuroscience"
 
 ## Objectives
 
-blah.
+This week, I provide an introduction to social neuroscience, which covers the aims of the field and associated methods that are typically used.
 
 ::: {.callout-note icon="false"}
 ## Key concepts

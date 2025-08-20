@@ -4,7 +4,7 @@ title: "Essay writing"
 
 ## Objectives
 
-blah.
+This week, I will review the assessment details, provide more advice on writing essays and allow time for students to ask questions and discuss ideas about their chosen essay topics.
 
 ::: {.callout-note icon="false"}
 ## Key concepts
@@ -19,4 +19,6 @@ blah.
 
 ## Resources
 
-[link here]
+[University of Melbourne link](https://students.unimelb.edu.au/academic-skills/resources/reading,-writing-and-referencing/essays/writing-a-great-essay)
+
+[ETH link](https://library.ethz.ch/en/researching-and-publishing/scientific-writing-at-eth-zurich.html)
