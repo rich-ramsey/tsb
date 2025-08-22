@@ -8,7 +8,7 @@ This week, I show how we may re-think how to conceptualise variation in psycholo
 
 ::: {.callout-note icon="false"}
 ## Key concepts
-
+categories vs dimensions, medical model vs variation, individual differences
 
 :::
 

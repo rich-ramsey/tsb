@@ -8,7 +8,7 @@ This week, I'll outline how weaknesses in theory (rather than methods) also cont
 
 ::: {.callout-note icon="false"}
 ## Key concepts
-
+method vs theory,   weak theory development, verbal theories, theory mapping, formal theory, computational models
 
 :::
 

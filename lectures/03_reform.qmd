@@ -8,7 +8,7 @@ This week, I will outline the reform movement in psychological science, which ai
 
 ::: {.callout-note icon="false"}
 ## Key concepts
-
+reform, open science, meta science, pre-registration, pre-prints, openness
 
 :::
 

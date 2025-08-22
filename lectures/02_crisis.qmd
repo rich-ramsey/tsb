@@ -8,7 +8,7 @@ This week, I will introduce the so-called "reproducibility crisis" in psychology
 
 ::: {.callout-note icon="false"}
 ## Key concepts
-
+reproducibility, crisis, questionable research practices, 7 deadly sins of psychology
 
 :::
 

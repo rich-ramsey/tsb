@@ -8,7 +8,7 @@ This week, I provide an introduction to social neuroscience, which covers the ai
 
 ::: {.callout-note icon="false"}
 ## Key concepts
-
+origins, aims, definitions and methods of social neuroscience
 
 :::
 

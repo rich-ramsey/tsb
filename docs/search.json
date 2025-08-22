@@ -39,7 +39,7 @@
     "href": "syllabus/index.html#structure",
     "title": "Syllabus",
     "section": "Structure",
-    "text": "Structure\n\nIntroduction\nIn week 1’s lecture, I will outline the structure of the course, introduce the topics to be covered and give details on the assessment.\n\n\nCrisis and Reform\nIn weeks 2 to 4, I will outline critical perspectives associated with the reproducibility crisis in psychology and outline some of the proposed solutions\n\n\nSocial Neuroscience\nIn weeks 5 – 8, we will cover the neural bases of social cognition in healthy individuals.\n\n\nNeurodiversity\nIn weeks 9 – 13, we will cover neurodiverse individuals.\n\n\nEssay writing Q&A\nIn week 14, we will discuss features that for well-written essays and students can ask questions regarding the written assessment and spend time planning and writing their assignments."
+    "text": "Structure\n\nIntroduction\nIn week 1’s lecture, I will outline the structure of the course, introduce the topics to be covered and give details on the assessment.\n\n\nCrisis and Reform\nIn weeks 2 to 5, I will outline critical perspectives associated with the reproducibility crisis in psychology and outline some of the proposed solutions. You will also consider the extent to which the reproducibility crisis extends into other domains of science.\n\n\nSocial Neuroscience\nIn weeks 6 – 8, we will cover foundational aspects of social neuroscience.\n\n\nNeurodiversity\nIn weeks 9 – 13, we will cover a range of topics associated with neurodiversity.\n\n\nEssay writing Q&A\nIn week 14, we will discuss features of well-written essays, students can ask questions regarding their chosen topics as well as spend time planning their assignments."
   },
   {
     "objectID": "syllabus/index.html#schedule",
@@ -53,7 +53,14 @@
     "href": "syllabus/index.html#assessment",
     "title": "Syllabus",
     "section": "Assessment",
-    "text": "Assessment\nThe assessment is based on each student writing an essay. In week 1, comprehensive assessment details will be provided.\nSubmission date: Monday January 5th 2026.\nAssessment criteria:\nThreshold\nAdequate understanding of the material is demonstrated, which is largely based on information provided within lectures.\nGood\nGenerally accurate coverage of relevant material, which shows evidence of independent thought that extends lecture materials. Well organised and structured.\nExcellent\nConsistently accurate coverage of relevant material, which shows a depth of independent thought that comprehensively extends lecture materials. Well organised and structured with a clear and efficient writing style."
+    "text": "Assessment\nThe assessment is based on each student writing an essay. In week 1, comprehensive assessment details will be provided. Please note: there is no exam.\nSubmission date: Monday January 5th 2026.\nAssessment criteria:\nThreshold\nAdequate understanding of the material is demonstrated, which is largely based on information provided within lectures.\nGood\nGenerally accurate coverage of relevant material, which shows evidence of independent thought that extends lecture materials. Well organised and structured.\nExcellent\nConsistently accurate coverage of relevant material, which shows a depth of independent thought that comprehensively extends lecture materials. Well organised and structured with a clear and efficient writing style."
+  },
+  {
+    "objectID": "syllabus/index.html#reflective-writing",
+    "href": "syllabus/index.html#reflective-writing",
+    "title": "Syllabus",
+    "section": "Reflective writing",
+    "text": "Reflective writing\nIn week 5, there will be no lecture. Instead, you are required to write 500-750 words on on the extent extent to which the reproducibility crisis extends beyond psychology and human neuroscience. This written reflection is NOT MARKED. For more details, see here."
   },
   {
     "objectID": "syllabus/index.html#feedback",
@@ -67,7 +74,7 @@
     "href": "syllabus/index.html#supporting-materials",
     "title": "Syllabus",
     "section": "Supporting Materials",
-    "text": "Supporting Materials\n\nLectures\nLecture slides will be posted on Moodle before each lecture.\n\n\nTexts, journal articles and books\nThe course will feature select material from books and journal articles. This material will be available on this website, via Moodle or via ETHZ’s library holdings and subscriptions."
+    "text": "Supporting Materials\n\nLectures\nLecture slides will be posted before each lecture.\n\n\nTexts, journal articles and books\nThe course will feature select material from books and journal articles. This material will be available on this website or via ETHZ’s library holdings and subscriptions."
   },
   {
     "objectID": "lectures/slides/week9/09_neurodiversity_slides.html#today",
@@ -659,7 +666,7 @@
     "href": "lectures/13_attention.html",
     "title": "Attention and impulsivity",
     "section": "",
-    "text": "This week, I will review evidence on the social, cognitive and brain systems that underpin variation in attention and impulsivity.\n\n\n\n\n\n\nKey concepts",
+    "text": "This week, I will review evidence on the social, cognitive and brain systems that underpin variation in attention and impulsivity.\n\n\n\n\n\n\nKey concepts\n\n\n\ndiagnoses, mechanisms and theories of individual differences in attention and impulsivity",
     "crumbs": [
       "Lectures",
       "<b>Lectures</b>",
@@ -671,7 +678,7 @@
     "href": "lectures/13_attention.html#objectives",
     "title": "Attention and impulsivity",
     "section": "",
-    "text": "This week, I will review evidence on the social, cognitive and brain systems that underpin variation in attention and impulsivity.\n\n\n\n\n\n\nKey concepts",
+    "text": "This week, I will review evidence on the social, cognitive and brain systems that underpin variation in attention and impulsivity.\n\n\n\n\n\n\nKey concepts\n\n\n\ndiagnoses, mechanisms and theories of individual differences in attention and impulsivity",
     "crumbs": [
       "Lectures",
       "<b>Lectures</b>",
@@ -707,7 +714,7 @@
     "href": "lectures/11_loneliness.html",
     "title": "Loneliness",
     "section": "",
-    "text": "This week, I will review evidence on the social, cognitive and brain systems that underpin loneliness.\n\n\n\n\n\n\nKey concepts",
+    "text": "This week, I will review evidence on the social, cognitive and brain systems that underpin loneliness.\n\n\n\n\n\n\nKey concepts\n\n\n\nloneliness vs isolation, reaffiliation model, health and wellbeing",
     "crumbs": [
       "Lectures",
       "<b>Lectures</b>",
@@ -719,7 +726,7 @@
     "href": "lectures/11_loneliness.html#objectives",
     "title": "Loneliness",
     "section": "",
-    "text": "This week, I will review evidence on the social, cognitive and brain systems that underpin loneliness.\n\n\n\n\n\n\nKey concepts",
+    "text": "This week, I will review evidence on the social, cognitive and brain systems that underpin loneliness.\n\n\n\n\n\n\nKey concepts\n\n\n\nloneliness vs isolation, reaffiliation model, health and wellbeing",
     "crumbs": [
       "Lectures",
       "<b>Lectures</b>",
@@ -755,7 +762,7 @@
     "href": "lectures/09_neurodiversity.html",
     "title": "Re-thinking neurodiversity",
     "section": "",
-    "text": "This week, I show how we may re-think how to conceptualise variation in psychological function in terms of neurodiversity.\n\n\n\n\n\n\nKey concepts",
+    "text": "This week, I show how we may re-think how to conceptualise variation in psychological function in terms of neurodiversity.\n\n\n\n\n\n\nKey concepts\n\n\n\ncategories vs dimensions, medical model vs variation, individual differences",
     "crumbs": [
       "Lectures",
       "<b>Lectures</b>",
@@ -767,7 +774,7 @@
     "href": "lectures/09_neurodiversity.html#objectives",
     "title": "Re-thinking neurodiversity",
     "section": "",
-    "text": "This week, I show how we may re-think how to conceptualise variation in psychological function in terms of neurodiversity.\n\n\n\n\n\n\nKey concepts",
+    "text": "This week, I show how we may re-think how to conceptualise variation in psychological function in terms of neurodiversity.\n\n\n\n\n\n\nKey concepts\n\n\n\ncategories vs dimensions, medical model vs variation, individual differences",
     "crumbs": [
       "Lectures",
       "<b>Lectures</b>",
@@ -803,7 +810,7 @@
     "href": "lectures/07_neuro_2.html",
     "title": "Reading faces and bodies",
     "section": "",
-    "text": "This week, I review evidence from social neuroscience on person perception and how we “read” signals from faces and bodies.\n\n\n\n\n\n\nKey concepts",
+    "text": "This week, I review evidence from social neuroscience on person perception and how we “read” signals from faces and bodies.\n\n\n\n\n\n\nKey concepts\n\n\n\nperson perception, joint attention, trait inferences",
     "crumbs": [
       "Lectures",
       "<b>Lectures</b>",
@@ -815,7 +822,7 @@
     "href": "lectures/07_neuro_2.html#objectives",
     "title": "Reading faces and bodies",
     "section": "",
-    "text": "This week, I review evidence from social neuroscience on person perception and how we “read” signals from faces and bodies.\n\n\n\n\n\n\nKey concepts",
+    "text": "This week, I review evidence from social neuroscience on person perception and how we “read” signals from faces and bodies.\n\n\n\n\n\n\nKey concepts\n\n\n\nperson perception, joint attention, trait inferences",
     "crumbs": [
       "Lectures",
       "<b>Lectures</b>",
@@ -863,7 +870,7 @@
     "href": "lectures/05_reflection.html",
     "title": "Reflection",
     "section": "",
-    "text": "This week, I would like you to reflect on the extent to which the reproducibility crisis extends beyond psychology and human neuroscience.\nMost of you have varied backgrounds, which span computer science, physics, chemistry, biology, maths etc.\nTherefore, I would like you to situate what you have learnt in the last 4 weeks within a broader context of scientific research more generally.\nSee below for details of the assignment.\n\n\n\n\n\n\nKey concepts",
+    "text": "This week, I would like you to reflect on the extent to which the reproducibility crisis extends beyond psychology and human neuroscience.\nMost of you have varied backgrounds, which span computer science, physics, chemistry, biology, maths etc.\nTherefore, I would like you to situate what you have learnt in the last 4 weeks within a broader context of scientific research more generally.\nSee below for details of the assignment.",
     "crumbs": [
       "Lectures",
       "<b>Lectures</b>",
@@ -875,7 +882,7 @@
     "href": "lectures/05_reflection.html#objectives",
     "title": "Reflection",
     "section": "",
-    "text": "This week, I would like you to reflect on the extent to which the reproducibility crisis extends beyond psychology and human neuroscience.\nMost of you have varied backgrounds, which span computer science, physics, chemistry, biology, maths etc.\nTherefore, I would like you to situate what you have learnt in the last 4 weeks within a broader context of scientific research more generally.\nSee below for details of the assignment.\n\n\n\n\n\n\nKey concepts",
+    "text": "This week, I would like you to reflect on the extent to which the reproducibility crisis extends beyond psychology and human neuroscience.\nMost of you have varied backgrounds, which span computer science, physics, chemistry, biology, maths etc.\nTherefore, I would like you to situate what you have learnt in the last 4 weeks within a broader context of scientific research more generally.\nSee below for details of the assignment.",
     "crumbs": [
       "Lectures",
       "<b>Lectures</b>",
@@ -923,7 +930,7 @@
     "href": "lectures/03_reform.html",
     "title": "The reform movement in psychological science",
     "section": "",
-    "text": "This week, I will outline the reform movement in psychological science, which aims to improve research quality in light of the reproducibility crisis and related questionable research practices.\n\n\n\n\n\n\nKey concepts",
+    "text": "This week, I will outline the reform movement in psychological science, which aims to improve research quality in light of the reproducibility crisis and related questionable research practices.\n\n\n\n\n\n\nKey concepts\n\n\n\nreform, open science, meta science, pre-registration, pre-prints, openness",
     "crumbs": [
       "Lectures",
       "<b>Lectures</b>",
@@ -935,7 +942,7 @@
     "href": "lectures/03_reform.html#objectives",
     "title": "The reform movement in psychological science",
     "section": "",
-    "text": "This week, I will outline the reform movement in psychological science, which aims to improve research quality in light of the reproducibility crisis and related questionable research practices.\n\n\n\n\n\n\nKey concepts",
+    "text": "This week, I will outline the reform movement in psychological science, which aims to improve research quality in light of the reproducibility crisis and related questionable research practices.\n\n\n\n\n\n\nKey concepts\n\n\n\nreform, open science, meta science, pre-registration, pre-prints, openness",
     "crumbs": [
       "Lectures",
       "<b>Lectures</b>",
@@ -971,7 +978,7 @@
     "href": "lectures/01_intro.html",
     "title": "Introduction",
     "section": "",
-    "text": "This week, I will provide an overview of the basic structure and content of the course.",
+    "text": "This week, I will provide an overview of the basic structure and content of the course.\n\n\n\n\n\n\nKey concepts\n\n\n\ncourse structure and content, syllabus, themes, learning outcomes, assessment, schedule",
     "crumbs": [
       "Lectures",
       "<b>Lectures</b>",
@@ -983,7 +990,7 @@
     "href": "lectures/01_intro.html#objectives",
     "title": "Introduction",
     "section": "",
-    "text": "This week, I will provide an overview of the basic structure and content of the course.",
+    "text": "This week, I will provide an overview of the basic structure and content of the course.\n\n\n\n\n\n\nKey concepts\n\n\n\ncourse structure and content, syllabus, themes, learning outcomes, assessment, schedule",
     "crumbs": [
       "Lectures",
       "<b>Lectures</b>",
@@ -1049,7 +1056,7 @@
     "href": "lectures/02_crisis.html",
     "title": "Is psychological science in a crisis?",
     "section": "",
-    "text": "This week, I will introduce the so-called “reproducibility crisis” in psychology and related disciplines.\n\n\n\n\n\n\nKey concepts",
+    "text": "This week, I will introduce the so-called “reproducibility crisis” in psychology and related disciplines.\n\n\n\n\n\n\nKey concepts\n\n\n\nreproducibility, crisis, questionable research practices, 7 deadly sins of psychology",
     "crumbs": [
       "Lectures",
       "<b>Lectures</b>",
@@ -1061,7 +1068,7 @@
     "href": "lectures/02_crisis.html#objectives",
     "title": "Is psychological science in a crisis?",
     "section": "",
-    "text": "This week, I will introduce the so-called “reproducibility crisis” in psychology and related disciplines.\n\n\n\n\n\n\nKey concepts",
+    "text": "This week, I will introduce the so-called “reproducibility crisis” in psychology and related disciplines.\n\n\n\n\n\n\nKey concepts\n\n\n\nreproducibility, crisis, questionable research practices, 7 deadly sins of psychology",
     "crumbs": [
       "Lectures",
       "<b>Lectures</b>",
@@ -1097,7 +1104,7 @@
     "href": "lectures/04_theory.html",
     "title": "A problem in theory?",
     "section": "",
-    "text": "This week, I’ll outline how weaknesses in theory (rather than methods) also contribute to a questionable level of research quality.\n\n\n\n\n\n\nKey concepts",
+    "text": "This week, I’ll outline how weaknesses in theory (rather than methods) also contribute to a questionable level of research quality.\n\n\n\n\n\n\nKey concepts\n\n\n\nmethod vs theory, weak theory development, verbal theories, theory mapping, formal theory, computational models",
     "crumbs": [
       "Lectures",
       "<b>Lectures</b>",
@@ -1109,7 +1116,7 @@
     "href": "lectures/04_theory.html#objectives",
     "title": "A problem in theory?",
     "section": "",
-    "text": "This week, I’ll outline how weaknesses in theory (rather than methods) also contribute to a questionable level of research quality.\n\n\n\n\n\n\nKey concepts",
+    "text": "This week, I’ll outline how weaknesses in theory (rather than methods) also contribute to a questionable level of research quality.\n\n\n\n\n\n\nKey concepts\n\n\n\nmethod vs theory, weak theory development, verbal theories, theory mapping, formal theory, computational models",
     "crumbs": [
       "Lectures",
       "<b>Lectures</b>",
@@ -1145,7 +1152,7 @@
     "href": "lectures/06_neuro_1.html",
     "title": "An introduction to social neuroscience",
     "section": "",
-    "text": "This week, I provide an introduction to social neuroscience, which covers the aims of the field and associated methods that are typically used.\n\n\n\n\n\n\nKey concepts",
+    "text": "This week, I provide an introduction to social neuroscience, which covers the aims of the field and associated methods that are typically used.\n\n\n\n\n\n\nKey concepts\n\n\n\norigins, aims, definitions and methods of social neuroscience",
     "crumbs": [
       "Lectures",
       "<b>Lectures</b>",
@@ -1157,7 +1164,7 @@
     "href": "lectures/06_neuro_1.html#objectives",
     "title": "An introduction to social neuroscience",
     "section": "",
-    "text": "This week, I provide an introduction to social neuroscience, which covers the aims of the field and associated methods that are typically used.\n\n\n\n\n\n\nKey concepts",
+    "text": "This week, I provide an introduction to social neuroscience, which covers the aims of the field and associated methods that are typically used.\n\n\n\n\n\n\nKey concepts\n\n\n\norigins, aims, definitions and methods of social neuroscience",
     "crumbs": [
       "Lectures",
       "<b>Lectures</b>",
@@ -1205,7 +1212,7 @@
     "href": "lectures/08_neuro_3.html",
     "title": "Understanding others",
     "section": "",
-    "text": "This week, I review evidence from social neuroscience on understanding others and how we infer mental states from other people’s minds.\n\n\n\n\n\n\nKey concepts",
+    "text": "This week, I review evidence from social neuroscience on understanding others and how we infer mental states from other people’s minds.\n\n\n\n\n\n\nKey concepts\n\n\n\ntheory of mind, mental state inference, empathy",
     "crumbs": [
       "Lectures",
       "<b>Lectures</b>",
@@ -1217,7 +1224,7 @@
     "href": "lectures/08_neuro_3.html#objectives",
     "title": "Understanding others",
     "section": "",
-    "text": "This week, I review evidence from social neuroscience on understanding others and how we infer mental states from other people’s minds.\n\n\n\n\n\n\nKey concepts",
+    "text": "This week, I review evidence from social neuroscience on understanding others and how we infer mental states from other people’s minds.\n\n\n\n\n\n\nKey concepts\n\n\n\ntheory of mind, mental state inference, empathy",
     "crumbs": [
       "Lectures",
       "<b>Lectures</b>",
@@ -1265,7 +1272,7 @@
     "href": "lectures/10_clinic.html",
     "title": "Guest lecture: A view from the clinic",
     "section": "",
-    "text": "This week, we have a guest lecture from Dr. Gianluca Saetta. Gianluca will talk about his experiences working with patients as a clinical psychologist. We will also have a group discussion with a patient and their associated treatment team.\n\n\n\n\n\n\nKey concepts",
+    "text": "This week, we have a guest lecture from Dr. Gianluca Saetta. Gianluca will talk about his experiences working with patients as a clinical psychologist. We will also have a group discussion with a patient and their associated treatment team.\n\n\n\n\n\n\nKey concepts\n\n\n\nclinical experiences, treatment, neurodiversity, diagnoses",
     "crumbs": [
       "Lectures",
       "<b>Lectures</b>",
@@ -1277,7 +1284,7 @@
     "href": "lectures/10_clinic.html#objectives",
     "title": "Guest lecture: A view from the clinic",
     "section": "",
-    "text": "This week, we have a guest lecture from Dr. Gianluca Saetta. Gianluca will talk about his experiences working with patients as a clinical psychologist. We will also have a group discussion with a patient and their associated treatment team.\n\n\n\n\n\n\nKey concepts",
+    "text": "This week, we have a guest lecture from Dr. Gianluca Saetta. Gianluca will talk about his experiences working with patients as a clinical psychologist. We will also have a group discussion with a patient and their associated treatment team.\n\n\n\n\n\n\nKey concepts\n\n\n\nclinical experiences, treatment, neurodiversity, diagnoses",
     "crumbs": [
       "Lectures",
       "<b>Lectures</b>",
@@ -1313,7 +1320,7 @@
     "href": "lectures/12_autism.html",
     "title": "Autism",
     "section": "",
-    "text": "This week, I will review evidence on the social, cognitive and brain systems that underpin autism.\n\n\n\n\n\n\nKey concepts",
+    "text": "This week, I will review evidence on the social, cognitive and brain systems that underpin autism.\n\n\n\n\n\n\nKey concepts\n\n\n\ndiagnoses, mechanisms and theories of autism",
     "crumbs": [
       "Lectures",
       "<b>Lectures</b>",
@@ -1325,7 +1332,7 @@
     "href": "lectures/12_autism.html#objectives",
     "title": "Autism",
     "section": "",
-    "text": "This week, I will review evidence on the social, cognitive and brain systems that underpin autism.\n\n\n\n\n\n\nKey concepts",
+    "text": "This week, I will review evidence on the social, cognitive and brain systems that underpin autism.\n\n\n\n\n\n\nKey concepts\n\n\n\ndiagnoses, mechanisms and theories of autism",
     "crumbs": [
       "Lectures",
       "<b>Lectures</b>",
@@ -1361,7 +1368,7 @@
     "href": "lectures/14_essay.html",
     "title": "Essay writing",
     "section": "",
-    "text": "This week, I will review the assessment details, provide more advice on writing essays and allow time for students to ask questions and discuss ideas about their chosen essay topics.\n\n\n\n\n\n\nKey concepts",
+    "text": "This week, I will review the assessment details, provide more advice on writing essays and allow time for students to ask questions and discuss ideas about their chosen essay topics.\n\n\n\n\n\n\nKey concepts\n\n\n\nassessment details, essay planning, writing style",
     "crumbs": [
       "Lectures",
       "<b>Lectures</b>",
@@ -1373,7 +1380,7 @@
     "href": "lectures/14_essay.html#objectives",
     "title": "Essay writing",
     "section": "",
-    "text": "This week, I will review the assessment details, provide more advice on writing essays and allow time for students to ask questions and discuss ideas about their chosen essay topics.\n\n\n\n\n\n\nKey concepts",
+    "text": "This week, I will review the assessment details, provide more advice on writing essays and allow time for students to ask questions and discuss ideas about their chosen essay topics.\n\n\n\n\n\n\nKey concepts\n\n\n\nassessment details, essay planning, writing style",
     "crumbs": [
       "Lectures",
       "<b>Lectures</b>",
@@ -1545,11 +1552,11 @@
     "text": "Writing style\n\nClarity is crucial\nIf you can say it with less words, do so (i.e., keep sentences short).\nTry to link paragraphs to promote the flow and pace of your writing\nHave a friend or classmate read it"
   },
   {
-    "objectID": "lectures/slides/week1/01_intro_slides.html#week-4",
-    "href": "lectures/slides/week1/01_intro_slides.html#week-4",
+    "objectID": "lectures/slides/week1/01_intro_slides.html#week-5",
+    "href": "lectures/slides/week1/01_intro_slides.html#week-5",
     "title": "Lecture 1 - Introduction",
-    "section": "Week 4",
-    "text": "Week 4\n\nIn week 4, there is no lecture.\nInstead, there is an assignment, which is NOT marked.\nI repeat, it is not marked, but it is compulsory to hand it in via email by Monday October 20th at 9am.\nPlease write between 500 and 750 words on the extent to which the reproducibility crisis extends beyond psychology and human neuroscience."
+    "section": "Week 5",
+    "text": "Week 5\n\nIn week 5, there is no lecture.\nInstead, there is an assignment, which is NOT marked.\nI repeat, it is not marked, but it is compulsory to hand it in via email by Monday October 20th at 9am.\nPlease write between 500 and 750 words on the extent to which the reproducibility crisis extends beyond psychology and human neuroscience."
   },
   {
     "objectID": "lectures/slides/week1/01_intro_slides.html#reflective-writing-objectives",

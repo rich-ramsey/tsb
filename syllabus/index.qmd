@@ -75,19 +75,19 @@ In week 1’s lecture, I will outline the structure of the course, introduce the
 
 ### Crisis and Reform ###
 
-In weeks 2 to 4, I will outline critical perspectives associated with the reproducibility crisis in psychology and outline some of the proposed solutions
+In weeks 2 to 5, I will outline critical perspectives associated with the reproducibility crisis in psychology and outline some of the proposed solutions. You will also consider the extent to which the reproducibility crisis extends into other domains of science.
 
 ### Social Neuroscience ###
 
-In weeks 5 – 8, we will cover the neural bases of social cognition in healthy individuals.
+In weeks 6 – 8, we will cover foundational aspects of social neuroscience.
 
 ### Neurodiversity ###
 
-In weeks 9 – 13, we will cover neurodiverse individuals.
+In weeks 9 – 13, we will cover a range of topics associated with neurodiversity.
 
 ### Essay writing Q&A ###
 
-In week 14, we will discuss features that for well-written essays and students can ask questions regarding the written assessment and spend time planning and writing their assignments. 
+In week 14, we will discuss features of well-written essays, students can ask questions regarding their chosen topics as well as spend time planning their assignments. 
 
 ## Schedule ##
 
@@ -117,6 +117,7 @@ Location: LFW B2
 
 The assessment is based on each student writing an essay. 
 In week 1, comprehensive assessment details will be provided.
+**Please note: there is no exam**.
 
 **Submission date:** Monday January 5th 2026.
 
@@ -135,6 +136,13 @@ Generally accurate coverage of relevant material, which shows evidence of indepe
 
 Consistently accurate coverage of relevant material, which shows a depth of independent thought that comprehensively extends lecture materials. Well organised and structured with a clear and efficient writing style.
 
+## Reflective writing ##
+
+In week 5, there will be no lecture. 
+Instead, you are required to write 500-750 words on on the extent extent to which the reproducibility crisis extends beyond psychology and human neuroscience.
+**This written reflection is NOT MARKED.**
+For more details, see [here](../lectures/05_reflection.html).
+
 ## Feedback ##
 
 Feedback is provided in the following ways:
@@ -146,10 +154,10 @@ Feedback is provided in the following ways:
 
 ### Lectures ###
 
-Lecture slides will be posted on Moodle before each lecture.
+Lecture slides will be posted before each lecture.
 	  
 ### Texts, journal articles and books
 
 The course will feature select material from books and journal articles. 
-This material will be available on this website, via Moodle or via ETHZ’s library holdings and subscriptions.
+This material will be available on this website or via ETHZ’s library holdings and subscriptions.
 

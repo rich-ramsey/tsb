@@ -12,12 +12,6 @@ Therefore, I would like you to situate what you have learnt in the last 4 weeks 
 
 See below for details of the assignment.
 
-::: {.callout-note icon="false"}
-## Key concepts
-
-
-:::
-
 ## Lecture slides
 
 There is no lecture this week.

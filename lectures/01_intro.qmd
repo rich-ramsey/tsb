@@ -6,6 +6,12 @@ title: "Introduction"
 
 This week, I will provide an overview of the basic structure and content of the course. 
 
+::: {.callout-note icon="false"}
+## Key concepts
+course structure and content, syllabus, themes, learning outcomes, assessment, schedule
+
+:::
+
 
 ## Lecture slides
 

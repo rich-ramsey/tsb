@@ -361,9 +361,9 @@ Things to cover:
 
 # Part 1 - Reflective writing #
 
-## Week 4 ##
+## Week 5 ##
 
-- In week 4, there is no lecture.
+- In week 5, there is no lecture.
 - Instead, there is an assignment, which is **NOT** marked.
 - I repeat, it is **not marked**, but it is compulsory to hand it in via email by ***Monday October 20th at 9am***.
 - Please write between 500 and 750 words on the extent to which the reproducibility crisis extends beyond psychology and human neuroscience.
