@@ -5,7 +5,7 @@
 /.quarto/
 .DS_Store
 /admin/
-*.pptx
 /sandpit/
 /_freeze/
 /docs/
+*.pptx
