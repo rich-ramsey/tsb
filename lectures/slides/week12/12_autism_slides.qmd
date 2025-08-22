@@ -24,14 +24,11 @@ editor_options:
   chunk_output_type: console
 ---
 
-```{r load-packages, include = FALSE}
-library(papaja)
-library(citr)
+```{r}
+#| label: setup
+#| include: false
 
 knitr::opts_chunk$set(echo = FALSE)
-
-# Fix the references.bib location for updating and writing refs #
-options(citr.update_bib = file.path(getwd(), "lectures/slides/week12/references.bib"))
 ```
 
 ## Today ##
