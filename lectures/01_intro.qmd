@@ -19,7 +19,13 @@ course structure and content, syllabus, themes, learning outcomes, assessment, s
 - [View Slides](slides/week1/01_intro_slides.html){target="_blank"} (opens in new tab)
 - [Download Slides PDF](slides/week1/01_intro_slides.pdf){download="01_intro_slides.pdf"}
 
-<!-- <div class="slide-preview"> -->
-<!--   <iframe src="slides/week1/01_intro_slides.html" width="100%" height="450px" frameborder="0"></iframe> -->
-<!--   <p class="preview-note">For a full screen view, use the link above.</p> -->
-<!-- </div> -->
+## Discussion material
+
+Here are some accessible (i.e., non-technical) blog posts that cover the main themes in the course.
+Read these to kick-start a discussion in your group.
+
+- [Crisis and reform](https://rich-ramsey.com/posts/2023-05-16_meta_science/)
+
+- [Social neuroscience](https://focuskeeper.co/glossary/what-is-social-neuroscience)
+
+- [Neurodiversity](https://www.london.ac.uk/news-events/student-blog/neurodiversity-hidden-superpower) 
