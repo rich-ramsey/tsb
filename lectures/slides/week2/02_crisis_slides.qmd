@@ -409,7 +409,9 @@ Mike Taylor, 2012
 
 ## Internment ## {.smaller}
 
-- Not only are data not publicly avaiable (as we discussed earlier), but the article and conclusions are normally kept behind a paywall.
+<br>
+
+- Not only are data not publicly available (as we discussed earlier), but the article and conclusions are normally kept behind a paywall.
 
 - This is morally questionable, given that the vast majority of research across the world is funded by the public via taxes.
 
@@ -419,7 +421,7 @@ Mike Taylor, 2012
 
 <br>
 
-- Why do Psychologists support barrier-based publishing?
+- Why do psychologists support barrier-based publishing?
 
   - Prestige associated with barrier-based journals
 
