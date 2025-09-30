@@ -1813,28 +1813,28 @@
     "href": "lectures/slides/week3/03_reform_slides.html#solving-bias-and-hidden-flexibility-5",
     "title": "Lecture 3 - The reform movement in psychological science",
     "section": "Solving Bias and Hidden Flexibility",
-    "text": "Solving Bias and Hidden Flexibility\nStage 1 Review:\n\n\nThe significance of the research questions\nThe logic, rationale, plausibility of the proposed hypotheses.\nThe soundness and feasibility of the methodology and analaysis pipeline (including statistical power analysis).\nWhether clarity and degree of methodological detail would be sufficient to replicate exactly the proposed experimental procedures and analysis pipeline.\nWhether the authors provide a sufficiently clear and detailed description of the methods to prevent undisclosed flexibility in the experimental procedures or analysis pipeline.\nWhether the authors have considered sufficient outcome-neutral conditions (e.g., absence of floor or ceiling effects; positive controls) for ensuring that the results are able to test the stated hypotheses."
+    "text": "Solving Bias and Hidden Flexibility\nStage 1 Review:\n\nThe significance of the research questions.\nThe logic, rationale, plausibility of the proposed hypotheses.\nThe soundness and feasibility of the methodology and analaysis pipeline (including statistical power analysis).\nWhether clarity and degree of methodological detail would be sufficient to replicate exactly the proposed experimental procedures and analysis pipeline.\nWhether the authors provide a sufficiently clear and detailed description of the methods to prevent undisclosed flexibility in the experimental procedures or analysis pipeline.\nWhether the authors have considered sufficient outcome-neutral conditions (e.g., absence of floor or ceiling effects; positive controls) for ensuring that the results are able to test the stated hypotheses."
   },
   {
     "objectID": "lectures/slides/week3/03_reform_slides.html#solving-bias-and-hidden-flexibility-6",
     "href": "lectures/slides/week3/03_reform_slides.html#solving-bias-and-hidden-flexibility-6",
     "title": "Lecture 3 - The reform movement in psychological science",
     "section": "Solving Bias and Hidden Flexibility",
-    "text": "Solving Bias and Hidden Flexibility\nStage 2 Review:\n\n\nWhether the data are able to test the authors’ proposed hypotheses by passing the approved outcome-neutral criteria (such as absence of floor or ceiling effects).\nWhether the introduction, rationale and stated hypotheses are the same as the approved Stage 1 submission (required).\nWhether the authors adhered precisely to the registered experimental procedures\nWhether any unregistered post hoc analyses added by the authors are justified, methodologically sound, and informative.\nWhether the authors’ conclusions are justified given the data"
+    "text": "Solving Bias and Hidden Flexibility\nStage 2 Review:\n\nWhether the data are able to test the authors’ proposed hypotheses by passing the approved outcome-neutral criteria (such as absence of floor or ceiling effects).\nWhether the introduction, rationale and stated hypotheses are the same as the approved Stage 1 submission (required).\nWhether the authors adhered precisely to the registered experimental procedures\nWhether any unregistered post hoc analyses added by the authors are justified, methodologically sound, and informative.\nWhether the authors’ conclusions are justified given the data."
   },
   {
     "objectID": "lectures/slides/week3/03_reform_slides.html#solving-the-sin-of-unreliability",
     "href": "lectures/slides/week3/03_reform_slides.html#solving-the-sin-of-unreliability",
     "title": "Lecture 3 - The reform movement in psychological science",
     "section": "Solving the Sin of Unreliability",
-    "text": "Solving the Sin of Unreliability\nUnreliability: lack of replication, lack of power, vague and nonreplicable methods, misuse of statistics, failure to retract papers.\nSolutions:\n\n\nRegistered Reports\nReproducibility Index\nPottery Barn rule by journals and funders\nRegular multi-centre replication initiatives"
+    "text": "Solving the Sin of Unreliability\nUnreliability: lack of replication, lack of power, vague and nonreplicable methods, misuse of statistics, failure to retract papers.\nSolutions:\n\nRegistered Reports\nReproducibility Index\nPottery Barn rule by journals and funders\nRegular multi-centre replication initiatives"
   },
   {
     "objectID": "lectures/slides/week3/03_reform_slides.html#solving-the-sin-of-data-hoarding",
     "href": "lectures/slides/week3/03_reform_slides.html#solving-the-sin-of-data-hoarding",
     "title": "Lecture 3 - The reform movement in psychological science",
     "section": "Solving the Sin of Data Hoarding",
-    "text": "Solving the Sin of Data Hoarding\nData hoarding: a widespread lack of data sharing\nSolutions:\n\n\nPeer Reviewers’ Openness (PRO) initiative (https://www.opennessinitiative.org/)\nTransparency and Openness Promotion (TOP) guidelines (https://www.cos.io/initiatives/top-guidelines)\nCentre for Open Science is a very useful platform (https://youtu.be/9YuNGB3vNOw)\nGit and GitHub (and other version control systems and code repositories)"
+    "text": "Solving the Sin of Data Hoarding\nData hoarding: a widespread lack of data sharing\nSolutions:\n\nPeer Reviewers’ Openness (PRO) initiative (https://www.opennessinitiative.org/)\nTransparency and Openness Promotion (TOP) guidelines (https://www.cos.io/initiatives/top-guidelines)\nCentre for Open Science is a very useful platform (https://youtu.be/9YuNGB3vNOw)\nGit and GitHub (and other version control systems and code repositories)"
   },
   {
     "objectID": "lectures/slides/week3/03_reform_slides.html#top-guidelines",
@@ -1869,7 +1869,7 @@
     "href": "lectures/slides/week3/03_reform_slides.html#solving-the-sin-of-corruptibility",
     "title": "Lecture 3 - The reform movement in psychological science",
     "section": "Solving the Sin of Corruptibility",
-    "text": "Solving the Sin of Corruptibility\nFraud\nSolutions:\n\n\nRequired data and code sharing\nData audits and “data detectives”\nProfiling researchers (not sure about this one!)\nCriminalisation of academic fraud\nProtection and support of whistle-blowers"
+    "text": "Solving the Sin of Corruptibility\nFraud\nSolutions:\n\nRequired data and code sharing\nData audits and “data detectives”\nProfiling researchers (not sure about this one!)\nCriminalisation of academic fraud\nProtection and support of whistle-blowers"
   },
   {
     "objectID": "lectures/slides/week3/03_reform_slides.html#solving-the-sin-of-corruptibility-1",

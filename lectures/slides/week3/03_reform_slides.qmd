@@ -199,7 +199,7 @@ Carl Sagan, 1995
 - An example of pre-registration from my lab
 <https://aspredicted.org/uh5m5.pdf>{preview-link="true"}
 
-- And the subsequently published [paper](https://doi.org/10.1080/13506285.2023.2250505){preview-link="true"}.
+- And the subsequently published [paper](https://rich-ramsey.com/publications/#published-2023){preview-link="true"}.
 
 ## Solving Bias and Hidden Flexibility ##
 
@@ -241,8 +241,8 @@ Carl Sagan, 1995
 
 ### Stage 1 Review:
 
-::: {.fragment}
-- The significance of the research questions
+::: {.incremental}
+- The significance of the research questions.
 - The logic, rationale, plausibility of the proposed hypotheses.
 - The soundness and feasibility of the methodology and analaysis pipeline (including statistical power analysis).
 - Whether clarity and degree of methodological detail would be sufficient to replicate exactly the proposed experimental procedures and analysis pipeline.
@@ -254,12 +254,12 @@ Carl Sagan, 1995
 
 ### Stage 2 Review:
 
-::: {.fragment}
+::: {.incremental}
 - Whether the data are able to test the authors’ proposed hypotheses by passing the approved outcome-neutral criteria (such as absence of floor or ceiling effects).
 - Whether the introduction, rationale and stated hypotheses are the same as the approved Stage 1 submission (required).
 - Whether the authors adhered precisely to the registered experimental procedures
 - Whether any unregistered post hoc analyses added by the authors are justified, methodologically sound, and informative.
-- Whether the authors’ conclusions are justified given the data
+- Whether the authors’ conclusions are justified given the data.
 :::
 
 ## Solving the Sin of Unreliability ## {.smaller}
@@ -268,7 +268,7 @@ Carl Sagan, 1995
 
 Solutions:
 
-::: {.fragment}
+::: {.incremental}
 - Registered Reports
 - Reproducibility Index
 - Pottery Barn rule by journals and funders
@@ -281,7 +281,7 @@ Solutions:
 
 Solutions:
 
-::: {.fragment}
+::: {.incremental}
 - Peer Reviewers’ Openness (PRO) initiative (https://www.opennessinitiative.org/)
 - Transparency and Openness Promotion (TOP) guidelines (https://www.cos.io/initiatives/top-guidelines)
 - Centre for Open Science is a very useful platform (https://youtu.be/9YuNGB3vNOw)
@@ -333,7 +333,7 @@ Solutions:
 
 Solutions:
 
-::: {.fragment}
+::: {.incremental}
 - Required data and code sharing
 - Data audits and “data detectives”
 - Profiling researchers (not sure about this one!)
