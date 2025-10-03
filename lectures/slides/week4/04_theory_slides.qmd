@@ -262,7 +262,11 @@ What do we mean by terms such as screen time, intrinsic motivation or depression
 
 ## RMET - Problems ##
 
-[[some stuff here describing the problems]]
+<br>
+
+- The task is widely used in clinical and non-clinical settings, despite very limited evidence about the validity of the tool.
+
+- A large-scale study has shown that it has poor psychometric properties, which provide considerable doubts to reliability and validity of the RMET as a measure of theory-of-mind. 
 
 ::: {.citation-footer}
 [@higgins2022]
