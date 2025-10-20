@@ -54,8 +54,283 @@ knitr::opts_chunk$set(echo = FALSE)
 :::
 ::::
 
+# An introduction to social neuroscience 
+
+## Overview
+
+<br>
+
+- Aims, context and brief history
+
+- Neuroscience methods
+
+- The "Social Brain"
+
+## Social cognition
+
+<br>
+
+What is social cognition?
+
+- Cognition – a group of mental processes
+
+- Social – pertains to interacting with others
+
+- Social cognition – mental processes involved during interactions with others
+
+## Social neuroscience
+
+Social cognition and social neuroscience are two related fields of research
+
+They concern different levels of description @mortonUnderstandingDevelopmentalDisorders2004:
+
+- cognitive 
+- neural
+
+This reflects the fact that mental processes, including social ones, have a biological basis in the brain
+
+## History
+
+<br>
+
+The emergence of social neuroscience @cacioppoSocialPsychologicalContributions1992.
 
 
+John Cacioppo
+
+See video - <http://vimeo.com/7939053>
+
+From 25s to 1 min 25s
+
+## History
+
+{{< video https://vimeo.com/7939053
+  start="25"
+  width="100%" 
+  height="100%"
+>}}
+
+## Key points
+
+<br>
+
+>Humans create emergent organizations beyond the individual - structures that range from dyads, families, and groups to cities, civilizations, and international alliances.
+
+## Key points
+
+<br>
+
+>These emergent structures evolved hand in hand with neural, hormonal, cellular, and genetic mechanisms to support them because the consequent social behaviors helped humans survive, reproduce, and care for offspring sufficiently long that they too survived to reproduce.
+
+## Key points
+
+- Previously, cognition comprised a “mental mansion” and the “social” aspect was irrelevant.
+- Things are changing…
+
+![](images/mental_mansion.jpg)
+
+## Key points
+
+<br>
+
+:::: {.columns}
+::: {.column width="50%"}
+- There are many ways to study social neuroscience (hormonal, genetic, cellular, neural)
+- In this course we focus on the neural level
+:::
+
+::: {.column width="25%" .img-medium}
+![](images/comp_brain.png)
+:::
+
+::: {.column width="25%" .img-medium}
+![](images/black_brain.png)
+:::
+::::
+
+# Neuroscience methods
+
+## Neuroscience methods overview
+
+1. Direct neuronal recordings
+2. ERPs - event related potentials
+3. fMRI – functional magnetic resonance imaging
+4. TMS – Transcranial magnetic stimulation
+
+::: {.fragment .text-smaller}
+We will touch on these other techniques later:
+
+- Measuring behaviour – reaction times, error rates, movement patterns etc.
+- Variation across individuals and neuropsychology
+:::
+
+## Direct neuronal recordings
+
+- Rare in humans, except during brain surgery
+- More common in non-human animals
+
+:::: {.columns}
+::: {.column width="35%" .img-medium}
+![](images/open_brain.png)
+:::
+
+::: {.column width="65%"}
+
+<br>
+
+**Advantages:** precise temporal and spatial resolution
+
+**Disadvantages:** rarely performed in humans and very invasive!!
+
+:::
+::::
+
+
+## ERPs
+
+- Indirect measure of electrical activity from the scalp
+
+:::: {.columns}
+::: {.column width="35%" .img-v-large}
+![](images/eeg_cap.png)
+:::
+
+::: {.column width="65%"}
+<br>
+
+**Advantages:** precise temporal resolution, non-invasive
+
+**Disadvantages:** indirect, poor spatial resolution
+:::
+::::
+
+## MRI and fMRI
+
+::: {.img-v-large}
+![](images/mri_brains.png){fig-align="center"}
+:::
+
+**Advantages:** good spatial resolution (*where* in the brain)
+
+**Disadvantages:** poor temporal resolution (*when* in the brain), expensive, noisy
+
+
+## TMS
+
+<br>
+
+:::: {.columns}
+::: {.column width="60%"}
+
+- A magnetic field pulse induces electric currents in the body/brain
+
+- If positioned on the head this current can excite the brain and create temporary disorder
+
+:::
+
+::: {.column width="40%"}
+![](images/tms.png)
+:::
+::::
+
+## TMS
+
+<br>
+
+::: {.text-smaller}
+**Advantages:** induces temporary “lesions” without permanent changes, good spatial and temporal resolution. Some researchers argue it can be used to establish causality
+:::
+
+<br>
+
+::: {.text-smaller}
+**Disadvantages:** only regions on the cortical surface can be stimulated, strict ethics, can be unpleasant for subjects, localisation uncertainty (i.e., spread of stimulation to many sites)
+:::
+
+## Neuroscience methods summary
+
+<br>
+
+- Direct recordings - rare in humans (obviously)
+
+- ERPs - temporal (*when* in the brain)
+
+- fMRI - spatial (*where* in the brain)
+
+- TMS - causal* (*according to some people)
+
+
+# The "Social Brain"
+
+## The social brain
+
+![](images/coffee.jpeg)
+
+## Background
+
+<br>
+
+- @brothers1990a coined the phrase ‘social brain’
+
+::: {.incremental}
+- How does the brain process social information? 
+- How does the brain encode, retrieve and process social information in order to produce adaptive behaviour?
+
+- Key proponents: Chris and Uta Frith, Raplh Adolphs, Matthew Lieberman and many others
+:::
+
+## The social brain in action
+
+<br>
+
+:::: {.columns}
+::: {.column width="40%" .incremental}
+
+- Face recognition
+- Gaze
+- Emotion
+- Mental states
+- Trait inference
+- Imitation 
+:::
+
+::: {.column width="60%"}
+![](images/students.jpeg)
+:::
+::::
+
+## Stranded on an alien planet…
+
+:::: {.columns}
+::: {.column width="40%" .text-smaller .incremental}
+
+- Are there living beings?
+- Are they friendly or hostile?
+- Are they like you?
+- If you need help, will they cooperate and will you help them?
+
+- Your social brain can guide you ...
+
+:::
+
+::: {.column width="60%"}
+![](images/zombie.jpeg)
+:::
+::::
+
+::: {.citation-footer}
+[@frithSocialBrainAllowing2010]
+:::
+
+## Social brain circuits
+
+<br>
+
+![](images/social_brain_circuits.jpg)
+
+::: {.citation-footer}
+[@adolphsSocialBrainNeural2009; @stanleyNeuralBasisSocial2013]
+:::
 
 ## Today ##
 
@@ -91,7 +366,7 @@ knitr::opts_chunk$set(echo = FALSE)
 - break into small groups (~ 5 per group)
 - discuss aspects of the lecture 
 - discuss aspects of the journal article:
-<link here>{target='_blank'}
+<https://doi.org/10.1016/j.neuron.2013.10.038>{target='_blank'}
 
 
 ## References
@@ -101,6 +376,6 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## Acknowledgements 
 
-- Unless otherwise specified, icons and images were used under license from [The Noun Project](https://thenounproject.com/)
+- Unless otherwise specified, icons and images were used under license from [The Noun Project](https://thenounproject.com/) or [bioRender](https://www.biorender.com/)
 
 - Slides were created with [Quarto](https://quarto.org/) and [RevealJS](https://revealjs.com/)

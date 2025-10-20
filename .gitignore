@@ -9,3 +9,7 @@
 /_freeze/
 /notes/
 *.pptx
+**/image-dev/
+**/images/
+/assignments/
+/grades/
