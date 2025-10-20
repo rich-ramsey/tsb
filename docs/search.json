@@ -1200,7 +1200,7 @@
     "href": "lectures/06_neuro_1.html#discussion-paper",
     "title": "An introduction to social neuroscience",
     "section": "Discussion paper",
-    "text": "Discussion paper\n[link here]",
+    "text": "Discussion paper\nStanley & Adolphs, 2013",
     "crumbs": [
       "Lectures",
       "<b>Lectures</b>",
@@ -1956,6 +1956,153 @@
     "text": "Today\n\n\n\nPart 1\n\nAn introduction to social neuroscience\n\n\nPart 2\n\nRead articles and discuss"
   },
   {
+    "objectID": "lectures/slides/week6/06_neuro_1_slides.html#overview",
+    "href": "lectures/slides/week6/06_neuro_1_slides.html#overview",
+    "title": "Lecture 6 - An introduction to social neuroscience",
+    "section": "Overview",
+    "text": "Overview\n\n\nAims, context and brief history\nNeuroscience methods\nThe “Social Brain”"
+  },
+  {
+    "objectID": "lectures/slides/week6/06_neuro_1_slides.html#social-cognition",
+    "href": "lectures/slides/week6/06_neuro_1_slides.html#social-cognition",
+    "title": "Lecture 6 - An introduction to social neuroscience",
+    "section": "Social cognition",
+    "text": "Social cognition\n\nWhat is social cognition?\n\nCognition – a group of mental processes\nSocial – pertains to interacting with others\nSocial cognition – mental processes involved during interactions with others"
+  },
+  {
+    "objectID": "lectures/slides/week6/06_neuro_1_slides.html#social-neuroscience",
+    "href": "lectures/slides/week6/06_neuro_1_slides.html#social-neuroscience",
+    "title": "Lecture 6 - An introduction to social neuroscience",
+    "section": "Social neuroscience",
+    "text": "Social neuroscience\nSocial cognition and social neuroscience are two related fields of research\nThey concern different levels of description Morton (2004):\n\ncognitive\nneural\n\nThis reflects the fact that mental processes, including social ones, have a biological basis in the brain"
+  },
+  {
+    "objectID": "lectures/slides/week6/06_neuro_1_slides.html#history",
+    "href": "lectures/slides/week6/06_neuro_1_slides.html#history",
+    "title": "Lecture 6 - An introduction to social neuroscience",
+    "section": "History",
+    "text": "History\n\nThe emergence of social neuroscience Cacioppo & Berntson (1992).\nJohn Cacioppo\nSee video - http://vimeo.com/7939053\nFrom 25s to 1 min 25s"
+  },
+  {
+    "objectID": "lectures/slides/week6/06_neuro_1_slides.html#history-1",
+    "href": "lectures/slides/week6/06_neuro_1_slides.html#history-1",
+    "title": "Lecture 6 - An introduction to social neuroscience",
+    "section": "History",
+    "text": "History"
+  },
+  {
+    "objectID": "lectures/slides/week6/06_neuro_1_slides.html#key-points",
+    "href": "lectures/slides/week6/06_neuro_1_slides.html#key-points",
+    "title": "Lecture 6 - An introduction to social neuroscience",
+    "section": "Key points",
+    "text": "Key points\n\n\nHumans create emergent organizations beyond the individual - structures that range from dyads, families, and groups to cities, civilizations, and international alliances."
+  },
+  {
+    "objectID": "lectures/slides/week6/06_neuro_1_slides.html#key-points-1",
+    "href": "lectures/slides/week6/06_neuro_1_slides.html#key-points-1",
+    "title": "Lecture 6 - An introduction to social neuroscience",
+    "section": "Key points",
+    "text": "Key points\n\n\nThese emergent structures evolved hand in hand with neural, hormonal, cellular, and genetic mechanisms to support them because the consequent social behaviors helped humans survive, reproduce, and care for offspring sufficiently long that they too survived to reproduce."
+  },
+  {
+    "objectID": "lectures/slides/week6/06_neuro_1_slides.html#key-points-2",
+    "href": "lectures/slides/week6/06_neuro_1_slides.html#key-points-2",
+    "title": "Lecture 6 - An introduction to social neuroscience",
+    "section": "Key points",
+    "text": "Key points\n\nPreviously, cognition comprised a “mental mansion” and the “social” aspect was irrelevant.\nThings are changing…"
+  },
+  {
+    "objectID": "lectures/slides/week6/06_neuro_1_slides.html#key-points-3",
+    "href": "lectures/slides/week6/06_neuro_1_slides.html#key-points-3",
+    "title": "Lecture 6 - An introduction to social neuroscience",
+    "section": "Key points",
+    "text": "Key points\n\n\n\n\nThere are many ways to study social neuroscience (hormonal, genetic, cellular, neural)\nIn this course we focus on the neural level"
+  },
+  {
+    "objectID": "lectures/slides/week6/06_neuro_1_slides.html#neuroscience-methods-overview",
+    "href": "lectures/slides/week6/06_neuro_1_slides.html#neuroscience-methods-overview",
+    "title": "Lecture 6 - An introduction to social neuroscience",
+    "section": "Neuroscience methods overview",
+    "text": "Neuroscience methods overview\n\nDirect neuronal recordings\nERPs - event related potentials\nfMRI – functional magnetic resonance imaging\nTMS – Transcranial magnetic stimulation\n\n\nWe will touch on these other techniques later:\n\nMeasuring behaviour – reaction times, error rates, movement patterns etc.\nVariation across individuals and neuropsychology"
+  },
+  {
+    "objectID": "lectures/slides/week6/06_neuro_1_slides.html#direct-neuronal-recordings",
+    "href": "lectures/slides/week6/06_neuro_1_slides.html#direct-neuronal-recordings",
+    "title": "Lecture 6 - An introduction to social neuroscience",
+    "section": "Direct neuronal recordings",
+    "text": "Direct neuronal recordings\n\nRare in humans, except during brain surgery\nMore common in non-human animals\n\n\n\n\n\n\nAdvantages: precise temporal and spatial resolution\nDisadvantages: rarely performed in humans and very invasive!!"
+  },
+  {
+    "objectID": "lectures/slides/week6/06_neuro_1_slides.html#erps",
+    "href": "lectures/slides/week6/06_neuro_1_slides.html#erps",
+    "title": "Lecture 6 - An introduction to social neuroscience",
+    "section": "ERPs",
+    "text": "ERPs\n\nIndirect measure of electrical activity from the scalp\n\n\n\n\n\n\nAdvantages: precise temporal resolution, non-invasive\nDisadvantages: indirect, poor spatial resolution"
+  },
+  {
+    "objectID": "lectures/slides/week6/06_neuro_1_slides.html#mri-and-fmri",
+    "href": "lectures/slides/week6/06_neuro_1_slides.html#mri-and-fmri",
+    "title": "Lecture 6 - An introduction to social neuroscience",
+    "section": "MRI and fMRI",
+    "text": "MRI and fMRI\n\n\n\n\n\n\n\nAdvantages: good spatial resolution (where in the brain)\nDisadvantages: poor temporal resolution (when in the brain), expensive, noisy"
+  },
+  {
+    "objectID": "lectures/slides/week6/06_neuro_1_slides.html#tms",
+    "href": "lectures/slides/week6/06_neuro_1_slides.html#tms",
+    "title": "Lecture 6 - An introduction to social neuroscience",
+    "section": "TMS",
+    "text": "TMS\n\n\n\n\nA magnetic field pulse induces electric currents in the body/brain\nIf positioned on the head this current can excite the brain and create temporary disorder"
+  },
+  {
+    "objectID": "lectures/slides/week6/06_neuro_1_slides.html#tms-1",
+    "href": "lectures/slides/week6/06_neuro_1_slides.html#tms-1",
+    "title": "Lecture 6 - An introduction to social neuroscience",
+    "section": "TMS",
+    "text": "TMS\n\n\nAdvantages: induces temporary “lesions” without permanent changes, good spatial and temporal resolution. Some researchers argue it can be used to establish causality\n\n\n\nDisadvantages: only regions on the cortical surface can be stimulated, strict ethics, can be unpleasant for subjects, localisation uncertainty (i.e., spread of stimulation to many sites)"
+  },
+  {
+    "objectID": "lectures/slides/week6/06_neuro_1_slides.html#neuroscience-methods-summary",
+    "href": "lectures/slides/week6/06_neuro_1_slides.html#neuroscience-methods-summary",
+    "title": "Lecture 6 - An introduction to social neuroscience",
+    "section": "Neuroscience methods summary",
+    "text": "Neuroscience methods summary\n\n\nDirect recordings - rare in humans (obviously)\nERPs - temporal (when in the brain)\nfMRI - spatial (where in the brain)\nTMS - causal* (*according to some people)"
+  },
+  {
+    "objectID": "lectures/slides/week6/06_neuro_1_slides.html#the-social-brain-1",
+    "href": "lectures/slides/week6/06_neuro_1_slides.html#the-social-brain-1",
+    "title": "Lecture 6 - An introduction to social neuroscience",
+    "section": "The social brain",
+    "text": "The social brain"
+  },
+  {
+    "objectID": "lectures/slides/week6/06_neuro_1_slides.html#background",
+    "href": "lectures/slides/week6/06_neuro_1_slides.html#background",
+    "title": "Lecture 6 - An introduction to social neuroscience",
+    "section": "Background",
+    "text": "Background\n\n\nBrothers (1990) coined the phrase ‘social brain’\n\n\nHow does the brain process social information?\nHow does the brain encode, retrieve and process social information in order to produce adaptive behaviour?\nKey proponents: Chris and Uta Frith, Raplh Adolphs, Matthew Lieberman and many others"
+  },
+  {
+    "objectID": "lectures/slides/week6/06_neuro_1_slides.html#the-social-brain-in-action",
+    "href": "lectures/slides/week6/06_neuro_1_slides.html#the-social-brain-in-action",
+    "title": "Lecture 6 - An introduction to social neuroscience",
+    "section": "The social brain in action",
+    "text": "The social brain in action\n\n\n\n\nFace recognition\nGaze\nEmotion\nMental states\nTrait inference\nImitation"
+  },
+  {
+    "objectID": "lectures/slides/week6/06_neuro_1_slides.html#stranded-on-an-alien-planet",
+    "href": "lectures/slides/week6/06_neuro_1_slides.html#stranded-on-an-alien-planet",
+    "title": "Lecture 6 - An introduction to social neuroscience",
+    "section": "Stranded on an alien planet…",
+    "text": "Stranded on an alien planet…\n\n\n\nAre there living beings?\nAre they friendly or hostile?\nAre they like you?\nIf you need help, will they cooperate and will you help them?\nYour social brain can guide you …\n\n\n\n\n\n(Frith & Frith, 2010)"
+  },
+  {
+    "objectID": "lectures/slides/week6/06_neuro_1_slides.html#social-brain-circuits",
+    "href": "lectures/slides/week6/06_neuro_1_slides.html#social-brain-circuits",
+    "title": "Lecture 6 - An introduction to social neuroscience",
+    "section": "Social brain circuits",
+    "text": "Social brain circuits\n\n\n\n(Adolphs, 2009; Stanley & Adolphs, 2013)"
+  },
+  {
     "objectID": "lectures/slides/week6/06_neuro_1_slides.html#today-1",
     "href": "lectures/slides/week6/06_neuro_1_slides.html#today-1",
     "title": "Lecture 6 - An introduction to social neuroscience",
@@ -2024,194 +2171,5 @@
     "title": "Resources",
     "section": "",
     "text": "A bunch of supporting material can be found on this page."
-  },
-  {
-    "objectID": "lectures/slides/week6/06_neuro_1_slides.html#definitions",
-    "href": "lectures/slides/week6/06_neuro_1_slides.html#definitions",
-    "title": "Lecture 6 - An introduction to social neuroscience",
-    "section": "Definitions",
-    "text": "Definitions\nWhat is social cognition?\nCognition – a group of mental processes\nSocial – pertains to interacting with others\nSocial cognition – mental processes involved during interactions with others"
-  },
-  {
-    "objectID": "lectures/slides/week6/06_neuro_1_slides.html#history",
-    "href": "lectures/slides/week6/06_neuro_1_slides.html#history",
-    "title": "Lecture 6 - An introduction to social neuroscience",
-    "section": "History",
-    "text": "History\n\nThe emergence of social neuroscience Cacioppo & Berntson (1992).\nJohn Cacioppo\nSee video - http://vimeo.com/7939053\nFrom 25s to 1 min 25s"
-  },
-  {
-    "objectID": "lectures/slides/week6/06_neuro_1_slides.html#history-1",
-    "href": "lectures/slides/week6/06_neuro_1_slides.html#history-1",
-    "title": "Lecture 6 - An introduction to social neuroscience",
-    "section": "History",
-    "text": "History"
-  },
-  {
-    "objectID": "lectures/slides/week6/06_neuro_1_slides.html#history-2",
-    "href": "lectures/slides/week6/06_neuro_1_slides.html#history-2",
-    "title": "Lecture 6 - An introduction to social neuroscience",
-    "section": "History",
-    "text": "History"
-  },
-  {
-    "objectID": "lectures/slides/week6/06_neuro_1_slides.html#an-introduction-to-social-neuroscience",
-    "href": "lectures/slides/week6/06_neuro_1_slides.html#an-introduction-to-social-neuroscience",
-    "title": "Lecture 6 - An introduction to social neuroscience",
-    "section": "An introduction to social neuroscience",
-    "text": "An introduction to social neuroscience\n\nAims, context and brief history\nNeuroscience methods\nThe “Social Brain”"
-  },
-  {
-    "objectID": "lectures/slides/week6/06_neuro_1_slides.html#key-points",
-    "href": "lectures/slides/week6/06_neuro_1_slides.html#key-points",
-    "title": "Lecture 6 - An introduction to social neuroscience",
-    "section": "Key points",
-    "text": "Key points\n\n\nHumans create emergent organizations beyond the individual - structures that range from dyads, families, and groups to cities, civilizations, and international alliances."
-  },
-  {
-    "objectID": "lectures/slides/week6/06_neuro_1_slides.html#key-points-1",
-    "href": "lectures/slides/week6/06_neuro_1_slides.html#key-points-1",
-    "title": "Lecture 6 - An introduction to social neuroscience",
-    "section": "Key points",
-    "text": "Key points\n\n\nThese emergent structures evolved hand in hand with neural, hormonal, cellular, and genetic mechanisms to support them because the consequent social behaviors helped humans survive, reproduce, and care for offspring sufficiently long that they too survived to reproduce."
-  },
-  {
-    "objectID": "lectures/slides/week6/06_neuro_1_slides.html#key-points-2",
-    "href": "lectures/slides/week6/06_neuro_1_slides.html#key-points-2",
-    "title": "Lecture 6 - An introduction to social neuroscience",
-    "section": "Key points",
-    "text": "Key points\n\nPreviously, cognition comprised a “mental mansion” and the “social” aspect was irrelevant.\nThings are changing…"
-  },
-  {
-    "objectID": "lectures/slides/week6/06_neuro_1_slides.html#social-cognition",
-    "href": "lectures/slides/week6/06_neuro_1_slides.html#social-cognition",
-    "title": "Lecture 6 - An introduction to social neuroscience",
-    "section": "Social cognition",
-    "text": "Social cognition\n\nWhat is social cognition?\n\nCognition – a group of mental processes\nSocial – pertains to interacting with others\nSocial cognition – mental processes involved during interactions with others"
-  },
-  {
-    "objectID": "lectures/slides/week6/06_neuro_1_slides.html#social-neuroscience",
-    "href": "lectures/slides/week6/06_neuro_1_slides.html#social-neuroscience",
-    "title": "Lecture 6 - An introduction to social neuroscience",
-    "section": "Social neuroscience",
-    "text": "Social neuroscience\nSocial cognition and social neuroscience are two related fields of research\nThey concern different levels of description Morton (2004):\n\ncognitive\nneural\n\nThis reflects the fact that mental processes, including social ones, have a biological basis in the brain"
-  },
-  {
-    "objectID": "lectures/slides/week6/06_neuro_1_slides.html#overview",
-    "href": "lectures/slides/week6/06_neuro_1_slides.html#overview",
-    "title": "Lecture 6 - An introduction to social neuroscience",
-    "section": "Overview",
-    "text": "Overview\n\n\nAims, context and brief history\nNeuroscience methods\nThe “Social Brain”"
-  },
-  {
-    "objectID": "lectures/slides/week6/06_neuro_1_slides.html#key-points-3",
-    "href": "lectures/slides/week6/06_neuro_1_slides.html#key-points-3",
-    "title": "Lecture 6 - An introduction to social neuroscience",
-    "section": "Key points",
-    "text": "Key points\n\n\n\n\nThere are many ways to study social neuroscience (hormonal, genetic, cellular, neural)\nIn this course we focus on the neural level"
-  },
-  {
-    "objectID": "lectures/slides/week6/06_neuro_1_slides.html#methods-overview",
-    "href": "lectures/slides/week6/06_neuro_1_slides.html#methods-overview",
-    "title": "Lecture 6 - An introduction to social neuroscience",
-    "section": "Methods overview",
-    "text": "Methods overview\n\nDirect neuronal recordings\nERPs - event related potentials\nfMRI – functional magnetic resonance imaging\nTMS – Transcranial magnetic stimulation\n\nWe will touch on these other techniques later: - Measuring behaviour – reaction times, error rates, movement patterns etc. - Variation across individuals - Neuropsychology"
-  },
-  {
-    "objectID": "lectures/slides/week6/06_neuro_1_slides.html#direct-neuronal-recordings",
-    "href": "lectures/slides/week6/06_neuro_1_slides.html#direct-neuronal-recordings",
-    "title": "Lecture 6 - An introduction to social neuroscience",
-    "section": "Direct neuronal recordings",
-    "text": "Direct neuronal recordings\n\nRare in humans, except during brain surgery\nMore common in non-human animals\n\n\n\n\n\n\nAdvantages: precise temporal and spatial resolution\nDisadvantages: rarely performed in humans and very invasive!!"
-  },
-  {
-    "objectID": "lectures/slides/week6/06_neuro_1_slides.html#erps",
-    "href": "lectures/slides/week6/06_neuro_1_slides.html#erps",
-    "title": "Lecture 6 - An introduction to social neuroscience",
-    "section": "ERPs",
-    "text": "ERPs\n\nIndirect measure of electrical activity from the scalp\n\n\n\n\n\n\nAdvantages: precise temporal resolution, non-invasive\nDisadvantages: indirect, poor spatial resolution"
-  },
-  {
-    "objectID": "lectures/slides/week6/06_neuro_1_slides.html#fmri",
-    "href": "lectures/slides/week6/06_neuro_1_slides.html#fmri",
-    "title": "Lecture 6 - An introduction to social neuroscience",
-    "section": "fMRI",
-    "text": "fMRI\n\nMRI and fMRI\n\n\n\n\nAdvantages: good spatial resolution (where in the brain) Disadvantages: poor temporal resolution (when in the brain), expensive, noisy"
-  },
-  {
-    "objectID": "lectures/slides/week6/06_neuro_1_slides.html#tms",
-    "href": "lectures/slides/week6/06_neuro_1_slides.html#tms",
-    "title": "Lecture 6 - An introduction to social neuroscience",
-    "section": "TMS",
-    "text": "TMS\n\n\n\n\nA magnetic field pulse induces electric currents in the body/brain\nIf positioned on the head this current can excite the brain and create temporary disorder"
-  },
-  {
-    "objectID": "lectures/slides/week6/06_neuro_1_slides.html#neuroscience-methods-overview",
-    "href": "lectures/slides/week6/06_neuro_1_slides.html#neuroscience-methods-overview",
-    "title": "Lecture 6 - An introduction to social neuroscience",
-    "section": "Neuroscience methods overview",
-    "text": "Neuroscience methods overview\n\nDirect neuronal recordings\nERPs - event related potentials\nfMRI – functional magnetic resonance imaging\nTMS – Transcranial magnetic stimulation\n\n\nWe will touch on these other techniques later:\n\nMeasuring behaviour – reaction times, error rates, movement patterns etc.\nVariation across individuals and neuropsychology"
-  },
-  {
-    "objectID": "lectures/slides/week6/06_neuro_1_slides.html#neuroscience-methods-summary",
-    "href": "lectures/slides/week6/06_neuro_1_slides.html#neuroscience-methods-summary",
-    "title": "Lecture 6 - An introduction to social neuroscience",
-    "section": "Neuroscience methods summary",
-    "text": "Neuroscience methods summary\n\n\nDirect recordings - rare in humans (obviously)\nERPs - temporal (when in the brain)\nfMRI - spatial (where in the brain)\nTMS - causal* (*according to some people)"
-  },
-  {
-    "objectID": "lectures/slides/week6/06_neuro_1_slides.html#social-interactions",
-    "href": "lectures/slides/week6/06_neuro_1_slides.html#social-interactions",
-    "title": "Lecture 6 - An introduction to social neuroscience",
-    "section": "Social interactions",
-    "text": "Social interactions\n[image]"
-  },
-  {
-    "objectID": "lectures/slides/week6/06_neuro_1_slides.html#the-social-brain-1",
-    "href": "lectures/slides/week6/06_neuro_1_slides.html#the-social-brain-1",
-    "title": "Lecture 6 - An introduction to social neuroscience",
-    "section": "The social brain",
-    "text": "The social brain"
-  },
-  {
-    "objectID": "lectures/slides/week6/06_neuro_1_slides.html#background",
-    "href": "lectures/slides/week6/06_neuro_1_slides.html#background",
-    "title": "Lecture 6 - An introduction to social neuroscience",
-    "section": "Background",
-    "text": "Background\n\n\nBrothers (1990) coined the phrase ‘social brain’\n\n\nHow does the brain process social information?\nHow does the brain encode, retrieve and process social information in order to produce adaptive behaviour?\nKey proponents: Chris and Uta Frith, Raplh Adolphs, Matthew Lieberman and many others"
-  },
-  {
-    "objectID": "lectures/slides/week6/06_neuro_1_slides.html#the-social-brain-in-action",
-    "href": "lectures/slides/week6/06_neuro_1_slides.html#the-social-brain-in-action",
-    "title": "Lecture 6 - An introduction to social neuroscience",
-    "section": "The social brain in action",
-    "text": "The social brain in action\n\n\n\n\nFace recognition\nGaze\nEmotion\nMental states\nTrait inference\nImitation"
-  },
-  {
-    "objectID": "lectures/slides/week6/06_neuro_1_slides.html#stranded-on-an-alien-planet",
-    "href": "lectures/slides/week6/06_neuro_1_slides.html#stranded-on-an-alien-planet",
-    "title": "Lecture 6 - An introduction to social neuroscience",
-    "section": "Stranded on an alien planet…",
-    "text": "Stranded on an alien planet…\n\n\n\nAre there living beings?\nAre they friendly or hostile?\nAre they like you?\nIf you need help, will they cooperate and will you help them?\nYour social brain can guide you …\n\n\n\n\n\n(Frith & Frith, 2010)"
-  },
-  {
-    "objectID": "lectures/slides/week6/06_neuro_1_slides.html#social-brain-circuits",
-    "href": "lectures/slides/week6/06_neuro_1_slides.html#social-brain-circuits",
-    "title": "Lecture 6 - An introduction to social neuroscience",
-    "section": "Social brain circuits",
-    "text": "Social brain circuits\n\n\n\n(Adolphs, 2009; Stanley & Adolphs, 2013)"
-  },
-  {
-    "objectID": "lectures/slides/week6/06_neuro_1_slides.html#tms-1",
-    "href": "lectures/slides/week6/06_neuro_1_slides.html#tms-1",
-    "title": "Lecture 6 - An introduction to social neuroscience",
-    "section": "TMS",
-    "text": "TMS\n\n\nAdvantages: induces temporary “lesions” without permanent changes, good spatial and temporal resolution. Some researchers argue it can be used to establish causality\n\n\n\nDisadvantages: only regions on the cortical surface can be stimulated, strict ethics, can be unpleasant for subjects, localisation uncertainty (i.e., spread of stimulation to many sites)"
-  },
-  {
-    "objectID": "lectures/slides/week6/06_neuro_1_slides.html#mri-and-fmri",
-    "href": "lectures/slides/week6/06_neuro_1_slides.html#mri-and-fmri",
-    "title": "Lecture 6 - An introduction to social neuroscience",
-    "section": "MRI and fMRI",
-    "text": "MRI and fMRI\n\n\n\n\n\n\n\nAdvantages: good spatial resolution (where in the brain)\nDisadvantages: poor temporal resolution (when in the brain), expensive, noisy"
   }
 ]
