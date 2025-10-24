@@ -11,5 +11,6 @@
 *.pptx
 **/image-dev/
 **/images/
+**/scrap/
 /assignments/
 /grades/
