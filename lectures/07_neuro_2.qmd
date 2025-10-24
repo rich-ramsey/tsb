@@ -17,10 +17,10 @@ person perception, joint attention, trait inferences
 - [View Slides](slides/week7/07_neuro_2_slides.html){target="_blank"} (opens in new tab)
 - [Download Slides PDF](slides/week7/07_neuro_2_slides.pdf){download="07_neuro_2_slides.pdf"}
 
-## Discussion paper
+## Discussion article
 
-[link here]
+<https://medium.com/@blaisea/physiognomys-new-clothes-f2d4b59fdd6a>{target="_blank"}
 
 ## Book chapter
 
-**Reading faces and bodies:** Ward (2023, Chapter 5)
+**Reading faces and bodies:** Ward (2022, Chapter 5)

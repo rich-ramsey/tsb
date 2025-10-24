@@ -21,6 +21,7 @@ origins, aims, definitions and methods of social neuroscience
 
 [Stanley & Adolphs, 2013](https://doi.org/10.1016/j.neuron.2013.10.038)
 
-## Book chapter
+## Book chapters
 
-**An introduction to social neuroscience:** Ward (2023, Chapter 1)
+**An introduction to social neuroscience:** Ward (2022, Chapter 1)
+**The methods of social neuroscience:** Ward (2022, Chapter 2)

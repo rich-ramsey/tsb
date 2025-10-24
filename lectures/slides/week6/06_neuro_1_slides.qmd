@@ -367,7 +367,7 @@ We will touch on these other techniques later:
 - discuss aspects of the lecture 
 - discuss aspects of the journal article:
 <https://doi.org/10.1016/j.neuron.2013.10.038>{target='_blank'}
-
+- See also Chapters 1 and 2 from @ward2022d
 
 ## References
 

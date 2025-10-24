@@ -54,31 +54,275 @@ knitr::opts_chunk$set(echo = FALSE)
 :::
 ::::
 
+# Reading faces and bodies {.smaller}
 
+For an overview, See Chapter 5 from @ward2022d
 
+## Overview
 
-## Today ##
+<br>
+
+- Recap "Social Brain" circuits
+
+- Perceiving faces 
+
+- Perceiving bodies
+
+- Joint attention
+
+- Trait inferences from faces and bodies
+
+# Recap social brain circuits
+
+## Social brain circuits
+
+<br>
+
+![](images/social_brain_circuits.jpg)
+
+::: {.citation-footer}
+[@adolphsSocialBrainNeural2009; @stanleyNeuralBasisSocial2013]
+:::
+
+# Perceiving faces
+
+## Faces
+
+![](images/coffee.jpeg)
+
+## A cognitive model
+
+:::: {.columns}
+::: {.column width="50%" .img-large}
+![](images/face.jpeg)
+:::
+
+::: {.column width="50%"}
+![](images/bruce_young.png)
+:::
+::::
+
+::: {.citation-footer}
+[@bruce1986; @duchaine2015]
+:::
+
+## Neural basis of face perception
+
+![](images/duchaine_yovel.jpg)
+
+::: {.citation-footer}
+[@duchaine2015]
+:::
+
+## Core and extended systems
+
+![](images/core_extended.png)
+
+::: {.citation-footer}
+[@haxbyDistributedHumanNeural2000; @duchaine2015]
+:::
+
+# Perceiving bodies
+
+## Bodies
+
+:::: {.columns}
+::: {.column width="50%" .img-large}
+![](images/body.jpeg)
+:::
+
+::: {.column width="50%"}
+![](images/body_family.png){.fragment data-fragment-index="1"}
+![](images/body_postures.png){.fragment data-fragment-index="2"}
+:::
+::::
+
+## Neural basis of body perception
 
 <br>
 
 :::: {.columns}
 ::: {.column width="50%"}
-[Part 1]{.green-text}
-
-- Social Neuroscience: Reading faces and bodies
-
-<br>
-
-[Part 2]{.green-text}
-
-- Read articles and discuss
+![](images/fba_eba.jpg)
 :::
-::: {.column width="50%"}
-![](../icons/lecture.png){width=150px}\
-<br>
-![](../icons/reading.png){width=150px} ![](../icons/discussion.png){width=150px}
+
+::: {.column width="50%" .fragment}
+![](images/eba_profile.jpg)
 :::
 ::::
+
+::: {.citation-footer}
+[@peelen2007]
+:::
+
+## Bodies in motion
+
+{{< video https://www.youtube.com/watch?v=w7nRBRoMfWM
+  width="90%" 
+  height="90%"
+>}}
+
+## Neural basis of bodies in motion 
+
+::: {.img-large}
+![](images/pSTS.jpg)
+:::
+
+::: {.citation-footer}
+[@grossmanBrainAreasInvolved2000; @pitcher2021]
+:::
+
+# Joint attention
+
+## Eye gaze 
+
+:::: {.columns}
+::: {.column width="40%" .img-v-large}
+<br>
+<br>
+<br>
+![](images/eye_gaze_cues.png)
+:::
+
+::: {.column width="20%" .img-small .fragment}
+<br>
+<br>
+<br>
+![](images/drink.png)
+:::
+::: {.column width="20%" .img-small .fragment}
+<br>
+<br>
+<br>
+![](images/knife.png)
+:::
+::: {.column width="20%" .img-small .fragment}
+<br>
+<br>
+<br>
+![](images/clock.png)
+:::
+::::
+
+::: {.citation-footer}
+[@frischen2007]
+:::
+
+## Eye gaze in social contexts
+
+::: {.img-full}
+![](images/cards.jpg)
+:::
+
+::: {.image-footer}
+[Le Tricheur à l’as de carreau by Georges de la Tour (c. 1635)]
+:::
+
+## Neural basis of joint attention
+
+:::: {.columns}
+
+::: {.column width="50%" .img-large}
+![](images/pSTS.jpg)
+:::
+
+::: {.column width="50%" .img-large}
+![](images/multiple_demand.jpg){.fragment data-fragment-index="1"}
+![](images/tom_affect.jpg){.fragment data-fragment-index="2"}
+:::
+
+::::
+
+::: {.citation-footer}
+[@hookerBrainNetworksAnalyzing2003; @redcayUsingSecondpersonNeuroscience2019; @klein2009; @shepherdFollowingGazeGazefollowing2010]
+:::
+
+# Trait inferences from faces and bodies
+
+## Trait inferences from faces 
+
+Can we infer personality traits from faces?
+
+::: {.img-v-large}
+![](images/trait_faces.jpg)
+:::
+
+::: {.citation-footer}
+[@penton-voak2006; @todorovSocialAttributionsFaces2015; @todorov2025]
+:::
+
+## Caution
+
+<br>
+
+- 'A kernal of truth'
+
+- Self-fulfilling prophecies
+
+- Consensus despite a lack of accuracy
+
+
+::: {.citation-footer}
+[@todorovSocialAttributionsFaces2015; @todorov2025]
+:::
+
+## Trait inferences from bodies
+
+:::: {.columns}
+
+::: {.column width="20%" .img-large}
+![](images/greven_body_types.png)
+:::
+
+::: {.column width="80%" .img-full}
+<br>
+![](images/greven_body_ratings.png)
+:::
+
+::::
+::: {.citation-footer}
+[@greven2019]
+:::
+
+## Trait inferences from bodies: fMRI
+
+<br>
+
+:::: {.columns}
+
+::: {.column width="50%" .img-large}
+![](images/greven_exp1.png)
+:::
+
+::: {.column width="50%" .fragment .img-large}
+![](images/greven_exp2.png)
+:::
+
+::::
+
+::: {.citation-footer}
+[@greven2019]
+:::
+
+## Trait inferences from bodies: fMRI
+
+:::: {.columns}
+
+::: {.column width="60%" .img-full}
+![](images/greven_results.png)
+:::
+
+::: {.column width="40%" .incremental .text-smaller}
+- Muscular > Slim engaged body-selective brain areas
+- Heavy > Slim engaged the theory-of-mind network
+- Only when an explicit judgment was required (Exp. 2 and not Exp. 1)
+:::
+
+::::
+
+::: {.citation-footer}
+[@greven2019]
+:::
 
 # Take a break #
 
@@ -90,8 +334,11 @@ knitr::opts_chunk$set(echo = FALSE)
 
 - break into small groups (~ 5 per group)
 - discuss aspects of the lecture 
-- discuss aspects of the journal article:
-<link here>{target='_blank'}
+- discuss aspects of the this article:
+<https://medium.com/@blaisea/physiognomys-new-clothes-f2d4b59fdd6a>{target='_blank'}
+- For more details, see also:
+- @todorovSocialAttributionsFaces2015
+- Chapter 5 from @ward2022d
 
 
 ## References
