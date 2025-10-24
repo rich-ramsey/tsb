@@ -251,6 +251,16 @@ mark {
   z-index: 10;
   text-align: left;   /* Explicitly set text alignment */
 }
+.image-footer {
+  position: absolute;
+  bottom: 25px;
+  left: 20px;         /* Changed from 'right' to 'left' */
+  font-size: 0.6em;
+  color: #FFFFFF;
+  opacity: 0.8;
+  z-index: 10;
+  text-align: left;   /* Explicitly set text alignment */
+}
 
 /* Add a hover effect to make it more visible when needed */
 .citation-footer:hover {
