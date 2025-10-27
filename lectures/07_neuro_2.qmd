@@ -21,6 +21,10 @@ person perception, joint attention, trait inferences
 
 <https://medium.com/@blaisea/physiognomys-new-clothes-f2d4b59fdd6a>{target="_blank"}
 
+## Journal article
+
+[Todorov et al., 2015](https://doi.org/10.1146/annurev-psych-113011-143831)
+
 ## Book chapter
 
 **Reading faces and bodies:** Ward (2022, Chapter 5)

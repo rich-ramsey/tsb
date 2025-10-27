@@ -973,6 +973,18 @@
     ]
   },
   {
+    "objectID": "lectures/07_neuro_2.html#journal-article",
+    "href": "lectures/07_neuro_2.html#journal-article",
+    "title": "Reading faces and bodies",
+    "section": "Journal article",
+    "text": "Journal article\nTodorov et al., 2015",
+    "crumbs": [
+      "Lectures",
+      "<b>Lectures</b>",
+      "Reading faces and bodies"
+    ]
+  },
+  {
     "objectID": "lectures/07_neuro_2.html#book-chapter",
     "href": "lectures/07_neuro_2.html#book-chapter",
     "title": "Reading faces and bodies",
@@ -1139,90 +1151,6 @@
       "<b>Lectures</b>",
       "Introduction"
     ]
-  },
-  {
-    "objectID": "assignments/reflective_writing/reflective_feedback.html",
-    "href": "assignments/reflective_writing/reflective_feedback.html",
-    "title": "reflective_feedback",
-    "section": "",
-    "text": "Clear and reasonable arguments.\nAre you aware of any large scale empirical efforts to reproduce work in Physics? I have never looked into this, so I am curious if you know of anything."
-  },
-  {
-    "objectID": "assignments/reflective_writing/reflective_feedback.html#adrien-moens",
-    "href": "assignments/reflective_writing/reflective_feedback.html#adrien-moens",
-    "title": "reflective_feedback",
-    "section": "",
-    "text": "Clear and reasonable arguments.\nAre you aware of any large scale empirical efforts to reproduce work in Physics? I have never looked into this, so I am curious if you know of anything."
-  },
-  {
-    "objectID": "assignments/reflective_writing/reflective_feedback.html#angela-ng",
-    "href": "assignments/reflective_writing/reflective_feedback.html#angela-ng",
-    "title": "reflective_feedback",
-    "section": "Angela Ng",
-    "text": "Angela Ng\n\nClear and reasonable arguments.\nIf music therapy research is so hard to do and lacks appropriate funding, should researchers use other approaches? I guess I’m wondering what the best-case scenario would be for music therapy as an intervention tool? Does the field need a very wealthy donor to fund comprehensive research that can then provide a foundational piece of evidence?"
-  },
-  {
-    "objectID": "assignments/reflective_writing/reflective_feedback.html#david-crevillen-hernandez",
-    "href": "assignments/reflective_writing/reflective_feedback.html#david-crevillen-hernandez",
-    "title": "reflective_feedback",
-    "section": "David Crevillen Hernandez",
-    "text": "David Crevillen Hernandez\n\nA very interesting idea is put forward about internal review within universities.\nI like the idea and I have some follow-up comments and questions. My first thought is that your proposal sounds a lot like what the peer-review and editorial process should cover. Now, in reality, peer-review is not perfect and editors are busy doing other stuff. But the idea that the governance and quality control process could be a professional entity sounds like a good idea.\nMaybe one downside would be an overly rigid system or too much top-down control over scientists from a central overlord. I’m thinking that not very piece of science needs to be 10 years in the making. I really like the idea that every pre-print could have a university approved cover sheet that formally assesses the type of work contained, such as a tick sheet that formally documents what type of research is being presented. e.g., exploratory vs confirmatory, basic vs applied, as well as the usual open science pre-reg stuff. And finally, an overall independent and professional assessment of the type of work rather than the quality/impact etc.\nThis is really cool. We should talk some more about it."
-  },
-  {
-    "objectID": "assignments/reflective_writing/reflective_feedback.html#ekaterina-maksyagina",
-    "href": "assignments/reflective_writing/reflective_feedback.html#ekaterina-maksyagina",
-    "title": "reflective_feedback",
-    "section": "Ekaterina Maksyagina",
-    "text": "Ekaterina Maksyagina\n\nI enjoyed reading your very personal view on issues surrounding credibility in science.\nI also agree that scientific material should be produced in a more regulated manner with more professional standards of production. Sadly, however, I am not very confident that this will happen anytime soon though…"
-  },
-  {
-    "objectID": "assignments/reflective_writing/reflective_feedback.html#elisa-andenmatten",
-    "href": "assignments/reflective_writing/reflective_feedback.html#elisa-andenmatten",
-    "title": "reflective_feedback",
-    "section": "Elisa Andenmatten",
-    "text": "Elisa Andenmatten\n\nI liked the comparison that you made to issues in engineering and computer science.\nI’m curious, are you aware of any large scale replication attempts in those fields? That might be worth looking at to see if there are any empirical estimates of differences between fields of research."
-  },
-  {
-    "objectID": "assignments/reflective_writing/reflective_feedback.html#emma-costan",
-    "href": "assignments/reflective_writing/reflective_feedback.html#emma-costan",
-    "title": "reflective_feedback",
-    "section": "Emma Costan",
-    "text": "Emma Costan\n\nIn terms of content, you make some interesting points in the context of biology more generally.\nIn terms of writing style, I would try use paragraphs more effectively. Maybe try to work on ~150 words per paragraph and link them together to create more flow between the points that you make."
-  },
-  {
-    "objectID": "assignments/reflective_writing/reflective_feedback.html#jennifer-rahnenfuhrer",
-    "href": "assignments/reflective_writing/reflective_feedback.html#jennifer-rahnenfuhrer",
-    "title": "reflective_feedback",
-    "section": "Jennifer Rahnenfuhrer",
-    "text": "Jennifer Rahnenfuhrer\n\nYou make some very sensible suggestions regarding the possible ways to move forward.\nI would double-check your understanding of how you interpret p values. For instance, in the first paragraph, the use of “not true” needs looking into."
-  },
-  {
-    "objectID": "assignments/reflective_writing/reflective_feedback.html#lara-sorrentino",
-    "href": "assignments/reflective_writing/reflective_feedback.html#lara-sorrentino",
-    "title": "reflective_feedback",
-    "section": "Lara Sorrentino",
-    "text": "Lara Sorrentino\n\nYou make some interesting points and cover a broad range of disciplines, which I appreciated.\nI especially enjoyed reading about your first-hand experience performing research in Biochemistry.\nAre you are of any direct comparisons between different disciplines in terms of reproducibility?\nAnd what did you mean by this statement: “Experiments often don’t need to yield a desired outcome repeatedly to be publishable.”? It is a little unclear as it is currently written."
-  },
-  {
-    "objectID": "assignments/reflective_writing/reflective_feedback.html#lotta-hepp",
-    "href": "assignments/reflective_writing/reflective_feedback.html#lotta-hepp",
-    "title": "reflective_feedback",
-    "section": "Lotta Hepp",
-    "text": "Lotta Hepp\n\nI appreciate the view that you provided from machine learning and from your background in engineering.\nYou close on the idea that we could develop methods and systems to prevent or reduce these issues? What might they look like? What did you have in mind? And how would they operate across such broad fields of research? I’m curious."
-  },
-  {
-    "objectID": "assignments/reflective_writing/reflective_feedback.html#rodrigo-calixto",
-    "href": "assignments/reflective_writing/reflective_feedback.html#rodrigo-calixto",
-    "title": "reflective_feedback",
-    "section": "Rodrigo Calixto",
-    "text": "Rodrigo Calixto\n\nI really enjoyed reading the comparisons that you made to pure maths and to computational sciences more generally.\nAnd given how important simulations are for a variety of research fields, it was also striking that such large deviations can occur in those fields also, dependent on start points.\nI’m curious, are there are general solutions that apply to all of these rather diverse research fields that you think should be pursued?"
-  },
-  {
-    "objectID": "assignments/reflective_writing/reflective_feedback.html#serafina-lossner",
-    "href": "assignments/reflective_writing/reflective_feedback.html#serafina-lossner",
-    "title": "reflective_feedback",
-    "section": "Serafina Lossner",
-    "text": "Serafina Lossner\n\nI enjoyed reading your reflections and I especially like the range of disciplines that you covered and the common themes that appear to emerge across those rather diverse disciplines.\nDo you have any thoughts on how broader uptake might be encouraged for the proposed solutions that you suggest? That is, what might lead to broader uptake?"
   },
   {
     "objectID": "index.html",
