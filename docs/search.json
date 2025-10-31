@@ -2280,14 +2280,14 @@
     "href": "lectures/slides/week8/08_neuro_3_slides.html#discussion-material",
     "title": "Lecture 8 - Social Neuroscience: Understanding others",
     "section": "Discussion material",
-    "text": "Discussion material\n\n\nbreak into small groups (~ 5 per group)\ndiscuss aspects of the lecture\ndiscuss aspects of the journal article: {target=’_blank’}"
+    "text": "Discussion material\n\n\nbreak into small groups (~ 5 per group)\ndiscuss aspects of the lecture\ndiscuss aspects of the journal article: https://www.sciencedirect.com/science/article/pii/S1364661314002502?via%3Dihub"
   },
   {
     "objectID": "lectures/slides/week8/08_neuro_3_slides.html#references",
     "href": "lectures/slides/week8/08_neuro_3_slides.html#references",
     "title": "Lecture 8 - Social Neuroscience: Understanding others",
     "section": "References",
-    "text": "References"
+    "text": "References\n\n\nAdolphs, R. (2009). The Social Brain: Neural Basis of Social Knowledge. Annual Review of Psychology, 60(1), 693–716. https://doi.org/10.1146/annurev.psych.60.110707.163514\n\n\nde Lange, F. P., Spronk, M., Willems, R. M., Toni, I., & Bekkering, H. (2008). Complementary Systems for Understanding Action Intentions. 18(6), 454–457. http://linkinghub.elsevier.com/retrieve/pii/S0960982208002443\n\n\ndi Pellegrino, G., Fadiga, L., Fogassi, L., Gallese, V., & Rizzolatti, G. (1992). Understanding motor events: A neurophysiological study. Exp Brain Res, 91(1), 176–180. http://www.ncbi.nlm.nih.gov/htbin-post/Entrez/query?db=m&form=6&dopt=r&uid=1301372\n\n\nFogassi, L., Ferrari, P. F., Gesierich, B., Rozzi, S., Chersi, F., & Rizzolatti, G. (2005). Parietal lobe: From action organization to intention understanding. Science, 308(5722), 662–667. http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=15860620\n\n\nFrischen, A., Bayliss, A. P., & Tipper, S. P. (2007). Gaze cueing of attention: Visual attention, social cognition, and individual differences. Psychological Bulletin, 133(4), 694–724. https://doi.org/10.1037/0033-2909.133.4.694\n\n\nGallese, V., Fadiga, L., Fogassi, L., & Rizzolatti, G. (1996). Action recognition in the premotor cortex. Brain, 119, 593–609. http://www.ncbi.nlm.nih.gov/htbin-post/Entrez/query?db=m&form=6&dopt=r&uid=8800951\n\n\nGazzola, V., & Keysers, C. (2009). The Observation and Execution of Actions Share Motor and Somatosensory Voxels in all Tested Subjects: Single-Subject Analyses of Unsmoothed fMRI Data. Cereb. Cortex, 19(6), 1239–1255. https://doi.org/10.1093/cercor/bhn181\n\n\nKeysers, C., & Gazzola, V. (2007). Integrating simulation and theory of mind: From self to social cognition. Trends in Cognitive Sciences, 11(5), 194–196. http://www.sciencedirect.com/science/article/B6VH9-4N6FP38-1/2/c0d4d005fb34fcc551931b6a48cacc6a\n\n\nRizzolatti, G., Fogassi, L., & Gallese, V. (2001). Neurophysiological mechanisms underlying the understanding and imitation of action. Nat Rev Neurosci, 2(9), 661–70. http://www.ncbi.nlm.nih.gov/htbin-post/Entrez/query?db=m&form=6&dopt=r&uid=11533734\n\n\nSchaafsma, S. M., Pfaff, D. W., Spunt, R. P., & Adolphs, R. (2015). Deconstructing and reconstructing theory of mind. Trends in Cognitive Sciences, 19(2), 65–72. https://doi.org/10.1016/j.tics.2014.11.007\n\n\nSchurz, M., Radua, J., Aichhorn, M., Richlan, F., & Perner, J. (2014). Fractionating theory of mind: A meta-analysis of functional brain imaging studies. Neuroscience & Biobehavioral Reviews, 42(0), 9–34. https://doi.org/10.1016/j.neubiorev.2014.01.009\n\n\nStanley, D. A., & Adolphs, R. (2013). Toward a Neural Basis for Social Behavior. Neuron, 80(3), 816–826. http://linkinghub.elsevier.com/retrieve/pii/S0896627313009902\n\n\nVan Overwalle, F. (2009). Social cognition and the brain: A meta-analysis. Hum. Brain Mapp., 30, 829.\n\n\nWard, J. (2022). The Student’s Guide to Social Neuroscience (3rd ed.). Psychology Press. https://doi.org/10.4324/9781003057697\n\n\nWimmer, H., & Perner, J. (1983). Beliefs about beliefs: Representation and constraining function of wrong beliefs in young children’s understanding of deception. Cognition, 13(1), 103–128. http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=6681741"
   },
   {
     "objectID": "lectures/slides/week8/08_neuro_3_slides.html#acknowledgements",
@@ -2302,5 +2302,152 @@
     "title": "Resources",
     "section": "",
     "text": "A bunch of supporting material can be found on this page."
+  },
+  {
+    "objectID": "lectures/slides/week8/08_neuro_3_slides.html#overview",
+    "href": "lectures/slides/week8/08_neuro_3_slides.html#overview",
+    "title": "Lecture 8 - Social Neuroscience: Understanding others",
+    "section": "Overview",
+    "text": "Overview\n\n\nRecap “Social Brain” circuits\nBackground\nCognitive and brain systems\n\nMirror neuron system\nTheory of mind network"
+  },
+  {
+    "objectID": "lectures/slides/week8/08_neuro_3_slides.html#social-brain-circuits",
+    "href": "lectures/slides/week8/08_neuro_3_slides.html#social-brain-circuits",
+    "title": "Lecture 8 - Social Neuroscience: Understanding others",
+    "section": "Social brain circuits",
+    "text": "Social brain circuits\n\n\n\n(Adolphs, 2009; Stanley & Adolphs, 2013)"
+  },
+  {
+    "objectID": "lectures/slides/week8/08_neuro_3_slides.html#mindreading",
+    "href": "lectures/slides/week8/08_neuro_3_slides.html#mindreading",
+    "title": "Lecture 8 - Social Neuroscience: Understanding others",
+    "section": "Mindreading?",
+    "text": "Mindreading?"
+  },
+  {
+    "objectID": "lectures/slides/week8/08_neuro_3_slides.html#beliefs-about-beliefs",
+    "href": "lectures/slides/week8/08_neuro_3_slides.html#beliefs-about-beliefs",
+    "title": "Lecture 8 - Social Neuroscience: Understanding others",
+    "section": "Beliefs about beliefs",
+    "text": "Beliefs about beliefs"
+  },
+  {
+    "objectID": "lectures/slides/week8/08_neuro_3_slides.html#spontaneous",
+    "href": "lectures/slides/week8/08_neuro_3_slides.html#spontaneous",
+    "title": "Lecture 8 - Social Neuroscience: Understanding others",
+    "section": "Spontaneous",
+    "text": "Spontaneous\n\n\n   \n\n   \n\n   \n\n   \n\n\n(Frischen et al., 2007)"
+  },
+  {
+    "objectID": "lectures/slides/week8/08_neuro_3_slides.html#why-is-it-important",
+    "href": "lectures/slides/week8/08_neuro_3_slides.html#why-is-it-important",
+    "title": "Lecture 8 - Social Neuroscience: Understanding others",
+    "section": "Why is it important?",
+    "text": "Why is it important?\n\n\n\n\nprediction"
+  },
+  {
+    "objectID": "lectures/slides/week8/08_neuro_3_slides.html#mirror-neurons",
+    "href": "lectures/slides/week8/08_neuro_3_slides.html#mirror-neurons",
+    "title": "Lecture 8 - Social Neuroscience: Understanding others",
+    "section": "Mirror neurons",
+    "text": "Mirror neurons"
+  },
+  {
+    "objectID": "lectures/slides/week8/08_neuro_3_slides.html#mirror-neurons-in-macaques",
+    "href": "lectures/slides/week8/08_neuro_3_slides.html#mirror-neurons-in-macaques",
+    "title": "Lecture 8 - Social Neuroscience: Understanding others",
+    "section": "Mirror neurons in macaques",
+    "text": "Mirror neurons in macaques\n\n\n\n\n\n\nF5 and PF\n\n\n\n\n\n\n(di Pellegrino et al., 1992; Fogassi et al., 2005; Gallese et al., 1996)"
+  },
+  {
+    "objectID": "lectures/slides/week8/08_neuro_3_slides.html#mirror-neuron-system-in-humans",
+    "href": "lectures/slides/week8/08_neuro_3_slides.html#mirror-neuron-system-in-humans",
+    "title": "Lecture 8 - Social Neuroscience: Understanding others",
+    "section": "Mirror neuron system in humans",
+    "text": "Mirror neuron system in humans\n\n\n\n\n\n\n\n\nThe direct matching hypothesis\n\n\n\n\n(Gazzola & Keysers, 2009; Rizzolatti et al., 2001)"
+  },
+  {
+    "objectID": "lectures/slides/week8/08_neuro_3_slides.html#the-direct-matching-hypothesis",
+    "href": "lectures/slides/week8/08_neuro_3_slides.html#the-direct-matching-hypothesis",
+    "title": "Lecture 8 - Social Neuroscience: Understanding others",
+    "section": "The direct matching hypothesis",
+    "text": "The direct matching hypothesis\n\n\n\n\n\n\n\n\n\n(Rizzolatti et al., 2001)"
+  },
+  {
+    "objectID": "lectures/slides/week8/08_neuro_3_slides.html#why-is-it-important-1",
+    "href": "lectures/slides/week8/08_neuro_3_slides.html#why-is-it-important-1",
+    "title": "Lecture 8 - Social Neuroscience: Understanding others",
+    "section": "Why is it important?",
+    "text": "Why is it important?\n\n\n\n\nmanipulation"
+  },
+  {
+    "objectID": "lectures/slides/week8/08_neuro_3_slides.html#why-is-it-important-2",
+    "href": "lectures/slides/week8/08_neuro_3_slides.html#why-is-it-important-2",
+    "title": "Lecture 8 - Social Neuroscience: Understanding others",
+    "section": "Why is it important?",
+    "text": "Why is it important?\n\n\n\n\njoint action"
+  },
+  {
+    "objectID": "lectures/slides/week8/08_neuro_3_slides.html#theory-of-mind",
+    "href": "lectures/slides/week8/08_neuro_3_slides.html#theory-of-mind",
+    "title": "Lecture 8 - Social Neuroscience: Understanding others",
+    "section": "Theory of mind",
+    "text": "Theory of mind\nToM = reasoning about mental states\n\n\n\n\nLe Tricheur à l’as de carreau by Georges de la Tour (c. 1635)"
+  },
+  {
+    "objectID": "lectures/slides/week8/08_neuro_3_slides.html#theory-of-mind-development",
+    "href": "lectures/slides/week8/08_neuro_3_slides.html#theory-of-mind-development",
+    "title": "Lecture 8 - Social Neuroscience: Understanding others",
+    "section": "Theory of mind development",
+    "text": "Theory of mind development"
+  },
+  {
+    "objectID": "lectures/slides/week8/08_neuro_3_slides.html#the-false-belief-task",
+    "href": "lectures/slides/week8/08_neuro_3_slides.html#the-false-belief-task",
+    "title": "Lecture 8 - Social Neuroscience: Understanding others",
+    "section": "The false belief task",
+    "text": "The false belief task\n\n\n\n\n\n\n\n(Wimmer & Perner, 1983)"
+  },
+  {
+    "objectID": "lectures/slides/week8/08_neuro_3_slides.html#brain-circuits",
+    "href": "lectures/slides/week8/08_neuro_3_slides.html#brain-circuits",
+    "title": "Lecture 8 - Social Neuroscience: Understanding others",
+    "section": "Brain circuits",
+    "text": "Brain circuits\n\n\n\n\n\n\nmPFC: person knowledge\nTPJ: false belief, perspective taking\nTP: social scripts, emotion, convergence ?\n\n\n\n(Schurz et al., 2014; Van Overwalle, 2009)"
+  },
+  {
+    "objectID": "lectures/slides/week8/08_neuro_3_slides.html#mirroring-and-theory-of-mind",
+    "href": "lectures/slides/week8/08_neuro_3_slides.html#mirroring-and-theory-of-mind",
+    "title": "Lecture 8 - Social Neuroscience: Understanding others",
+    "section": "Mirroring and theory of mind",
+    "text": "Mirroring and theory of mind\n\n\n\n\n\n\n\n(de Lange et al., 2008)"
+  },
+  {
+    "objectID": "lectures/slides/week8/08_neuro_3_slides.html#section",
+    "href": "lectures/slides/week8/08_neuro_3_slides.html#section",
+    "title": "Lecture 8 - Social Neuroscience: Understanding others",
+    "section": "",
+    "text": "Although this is probably true to some extent, it remains quite vague.\nWe do not know how these systems interact (i.e., how do they influence each other?).\nTherefore, there are lots of open and unanswered questions that could be used as the basis for your essays.\n\n\n(de Lange et al., 2008; Keysers & Gazzola, 2007)"
+  },
+  {
+    "objectID": "lectures/slides/week8/08_neuro_3_slides.html#mirroring-and-theory-of-mind-1",
+    "href": "lectures/slides/week8/08_neuro_3_slides.html#mirroring-and-theory-of-mind-1",
+    "title": "Lecture 8 - Social Neuroscience: Understanding others",
+    "section": "Mirroring and theory of mind",
+    "text": "Mirroring and theory of mind\n\n\nComplementary roles in social cognition.\nHow do they influence each other?\nLots of open and unanswered questions.\nEssay questions?\n\n\n(Keysers & Gazzola, 2007)"
+  },
+  {
+    "objectID": "lectures/slides/week8/08_neuro_3_slides.html#interpretation",
+    "href": "lectures/slides/week8/08_neuro_3_slides.html#interpretation",
+    "title": "Lecture 8 - Social Neuroscience: Understanding others",
+    "section": "Interpretation?",
+    "text": "Interpretation?"
+  },
+  {
+    "objectID": "lectures/slides/week8/08_neuro_3_slides.html#caution",
+    "href": "lectures/slides/week8/08_neuro_3_slides.html#caution",
+    "title": "Lecture 8 - Social Neuroscience: Understanding others",
+    "section": "Caution",
+    "text": "Caution\n\n\n\n\n(Schaafsma et al., 2015)"
   }
 ]

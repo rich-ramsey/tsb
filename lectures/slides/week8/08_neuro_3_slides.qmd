@@ -54,31 +54,256 @@ knitr::opts_chunk$set(echo = FALSE)
 :::
 ::::
 
+# Understanding others {.smaller}
 
+For an overview, See Chapter 6 from @ward2022d
 
+## Overview
 
-## Today ##
+<br>
+
+- Recap "Social Brain" circuits
+
+- Background
+
+- Cognitive and brain systems
+  - Mirror neuron system
+  - Theory of mind network
+  
+
+# Recap social brain circuits
+
+## Social brain circuits
+
+<br>
+
+![](images/social_brain_circuits.jpg)
+
+::: {.citation-footer}
+[@adolphsSocialBrainNeural2009; @stanleyNeuralBasisSocial2013]
+:::
+
+# Background
+
+## Mindreading?
 
 <br>
 
 :::: {.columns}
-::: {.column width="50%"}
-[Part 1]{.green-text}
-
-- Social Neuroscience: Understanding others
-
-<br>
-
-[Part 2]{.green-text}
-
-- Read articles and discuss
+::: {.column width="50%" .img-v-large}
+![](images/fortune_teller.jpeg)
 :::
-::: {.column width="50%"}
-![](../icons/lecture.png){width=150px}\
-<br>
-![](../icons/reading.png){width=150px} ![](../icons/discussion.png){width=150px}
+
+::: {.column width="50%" .fragment}
+![](images/wave.jpeg)
 :::
 ::::
+
+## Beliefs about beliefs
+
+<br>
+
+::: {.img-large .img-center}
+![](images/beliefs.png)
+:::
+
+## Spontaneous
+
+:::: {.columns}
+::: {.column width="40%" .img-v-large}
+<br>
+<br>
+<br>
+![](images/eye_gaze_cues.png)
+:::
+
+::: {.column width="20%" .img-small .fragment}
+<br>
+<br>
+<br>
+![](images/drink.png)
+:::
+::: {.column width="20%" .img-small .fragment}
+<br>
+<br>
+<br>
+![](images/knife.png)
+:::
+::: {.column width="20%" .img-small .fragment}
+<br>
+<br>
+<br>
+![](images/clock.png)
+:::
+::::
+
+::: {.citation-footer}
+[@frischen2007]
+:::
+
+## Why is it important?
+
+::: {.img-v-large}
+![prediction](images/gaze_food.jpeg)
+:::
+
+## Why is it important?
+
+::: {.img-v-large}
+![manipulation](images/football.jpeg)
+:::
+
+## Why is it important?
+
+::: {.img-v-large}
+![joint action](images/workout.jpeg)
+:::
+
+# Cognitive and brain systems
+
+- Mirror neuron system
+- Theory of mind network
+
+## Mirror neurons
+
+{{< video http://www.youtube.com/watch?v=Xmx1qPyo8Ks
+  width="90%" 
+  height="90%"
+>}}
+
+## Mirror neurons in macaques
+
+<br>
+
+:::: {.columns}
+::: {.column width="50%" .img-large}
+![F5 and PF](images/macaque_brain_f5_pf.png)
+:::
+
+::: {.column width="50%" .img-large}
+![](images/mirror_neuron_recordings.png)
+:::
+::::
+
+::: {.citation-footer}
+[@dipellegrinoUnderstandingMotorEvents1992; @galleseActionRecognitionPremotor1996; @fogassiParietalLobeAction2005]
+:::
+
+## Mirror neuron system in humans
+
+<br>
+
+:::: {.columns}
+::: {.column width="50%" .img-large}
+![](images/mns_humans.png)
+:::
+
+::: {.column width="50%" .img-large .fragment}
+![The direct matching hypothesis](images/direct_matching.png)
+:::
+::::
+
+::: {.citation-footer}
+[@gazzolaObservationExecutionActions2009; @rizzolattiNeurophysiologicalMechanismsUnderlying2001]
+:::
+
+## Theory of mind
+
+ToM = reasoning about mental states
+
+::: {.img-v-large}
+![Le Tricheur à l’as de carreau by Georges de la Tour (c. 1635)](images/cards.jpg)
+:::
+
+## Theory of mind development
+
+{{< video https://www.youtube.com/watch?v=GOCUH7TxHRI
+  start=209
+  width="90%" 
+  height="90%"
+>}}
+
+## The false belief task
+
+:::: {.columns}
+::: {.column width="50%" .img-large}
+![](images/false_belief_results.png)
+:::
+
+::: {.column width="50%" .img-large}
+![](images/sally_anne.png)
+:::
+::::
+
+::: {.citation-footer}
+[@wimmerBeliefsBeliefsRepresentation1983]
+:::
+
+## Brain circuits
+
+<br>
+
+:::: {.columns}
+::: {.column width="50%" .img-large}
+![](images/tom_brain_network.png)
+:::
+
+::: {.column width="50%"}
+- mPFC: person knowledge
+
+- TPJ: false belief, perspective taking
+
+- TP: social scripts, emotion, convergence ?
+
+:::
+::::
+
+::: {.citation-footer}
+[@schurzFractionatingTheoryMind2014; @vanoverwalleSocialCognitionBrain2009]
+:::
+
+## Caution
+
+::: {.img-v-large}
+![](images/schaafsma_15.png)
+:::
+
+::: {.citation-footer}
+[@schaafsmaDeconstructingReconstructingTheory2015]
+:::
+
+## Mirroring and theory of mind
+
+:::: {.columns}
+::: {.column width="50%" .img-large}
+![](images/deLange_08.png)
+:::
+
+::: {.column width="50%".img-large .fragment}
+![](images/deLange_08_results.png)
+:::
+::::
+
+::: {.citation-footer}
+[@delangeComplementarySystemsUnderstanding2008]
+:::
+
+## Mirroring and theory of mind 
+
+<br>
+
+- Complementary roles in social cognition.
+
+- How do they influence each other?
+
+- Lots of open and unanswered questions.
+
+- Essay questions?
+
+::: {.citation-footer}
+[@keysersIntegratingSimulationTheory2007]
+:::
+
 
 # Take a break #
 
@@ -91,7 +316,7 @@ knitr::opts_chunk$set(echo = FALSE)
 - break into small groups (~ 5 per group)
 - discuss aspects of the lecture 
 - discuss aspects of the journal article:
-<link here>{target='_blank'}
+<https://www.sciencedirect.com/science/article/pii/S1364661314002502?via%3Dihub>{target='_blank'}
 
 
 ## References

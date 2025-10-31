@@ -8,7 +8,7 @@ This week, I review evidence from social neuroscience on understanding others an
 
 ::: {.callout-note icon="false"}
 ## Key concepts
-theory of mind, mental state inference, empathy
+mental state inference, theory of mind, mirror neuron system
 
 :::
 
@@ -19,8 +19,8 @@ theory of mind, mental state inference, empathy
 
 ## Discussion paper
 
-[link here]
+[Schaafsma et al., 2015](https://www.sciencedirect.com/science/article/pii/S1364661314002502?via%3Dihub)
 
 ## Book chapter
 
-**Understanding others:** Ward (2023, Chapter 6)
+**Understanding others:** Ward (2022, Chapter 6)
