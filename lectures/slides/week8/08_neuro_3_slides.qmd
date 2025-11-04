@@ -166,10 +166,11 @@ For an overview, See Chapter 6 from @ward2022d
 
 ## Mirror neurons
 
-{{< video http://www.youtube.com/watch?v=Xmx1qPyo8Ks
-  width="90%" 
-  height="90%"
->}}
+<!-- {{< video videos/mirror_neurons.mp4 >}} -->
+
+<video width="100%" controls>
+  <source src="videos/mirror_neurons.mp4" type="video/mp4">
+</video>
 
 ## Mirror neurons in macaques
 
@@ -217,11 +218,11 @@ ToM = reasoning about mental states
 
 ## Theory of mind development
 
-{{< video https://www.youtube.com/watch?v=GOCUH7TxHRI
-  start=209
-  width="90%" 
-  height="90%"
->}}
+<!-- {{< video videos/theory_of_mind_web.mp4 >}} -->
+
+<video width="100%" controls>
+  <source src="videos/theory_of_mind_web.mp4" type="video/mp4">
+</video>
 
 ## The false belief task
 
