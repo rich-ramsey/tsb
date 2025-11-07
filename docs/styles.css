@@ -240,6 +240,11 @@ mark {
   border-radius: 5px;
 }
 
+/* Hide just the title, not the content */
+.no-title > h2 {
+  display: none !important;
+}
+
 /* Citation footer */
 .citation-footer {
   position: absolute;

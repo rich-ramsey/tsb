@@ -54,32 +54,344 @@ knitr::opts_chunk$set(echo = FALSE)
 :::
 ::::
 
+## Overview
 
+- Systems (not syndromes)
+- Complex systems
+- Dimensional framewroks
+  - HiTOP
+  - RDoC
+  
+# Systems (not syndromes)
 
+## Nosology
 
-## Today ##
+- The branch of medical science dealing with the classification of diseases.
+
+:::: {.columns}
+::: {.column width="60%" .img-medium}
+![](images/dsm-5.png)
+:::
+
+::: {.column width="40%" .img-large}
+![](images/icd-11.png)
+:::
+::::
+
+## Systems (not syndromes)
+
+<br>
+
+![](images/fried-22.png)
+
+::: {.citation-footer}
+[@fried2022]
+:::
+
+## Natural kinds
+
+<br>
+
+::: {.img-large .img-center}
+![](images/chemical-drawers.png)
+:::
+
+::: {.citation-footer}
+[@fried2022]
+:::
+
+## Natural kinds of disease unit?
+
+<br>
+
+::: {.img-large .img-center}
+![](images/psych-drawers.png)
+:::
+
+::: {.citation-footer}
+[@fried2022]
+:::
+
+## Historical forces, not empirical evidence
+
+- E.g., depression
+DSM-5 criteria:
+
+- 1 of the first 2 symptoms
+- at least 5/9 symptoms
+- for at least 14 days
+
+How were these thresholds determined?
+
+::: {.citation-footer}
+[@fried2022]
+:::
+
+## Diagnostic literalism
+
+- We take diagnostic categories for more than they are, which impedes
+progress.
+
+e.g., case-control studies for depression, for example, assume that depression is a neat category. Two groups: depressed vs. otherwise healthy (or at least, not depressed).
+
+- “what are genes for depression?”
+
+- “what are the risk factors for depression?”
+
+::: {.citation-footer}
+[@fried2022]
+:::
+
+## Evidence does not support neat categories
+
+:::: {.columns}
+::: {.column width="50%" .text-smaller}
+- Inter-rater reliability
+- Disagreement about construct definitons
+- Heterogeneity
+- Comorbidity of diagnostic categories
+- Transdiagnostic risk factors
+- Dimensions, not catgeories
+:::
+
+::: {.column width="50%"}
+![](images/psych-drawers.png)
+:::
+::::
+
+::: {.citation-footer}
+[@fried2022]
+:::
+
+## Why have categories at all?
 
 <br>
 
 :::: {.columns}
 ::: {.column width="50%"}
-[Part 1]{.green-text}
+- They can be of clinical use
 
-- Re-thinking neurodiversity
+- Semantic efficiency 
 
-<br>
+- Public health and organisation of treatment…
 
-[Part 2]{.green-text}
-
-- Read articles and discuss
 :::
+
 ::: {.column width="50%"}
-![](../icons/lecture.png){width=150px}\
-<br>
-![](../icons/reading.png){width=150px} ![](../icons/discussion.png){width=150px}
+![](images/medical-team.jpeg)
 :::
 ::::
 
+::: {.citation-footer}
+[@fried2022]
+:::
+
+## Reductionism
+
+<br>
+
+:::: {.columns}
+::: {.column width="50%" .text-smaller}
+- Reduce things into their parts to understand the whole
+
+- This is very useful and helpful in many different settings e.g., a car engine. 
+
+- But for complex systems, such as the stock market or weather patterns,  reductionism doesn’t work as well. 
+:::
+
+::: {.column width="50%"}
+![](images/engine-parts.jpg)
+:::
+::::
+
+::: {.citation-footer}
+[@fried2022]
+:::
+
+## Reductionism in mental health
+
+:::: {.columns}
+::: {.column width="50%"}
+- Study depression using a DSM-5 category (which has limited validity) and only study that one category
+
+- And focus on one level of description (i.e., a biological level)
+
+- Primarily study one-to-one relations 
+:::
+
+::: {.column width="50%"}
+![](images/brains.png)
+:::
+::::
+
+::: {.citation-footer}
+[@fried2022]
+:::
+
+# Complex systems
+
+## A complex systems perspective 
+
+{{< video https://www.youtube.com/watch?v=xMdgDRRaKxo
+  width="90%" 
+  height="90%" >}}
+
+## A complex systems perspective 
+
+<br>
+
+:::: {.columns}
+::: {.column width="50%"}
+![](images/complex-factors.png)
+:::
+
+::: {.column width="50%"}
+![](images/complex-networks.png)
+:::
+::::
+
+## A complex systems perspective
+
+<br>
+
+:::: {.columns}
+::: {.column width="50%" .img-large}
+Lake conditions
+![](images/lake.jpeg)
+oxygen, sunlight, fish, pollution, etc.
+:::
+
+::: {.column width="50%" .img-full}
+Mood
+![](images/mood.png)
+personality, caffeine, sleep, email, etc.
+:::
+::::
+
+## Mental disorders as complex systems
+
+:::: {.columns}
+::: {.column width="50%"}
+![](images/mental-health.jpeg)
+:::
+
+::: {.column width="50%"}
+Interactions between:
+
+- biological, psychological, and social features…
+
+e.g., risk and protective factors, moods, thoughts, behaviours, predispositions, social environments.
+
+- One-to-many or many-to-many relations
+:::
+::::
+
+## Emergence
+
+{{< video https://www.youtube.com/watch?v=V4f_1_r80RY&t=20s
+  width="90%" 
+  height="90%" >}}
+
+# Dimensional frameworks
+
+## Existing dimensional frameworks
+
+<br>
+
+- RDoC (NIMH, USA)
+e.g., Insel et al., 2010, The American Journal of Psychiatry
+
+- HiTOP initiative (Worldwide consortium)
+e.g., Conway et al., 2019, Perspectives on Psychological Science
+
+::: {.citation-footer}
+[@insel2010; @conwayHierarchicalTaxonomyPsychopathology2019a]
+:::
+
+## HiTOP
+
+<br>
+
+![](images/hitop.png)
+
+::: {.citation-footer}
+[@conwayHierarchicalTaxonomyPsychopathology2019a]
+:::
+
+## Dimensions (not categories)
+
+::: {.text-smaller}
+- Rather than mental health categories, we have something else...
+
+>Grounded in decades of research, an alternate framework has emerged that characterizes psychopathology using empirically derived dimensions that cut across the boundaries of traditional diagnoses.
+
+- Primary focus on evidence-based dimensions 
+- Dimensions evolve over time (i.e., dimensions can change if sufficient evidence is gathered)
+:::
+
+::: {.citation-footer}
+[@conwayHierarchicalTaxonomyPsychopathology2019a]
+:::
+
+::: {.no-title}
+
+## HiTOP Figure 1 
+
+<br>
+
+::: {.img-full}
+![](images/hitop-fig1.png)
+:::
+
+::: {.citation-footer}
+[@conwayHierarchicalTaxonomyPsychopathology2019a]
+:::
+
+:::
+
+::: {.no-title}
+
+## HiTOP Figure 2 
+
+::: {.img-full}
+![](images/hitop-fig2.png)
+:::
+
+::: {.citation-footer}
+[@conwayHierarchicalTaxonomyPsychopathology2019a]
+:::
+
+:::
+
+::: {.no-title}
+
+## HiTOP Figure 3 
+
+<br>
+
+::: {.img-full}
+![](images/hitop-fig3.png)
+:::
+
+::: {.citation-footer}
+[@conwayHierarchicalTaxonomyPsychopathology2019a]
+:::
+
+:::
+
+## HiTOP summary
+
+Adopting a hierarchical and dimensional approach, makes it possible to:
+
+- Dissect brain structure and function quantitatviely and thus highlight features that ….
+	- are common to many (or all) mental disorders
+ 	- are specific to spectra or syndromes
+	- underlie key transdiagnostic symptoms
+	
+::: {.citation-footer}
+[@conwayHierarchicalTaxonomyPsychopathology2019a]
+:::
+	
 # Take a break #
 
 # Part 2 - Read and discuss #
@@ -91,7 +403,7 @@ knitr::opts_chunk$set(echo = FALSE)
 - break into small groups (~ 5 per group)
 - discuss aspects of the lecture 
 - discuss aspects of the journal article:
-<link here>{target='_blank'}
+<https://journals.sagepub.com/doi/10.1177/09637214221114089>{target='_blank'}
 
 
 ## References
