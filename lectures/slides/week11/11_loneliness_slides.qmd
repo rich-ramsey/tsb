@@ -114,6 +114,30 @@ Loneliness and social isolation are often used interchangeably, which is confusi
 [@weissLonelinessExperienceEmotional1973; @dahlberg2014]
 :::
 
+## Physical versus social pain ##
+
+:::: {.columns}
+::: {.column width="33.3%" .text-smaller}
+
+- Physical pain is an aversive signal that evolved to minimise damage to one's body.
+- Loneliness is a social pain that may serve a similar function.
+:::
+
+::: {.column width="33.3%"}
+![](images/burn.png)
+
+:::
+
+::: {.column width="33.3%"}
+![](images/lonely.png)
+:::
+
+::::
+
+::: {.citation-footer}
+[@cacioppoPerceivedSocialIsolation2009]
+:::
+
 ## Health imapct ##
 
 :::: {.columns}
