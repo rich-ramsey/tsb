@@ -1736,7 +1736,7 @@
     "href": "lectures/12_autism.html",
     "title": "Autism",
     "section": "",
-    "text": "This week, I will review evidence on the social, cognitive and brain systems that underpin autism.\n\n\n\n\n\n\nKey concepts\n\n\n\ndiagnoses, mechanisms and theories of autism",
+    "text": "This week, I will review evidence on the social, cognitive and brain systems that underpin autism.\n\n\n\n\n\n\nKey concepts\n\n\n\ndiagnosis, causes, mechanisms and theories of autism",
     "crumbs": [
       "Lectures",
       "<b>Lectures</b>",
@@ -1748,7 +1748,7 @@
     "href": "lectures/12_autism.html#objectives",
     "title": "Autism",
     "section": "",
-    "text": "This week, I will review evidence on the social, cognitive and brain systems that underpin autism.\n\n\n\n\n\n\nKey concepts\n\n\n\ndiagnoses, mechanisms and theories of autism",
+    "text": "This week, I will review evidence on the social, cognitive and brain systems that underpin autism.\n\n\n\n\n\n\nKey concepts\n\n\n\ndiagnosis, causes, mechanisms and theories of autism",
     "crumbs": [
       "Lectures",
       "<b>Lectures</b>",
@@ -1768,11 +1768,11 @@
     ]
   },
   {
-    "objectID": "lectures/12_autism.html#discussion-paper",
-    "href": "lectures/12_autism.html#discussion-paper",
+    "objectID": "lectures/12_autism.html#discussion-paper-and-articles",
+    "href": "lectures/12_autism.html#discussion-paper-and-articles",
     "title": "Autism",
-    "section": "Discussion paper",
-    "text": "Discussion paper\n[link here]",
+    "section": "Discussion paper and articles",
+    "text": "Discussion paper and articles\nHappé et al., 2006\nVaccines do not cause autism\nSo, what is going on in the United States?",
     "crumbs": [
       "Lectures",
       "<b>Lectures</b>",
@@ -2003,25 +2003,193 @@
     "text": "Today\n\n\n\nPart 1\n\nAutism\n\n\nPart 2\n\nRead articles and discuss"
   },
   {
-    "objectID": "lectures/slides/week12/12_autism_slides.html#today-1",
-    "href": "lectures/slides/week12/12_autism_slides.html#today-1",
+    "objectID": "lectures/slides/week12/12_autism_slides.html#overview",
+    "href": "lectures/slides/week12/12_autism_slides.html#overview",
     "title": "Lecture 12 - Autism",
-    "section": "Today",
-    "text": "Today\n\n\n\nPart 1\n\nAutism\n\n\nPart 2\n\nRead articles and discuss"
+    "section": "Overview",
+    "text": "Overview\n\nBackground\nWhat factors cause autism?\n\nEnvironmental\nGenetic\nCognitive\nNeurobiological\n\nMany autisms?"
+  },
+  {
+    "objectID": "lectures/slides/week12/12_autism_slides.html#what-is-autism",
+    "href": "lectures/slides/week12/12_autism_slides.html#what-is-autism",
+    "title": "Lecture 12 - Autism",
+    "section": "What is autism?",
+    "text": "What is autism?\n\nLorna Wing’s triad of impairments:\n\ndifficulties in social interaction\ndifficulties in communication\nlack of imagination / repetitive interests\n\nHeterogeneous – no two people are the same.\nThere is a spectrum of different diagnoses."
+  },
+  {
+    "objectID": "lectures/slides/week12/12_autism_slides.html#diagnosis",
+    "href": "lectures/slides/week12/12_autism_slides.html#diagnosis",
+    "title": "Lecture 12 - Autism",
+    "section": "Diagnosis",
+    "text": "Diagnosis\n\n\nDSM criteria (Diagnostic and Statistical Manual of Mental Disorders, APA)\nClinical observation\nChecklists\n\nCHAT (checklist for autism in toddlers)\nCARS (childhood autism rating scale)\nDISCO (Diagnostic Interview for Social and Communication Disorders)\n\n\nADOS (Autism Diagnostic Observation Schedule)\nADI (Autism Diagnostic Interview)\n\n\n(Hirota & King, 2023)"
+  },
+  {
+    "objectID": "lectures/slides/week12/12_autism_slides.html#how-many-children-have-autism",
+    "href": "lectures/slides/week12/12_autism_slides.html#how-many-children-have-autism",
+    "title": "Lecture 12 - Autism",
+    "section": "How many children have autism?",
+    "text": "How many children have autism?\n\n\n3–4% of children and adolescents in the US\n1% of the global population\n0.7–1.5% in Switzerland\nMale-to-female ratio of approximately 3–4:1.\n\n\n(Grosvenor et al., 2024)"
+  },
+  {
+    "objectID": "lectures/slides/week12/12_autism_slides.html#possible-factors",
+    "href": "lectures/slides/week12/12_autism_slides.html#possible-factors",
+    "title": "Lecture 12 - Autism",
+    "section": "Possible factors",
+    "text": "Possible factors\n\n\nenvironmental\n\nvaccines\nother environment?\n\ngenetic\ncognitive\nneurobiological"
+  },
+  {
+    "objectID": "lectures/slides/week12/12_autism_slides.html#vaccines",
+    "href": "lectures/slides/week12/12_autism_slides.html#vaccines",
+    "title": "Lecture 12 - Autism",
+    "section": "Vaccines",
+    "text": "Vaccines\n\n\nHELL NO!\nThere is a vast amount of high quality evidence that shows NO LINK between vaccines and autism.\nFor those who want to read more see here.\n\n\n(DeStefano & Shimabukuro, 2019; Gabis et al., 2022)"
+  },
+  {
+    "objectID": "lectures/slides/week12/12_autism_slides.html#other-environmental-factors",
+    "href": "lectures/slides/week12/12_autism_slides.html#other-environmental-factors",
+    "title": "Lecture 12 - Autism",
+    "section": "Other environmental factors",
+    "text": "Other environmental factors\n\nCan a lack of a normal social environment cause autism?\n\n“Refrigerator mother” - Bruno Bettelheim (1950’s) blamed “lack of maternal warmth” for autism in a child.\nTheory is now totally discredited.\n\n\n\n\nWhat about sensory deprivation?\n\nBlind and deaf children show autistic-like symptoms (Brown et al., 1997; Wolfe et al., 2002).\nNeither blind nor deaf show all the symptoms of autism.\n\n\n\n\n\nOr extreme social deprivation?\n\nRomanian orphanage studies (Rutter et al., 2007).\n10% had some autism symptoms at age 6, none had full symptoms, and many improved by age 12"
+  },
+  {
+    "objectID": "lectures/slides/week12/12_autism_slides.html#genetic",
+    "href": "lectures/slides/week12/12_autism_slides.html#genetic",
+    "title": "Lecture 12 - Autism",
+    "section": "Genetic",
+    "text": "Genetic\n\nBailey et al, 1995\n\n60% of MZ twin pairs were concordant for autism\nno DZ twin pairs were concordant\nshows high heritability (but not 100%)\n\nRonald et al, 2005\n\nstudied over 3000 twin pairs in TEDS\nfind social behaviour is 62-76% heritable\n\n\nMany genes have been implicated, none conclusively.\n\n(Bailey et al., 1995; Ronald et al., 2005)"
+  },
+  {
+    "objectID": "lectures/slides/week12/12_autism_slides.html#cognitive",
+    "href": "lectures/slides/week12/12_autism_slides.html#cognitive",
+    "title": "Lecture 12 - Autism",
+    "section": "Cognitive",
+    "text": "Cognitive\n \nTwo different cognitive accounts:\n\nTheory of mind\nWeak central coherence"
+  },
+  {
+    "objectID": "lectures/slides/week12/12_autism_slides.html#theory-of-mind",
+    "href": "lectures/slides/week12/12_autism_slides.html#theory-of-mind",
+    "title": "Lecture 12 - Autism",
+    "section": "Theory of mind",
+    "text": "Theory of mind\n\n\nThe idea that people with autism have difficulty understanding other people’s mental states (beliefs, desires etc.).\nProponents include Frith, Leslie, Happe, Baron-Cohen"
+  },
+  {
+    "objectID": "lectures/slides/week12/12_autism_slides.html#false-beliefs",
+    "href": "lectures/slides/week12/12_autism_slides.html#false-beliefs",
+    "title": "Lecture 12 - Autism",
+    "section": "False beliefs",
+    "text": "False beliefs\n\n\n\n\n\n\n\n\n\n\n(Baron-Cohen et al., 1985; Happe, 1995)"
+  },
+  {
+    "objectID": "lectures/slides/week12/12_autism_slides.html#animated-shapes",
+    "href": "lectures/slides/week12/12_autism_slides.html#animated-shapes",
+    "title": "Lecture 12 - Autism",
+    "section": "Animated shapes",
+    "text": "Animated shapes\n\n\n(Heider & Simmel, 1944)"
+  },
+  {
+    "objectID": "lectures/slides/week12/12_autism_slides.html#animated-shapes-autism-and-fmri",
+    "href": "lectures/slides/week12/12_autism_slides.html#animated-shapes-autism-and-fmri",
+    "title": "Lecture 12 - Autism",
+    "section": "Animated shapes, autism and fMRI",
+    "text": "Animated shapes, autism and fMRI\n\n\n\n\n(Castelli et al., 2002)"
+  },
+  {
+    "objectID": "lectures/slides/week12/12_autism_slides.html#weak-central-coherence",
+    "href": "lectures/slides/week12/12_autism_slides.html#weak-central-coherence",
+    "title": "Lecture 12 - Autism",
+    "section": "Weak central coherence",
+    "text": "Weak central coherence\n\n\nThe idea that people with autism have superior processing of detail and less superior processing of whole contexts.\nIt can account for many non-social features and strengths.\nDo social tasks require more ‘central coherence’ than non-social tasks?"
+  },
+  {
+    "objectID": "lectures/slides/week12/12_autism_slides.html#the-emebedded-figures-task",
+    "href": "lectures/slides/week12/12_autism_slides.html#the-emebedded-figures-task",
+    "title": "Lecture 12 - Autism",
+    "section": "The emebedded figures task",
+    "text": "The emebedded figures task\n\n\n\n\n\n\n\n\n\n(Shah & Frith, 1983)"
+  },
+  {
+    "objectID": "lectures/slides/week12/12_autism_slides.html#the-block-design-task",
+    "href": "lectures/slides/week12/12_autism_slides.html#the-block-design-task",
+    "title": "Lecture 12 - Autism",
+    "section": "The block design task",
+    "text": "The block design task\n\n\n\n\nPart of WISC IQ test\nChildren with autism often perform very well on this task\n\n\n\n\n\n(Shah & Frith, 1993)"
+  },
+  {
+    "objectID": "lectures/slides/week12/12_autism_slides.html#cognitive-summary",
+    "href": "lectures/slides/week12/12_autism_slides.html#cognitive-summary",
+    "title": "Lecture 12 - Autism",
+    "section": "Cognitive summary",
+    "text": "Cognitive summary\n\nToM\n\nLack of ToM in autism could cause breakdown in social interaction and communication\nBut it can’t explain savant skills or repetitive behaviours\n\n\n\n\nWeak central coherence\n\nWeak central coherence could maybe account for many non-social features and strengths.\nBut do social tasks require more ‘central coherence’ than non-social tasks?"
+  },
+  {
+    "objectID": "lectures/slides/week12/12_autism_slides.html#neurobiological",
+    "href": "lectures/slides/week12/12_autism_slides.html#neurobiological",
+    "title": "Lecture 12 - Autism",
+    "section": "Neurobiological",
+    "text": "Neurobiological\n \nTwo different neurobiological accounts:\n\nBroken mirror theory\nUnderconnectivity"
+  },
+  {
+    "objectID": "lectures/slides/week12/12_autism_slides.html#broken-mirrors",
+    "href": "lectures/slides/week12/12_autism_slides.html#broken-mirrors",
+    "title": "Lecture 12 - Autism",
+    "section": "Broken mirrors",
+    "text": "Broken mirrors\n\n\n\n\nThe idea that the ‘mirror neuron system’ is dysfunctional in autism\nProponents include: Dapretto & Iacoboni, Oberman & Ramachandran, Justin Williams\nEvidence from: imitation behaviour, fMRI, EEG"
+  },
+  {
+    "objectID": "lectures/slides/week12/12_autism_slides.html#fmri-evidence",
+    "href": "lectures/slides/week12/12_autism_slides.html#fmri-evidence",
+    "title": "Lecture 12 - Autism",
+    "section": "fMRI evidence",
+    "text": "fMRI evidence\n\n\n\n\n\n\n\n\n\n(Dapretto et al., 2006)"
+  },
+  {
+    "objectID": "lectures/slides/week12/12_autism_slides.html#broken-mirror-criticisms",
+    "href": "lectures/slides/week12/12_autism_slides.html#broken-mirror-criticisms",
+    "title": "Lecture 12 - Autism",
+    "section": "Broken mirror criticisms",
+    "text": "Broken mirror criticisms\n\nEvidence for the theory is weak (Southgate & Hamilton A. F., 2008).\n\nemotion and language tasks used, which are not the like the tasks that activate the mirror neurons in monkeys\ntypes of imitation remain intact\n\n\n\n\nEmpirical evidence that EEG and mu rhythmns can serve as an index of mirror neuron system has been heavily questioned (Hobson & Bishop, 2016, 2017)."
+  },
+  {
+    "objectID": "lectures/slides/week12/12_autism_slides.html#underconnectivity",
+    "href": "lectures/slides/week12/12_autism_slides.html#underconnectivity",
+    "title": "Lecture 12 - Autism",
+    "section": "Underconnectivity",
+    "text": "Underconnectivity\n\n\nThe idea that the cortex is not connected together correctly in autism\n\nUnderconnectivity could cause lots of information processing problems\n\nProponents include Minshew, Just, Courschesne\nEvidence comes from fMRI studies"
+  },
+  {
+    "objectID": "lectures/slides/week12/12_autism_slides.html#fmri-evidence-1",
+    "href": "lectures/slides/week12/12_autism_slides.html#fmri-evidence-1",
+    "title": "Lecture 12 - Autism",
+    "section": "fMRI evidence",
+    "text": "fMRI evidence\n\n\n\n\n\n\n\n\n\n(Just et al., 2004, 2013)"
+  },
+  {
+    "objectID": "lectures/slides/week12/12_autism_slides.html#neurobiological-summary",
+    "href": "lectures/slides/week12/12_autism_slides.html#neurobiological-summary",
+    "title": "Lecture 12 - Autism",
+    "section": "Neurobiological summary",
+    "text": "Neurobiological summary\n\nBroken mirror theory claims to explain many social features of autism, but it does not explain non-social features.\nAnd …\n\nWe still don’t know if the MNS contributes to Theory of Mind or language.\nMostly indirect measures of MNS function.\nTasks are emotional or meaningless actions – not like the tasks that activate the monkey MNS.\n\n\n\n\nUnderconnectivity may explain weak central coherence\nBut …\n\nit may not explain social / communication problems (unless social information processing requires more ‘connections’)"
+  },
+  {
+    "objectID": "lectures/slides/week12/12_autism_slides.html#many-autisms",
+    "href": "lectures/slides/week12/12_autism_slides.html#many-autisms",
+    "title": "Lecture 12 - Autism",
+    "section": "Many autisms?",
+    "text": "Many autisms?\n\nNo single factor gives a complete explanation\nIt is hard to explain both social and non-social symptoms\n\n\nTime to give up on a single explanation for autism (Happé et al., 2006)\n\nShould study each part of the triad separately\nNo model can yet account for all symptoms\nDifferent genetic and cognitive causes for each"
   },
   {
     "objectID": "lectures/slides/week12/12_autism_slides.html#discussion-material",
     "href": "lectures/slides/week12/12_autism_slides.html#discussion-material",
     "title": "Lecture 12 - Autism",
     "section": "Discussion material",
-    "text": "Discussion material\n\n\nbreak into small groups (~ 5 per group)\ndiscuss aspects of the lecture\ndiscuss aspects of the journal article: {target=’_blank’}"
+    "text": "Discussion material\n\nbreak into small groups (~ 5 per group)\ndiscuss aspects of the lecture\ndiscuss aspects of the journal article: https://www.nature.com/articles/nn1770\n\nAnd some articles in the popular press:\nVaccines do not cause autism\nSo, what is going on in the United States?"
   },
   {
     "objectID": "lectures/slides/week12/12_autism_slides.html#references",
     "href": "lectures/slides/week12/12_autism_slides.html#references",
     "title": "Lecture 12 - Autism",
     "section": "References",
-    "text": "References"
+    "text": "References\n\n\nBailey, A., Couteur, A. L., Gottesman, I., Bolton, P., Simonoff, E., Yuzda, E., & Rutter, M. (1995). Autism as a strongly genetic disorder: Evidence from a British twin study. Psychological Medicine, 25(1), 63–77. https://doi.org/10.1017/S0033291700028099\n\n\nBaron-Cohen, S., Leslie, A. M., & Frith, U. (1985). Does the autistic child have a \"theory of mind\"? Cognition, 21(1), 37–46. http://www.ncbi.nlm.nih.gov/htbin-post/Entrez/query?db=m&form=6&dopt=r&uid=2934210\n\n\nCastelli, F., Frith, C., Happe, F., & Frith, U. (2002). Autism, Asperger syndrome and brain mechanisms for the attribution of mental states to animated shapes. Brain, 125, 1839–49. http://www.ncbi.nlm.nih.gov/htbin-post/Entrez/query?db=m&form=6&dopt=r&uid=12135974 http://brain.oupjournals.org/cgi/content/full/125/8/1839 http://brain.oupjournals.org/cgi/content/abstract/125/8/1839\n\n\nDapretto, M., Davies, M. S., Pfeifer, J. H., Scott, A. A., Sigman, M., Bookheimer, S. Y., & Iacoboni, M. (2006). Understanding emotions in others: Mirror neuron dysfunction in children with autism spectrum disorders. Nat Neurosci, 9(1), 28–30. http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=16327784\n\n\nDeStefano, F., & Shimabukuro, T. T. (2019). The MMR Vaccine and Autism. Annual Review of Virology, 6, 585–600. https://doi.org/10.1146/annurev-virology-092818-015515\n\n\nGabis, L. V., Attia, O. L., Goldman, M., Barak, N., Tefera, P., Shefer, S., Shaham, M., & Lerman-Sagie, T. (2022). The myth of vaccination and autism spectrum. European Journal of Paediatric Neurology, 36, 151–158. https://doi.org/10.1016/j.ejpn.2021.12.011\n\n\nGrosvenor, L. P., Croen, L. A., Lynch, F. L., Marafino, B. J., Maye, M., Penfold, R. B., Simon, G. E., & Ames, J. L. (2024). Autism Diagnosis Among US Children and Adults, 2011-2022. JAMA Network Open, 7(10), e2442218. https://doi.org/10.1001/jamanetworkopen.2024.42218\n\n\nHappe, F. G. (1995). The role of age and verbal ability in the theory of mind task performance of subjects with autism. Child Dev, 66(3), 843–855. http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=7789204\n\n\nHappé, F., Ronald, A., & Plomin, R. (2006). Time to give up on a single explanation for autism. Nat Neurosci, 9(10), 1218–1220. https://doi.org/10.1038/nn1770\n\n\nHeider, F., & Simmel, M. (1944). An Experimental Study of Apparent Behavior. The American Journal of Psychology.\n\n\nHirota, T., & King, B. H. (2023). Autism Spectrum Disorder: A Review. JAMA, 329(2), 157–168. https://doi.org/10.1001/jama.2022.23661\n\n\nHobson, H. M., & Bishop, D. V. M. (2016). Mu suppression – A good measure of the human mirror neuron system? Cortex, 82, 290–310. https://doi.org/10.1016/j.cortex.2016.03.019\n\n\nHobson, H. M., & Bishop, D. V. M. (2017). The interpretation of mu suppression as an index of mirror neuron activity: Past, present and future. Royal Society Open Science, 4(3), 160662. https://doi.org/10.1098/rsos.160662\n\n\nJust, M. A., Cherkassky, V. L., Keller, T. A., & Minshew, N. J. (2004). Cortical activation and synchronization during sentence comprehension in high-functioning autism: Evidence of underconnectivity. Brain, 127(8), 1811–1821. https://doi.org/10.1093/brain/awh199\n\n\nJust, M. A., Keller, T. A., & Kana, R. K. (2013). A Theory of Autism Based on Frontal-Posterior Underconnectivity. In Development and Brain Systems in Autism. Psychology Press.\n\n\nRonald, A., Happé, F., & Plomin, R. (2005). The genetic relationship between individual differences in social and nonsocial behaviours characteristic of autism. Developmental Science, 8(5), 444–458. https://doi.org/10.1111/j.1467-7687.2005.00433.x\n\n\nShah, A., & Frith, U. (1983). An Islet of Ability in Autistic Children: A Research Note. Journal of Child Psychology and Psychiatry, 24(4), 613–620. https://doi.org/10.1111/j.1469-7610.1983.tb00137.x\n\n\nShah, A., & Frith, U. (1993). Why do autistic individuals show superior performance on the block design task? J Child Psychol Psychiatry, 34(8), 1351–64. http://www.ncbi.nlm.nih.gov/htbin-post/Entrez/query?db=m&form=6&dopt=r&uid=8294523\n\n\nSouthgate, V., & Hamilton A. F. (2008). Unbroken mirrors: Challenging a theory of Autism. Trends Cogn Sci, 12(6), 225–229. http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=18479959"
   },
   {
     "objectID": "lectures/slides/week12/12_autism_slides.html#acknowledgements",

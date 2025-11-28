@@ -8,7 +8,7 @@ This week, I will review evidence on the social, cognitive and brain systems tha
 
 ::: {.callout-note icon="false"}
 ## Key concepts
-diagnoses, mechanisms and theories of autism
+diagnosis, causes, mechanisms and theories of autism
 
 :::
 
@@ -17,6 +17,10 @@ diagnoses, mechanisms and theories of autism
 - [View Slides](slides/week12/12_autism_slides.html){target="_blank"} (opens in new tab)
 - [Download Slides PDF](slides/week12/12_autism_slides.pdf){download="12_autism_slides.pdf"}
 
-## Discussion paper
+## Discussion paper and articles
 
-[link here]
+[Happé et al., 2006](https://www.nature.com/articles/nn1770)
+
+[Vaccines do not cause autism](https://publichealth.jhu.edu/2025/vaccines-do-not-cause-autism)
+
+[So, what is going on in the United States?](https://www.npr.org/sections/shots-health-news/2025/11/20/nx-s1-5615040/cdc-rfk-childhood-vaccines-autism)
