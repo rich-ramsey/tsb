@@ -861,25 +861,207 @@
     "text": "Today\n\n\n\nPart 1\n\nAttention and impulsivity\n\n\nPart 2\n\nRead articles and discuss"
   },
   {
-    "objectID": "lectures/slides/week13/13_attention_slides.html#today-1",
-    "href": "lectures/slides/week13/13_attention_slides.html#today-1",
+    "objectID": "lectures/slides/week13/13_attention_slides.html#overview",
+    "href": "lectures/slides/week13/13_attention_slides.html#overview",
     "title": "Lecture 13 - Attention and impulsivity",
-    "section": "Today",
-    "text": "Today\n\n\n\nPart 1\n\nAttention and impulsivity\n\n\nPart 2\n\nRead articles and discuss"
+    "section": "Overview",
+    "text": "Overview\n\n\nBackground & ADHD\nPerformance on executive function tasks\n\nBehavioural evidence\nNeurobiological evidence"
+  },
+  {
+    "objectID": "lectures/slides/week13/13_attention_slides.html#living-with-adhd",
+    "href": "lectures/slides/week13/13_attention_slides.html#living-with-adhd",
+    "title": "Lecture 13 - Attention and impulsivity",
+    "section": "Living with ADHD",
+    "text": "Living with ADHD\n\nhttp://www.youtube.com/watch?v=mjmiWkB1TKw"
+  },
+  {
+    "objectID": "lectures/slides/week13/13_attention_slides.html#adhd",
+    "href": "lectures/slides/week13/13_attention_slides.html#adhd",
+    "title": "Lecture 13 - Attention and impulsivity",
+    "section": "ADHD",
+    "text": "ADHD\n\n\n\nAttention Deficit/Hyperactivity Disorder (ADHD) is defined by a combination of symptoms of\n\nInattention\nHyperactivity/impulsivity\n\n\n\n\n3 types:"
+  },
+  {
+    "objectID": "lectures/slides/week13/13_attention_slides.html#diagnosis",
+    "href": "lectures/slides/week13/13_attention_slides.html#diagnosis",
+    "title": "Lecture 13 - Attention and impulsivity",
+    "section": "Diagnosis",
+    "text": "Diagnosis\n\nSix (or more) of the following symptoms of inattention or hyperactivity-impulsivity have persisted for at least 6 months to a degree that is maladaptive and inconsistent with developmental level. Some examples as follows:\nInattention\n\nOften does not give close attention to details or makes careless mistakes in schoolwork.\nOften has trouble keeping attention on tasks or play activities.\nOften does not seem to listen when spoken to directly.\n\nHyperactivity-impulsivity\n\nOften fidgets with hands or feet or squirms in seat.\nOften gets up from seat when remaining in seat is expected.\nOften runs about or climbs when and where it is not appropriate."
+  },
+  {
+    "objectID": "lectures/slides/week13/13_attention_slides.html#features",
+    "href": "lectures/slides/week13/13_attention_slides.html#features",
+    "title": "Lecture 13 - Attention and impulsivity",
+    "section": "Features",
+    "text": "Features\n\nPeak onset between the age of 3 and 4\nAffects 3%-5% children, prevalence higher in areas of socio-economic disadvantage\nMale/Female ratio\n\n4:1 for the hyperactivity/impulsivity type\n2:1 for the inattention type\n\nCo-morbidity: 50% of the children also show another psychiatric disorder:\n\nLearning difficulties, Oppositional Defiant Disorder and Conduct Disorder, Anxiety and mood disorders, Substance abuse, Tic disorders\n\nMedical/Physical characteristics:\n\nMore accident prone, Sleep problems\nPersists in adolescence for around 50-80% of individuals and in adulthood for around 30-50% of individuals"
+  },
+  {
+    "objectID": "lectures/slides/week13/13_attention_slides.html#genetics",
+    "href": "lectures/slides/week13/13_attention_slides.html#genetics",
+    "title": "Lecture 13 - Attention and impulsivity",
+    "section": "Genetics",
+    "text": "Genetics\n\nDisorder clusters in families\n\nIncreased risk for 1st and 2nd order degree relatives (Faraone et al. 1995)\nSiblings are 3 to 5 times more at risk (Biederman et al., 1992, Faraone et al., 1993)\nConcordance is higher in monozygotic twins (50%-80%) than dizygotic twins (33%) (Bradley & Golden, 2001)\n\n\nSeveral candidate genes (Durston & Konrad, 2007), some linked to dopaminergic system and others to the serotonergic system. Likely to have a complex genetic origin"
+  },
+  {
+    "objectID": "lectures/slides/week13/13_attention_slides.html#cold-vs-hot-executive-tasks",
+    "href": "lectures/slides/week13/13_attention_slides.html#cold-vs-hot-executive-tasks",
+    "title": "Lecture 13 - Attention and impulsivity",
+    "section": "Cold vs hot executive tasks",
+    "text": "Cold vs hot executive tasks\n\n\n“Cold” executive functions tasks are associated with working memory, inhibition and planning.\n“Hot” executive function tasks are associated with reward and reinforcement mechanisms"
+  },
+  {
+    "objectID": "lectures/slides/week13/13_attention_slides.html#stroop-task",
+    "href": "lectures/slides/week13/13_attention_slides.html#stroop-task",
+    "title": "Lecture 13 - Attention and impulsivity",
+    "section": "Stroop task",
+    "text": "Stroop task"
+  },
+  {
+    "objectID": "lectures/slides/week13/13_attention_slides.html#stroop-task-processes",
+    "href": "lectures/slides/week13/13_attention_slides.html#stroop-task-processes",
+    "title": "Lecture 13 - Attention and impulsivity",
+    "section": "Stroop task processes",
+    "text": "Stroop task processes"
+  },
+  {
+    "objectID": "lectures/slides/week13/13_attention_slides.html#delay-aversion",
+    "href": "lectures/slides/week13/13_attention_slides.html#delay-aversion",
+    "title": "Lecture 13 - Attention and impulsivity",
+    "section": "Delay aversion",
+    "text": "Delay aversion\n\n\nGreater preference for smaller-immediate over larger-delayed rewards (choice impulsivity)\n1CHF now or 100 CHF in a year?\n\nAt which point do you shift your choice?\n\nMarshmallow test for kids. One now or two later?"
+  },
+  {
+    "objectID": "lectures/slides/week13/13_attention_slides.html#behavioural-evidence",
+    "href": "lectures/slides/week13/13_attention_slides.html#behavioural-evidence",
+    "title": "Lecture 13 - Attention and impulsivity",
+    "section": "Behavioural evidence",
+    "text": "Behavioural evidence\n\n\nReview of 8 meta-analyses:\n\nLarge effect: &gt;0.50\nMedium effect: 0.50-0.30\nSmall effect: &lt;0.30\n\n\n\n(Nigg, 2005)"
+  },
+  {
+    "objectID": "lectures/slides/week13/13_attention_slides.html#nigg-2005-results",
+    "href": "lectures/slides/week13/13_attention_slides.html#nigg-2005-results",
+    "title": "Lecture 13 - Attention and impulsivity",
+    "section": "Nigg 2005 results",
+    "text": "Nigg 2005 results\n\n\n\n\n(Nigg, 2005)"
+  },
+  {
+    "objectID": "lectures/slides/week13/13_attention_slides.html#nigg-2005-results-1",
+    "href": "lectures/slides/week13/13_attention_slides.html#nigg-2005-results-1",
+    "title": "Lecture 13 - Attention and impulsivity",
+    "section": "Nigg 2005 results",
+    "text": "Nigg 2005 results\n\n\n\n\n(Nigg, 2005)"
+  },
+  {
+    "objectID": "lectures/slides/week13/13_attention_slides.html#neurobiological-evidence",
+    "href": "lectures/slides/week13/13_attention_slides.html#neurobiological-evidence",
+    "title": "Lecture 13 - Attention and impulsivity",
+    "section": "Neurobiological evidence",
+    "text": "Neurobiological evidence\n\n\n\nFunctional MRI studies reveal atypical activity in\n\nPrefrontal cortex (esp. right inferior frontal)\nBasal ganglia (esp. putamen)\nCerebellum\nParietal areas\n\n\n\n\n\n\n(Casey & Durston, 2006)"
+  },
+  {
+    "objectID": "lectures/slides/week13/13_attention_slides.html#response-suppression-task",
+    "href": "lectures/slides/week13/13_attention_slides.html#response-suppression-task",
+    "title": "Lecture 13 - Attention and impulsivity",
+    "section": "Response suppression task",
+    "text": "Response suppression task\n\n\n\n\n(Rubia et al., 2005; Rubia, 2018)"
+  },
+  {
+    "objectID": "lectures/slides/week13/13_attention_slides.html#response-suppression-results",
+    "href": "lectures/slides/week13/13_attention_slides.html#response-suppression-results",
+    "title": "Lecture 13 - Attention and impulsivity",
+    "section": "Response suppression results",
+    "text": "Response suppression results\n\n\n\n\n(Rubia et al., 2005; Rubia, 2018)"
+  },
+  {
+    "objectID": "lectures/slides/week13/13_attention_slides.html#cold-task-summary",
+    "href": "lectures/slides/week13/13_attention_slides.html#cold-task-summary",
+    "title": "Lecture 13 - Attention and impulsivity",
+    "section": "“Cold” task summary",
+    "text": "“Cold” task summary\n\nIndividuals with ADHD show:\n\nAtypical performance in EF tasks\nAtypical neural responses compared to controls in “cold” EF tasks\nWhat about “hot” tasks?"
+  },
+  {
+    "objectID": "lectures/slides/week13/13_attention_slides.html#reward-task",
+    "href": "lectures/slides/week13/13_attention_slides.html#reward-task",
+    "title": "Lecture 13 - Attention and impulsivity",
+    "section": "Reward task",
+    "text": "Reward task\n\n\n\n\n(Ströhle et al., 2008)"
+  },
+  {
+    "objectID": "lectures/slides/week13/13_attention_slides.html#reward-results",
+    "href": "lectures/slides/week13/13_attention_slides.html#reward-results",
+    "title": "Lecture 13 - Attention and impulsivity",
+    "section": "Reward results",
+    "text": "Reward results\n\n\n\n\n(Ströhle et al., 2008)"
+  },
+  {
+    "objectID": "lectures/slides/week13/13_attention_slides.html#reward-results-1",
+    "href": "lectures/slides/week13/13_attention_slides.html#reward-results-1",
+    "title": "Lecture 13 - Attention and impulsivity",
+    "section": "Reward results",
+    "text": "Reward results\n\n\n\n\n(Ströhle et al., 2008)"
+  },
+  {
+    "objectID": "lectures/slides/week13/13_attention_slides.html#summary",
+    "href": "lectures/slides/week13/13_attention_slides.html#summary",
+    "title": "Lecture 13 - Attention and impulsivity",
+    "section": "Summary",
+    "text": "Summary\n\nIndividuals with ADHD show:\n\nAtypical performance in EF tasks\nAtypical neural responses compared to controls in “cold” and “hot” EF tasks\n\nHowever…"
+  },
+  {
+    "objectID": "lectures/slides/week13/13_attention_slides.html#individual-differences",
+    "href": "lectures/slides/week13/13_attention_slides.html#individual-differences",
+    "title": "Lecture 13 - Attention and impulsivity",
+    "section": "Individual differences",
+    "text": "Individual differences\n\n\n\n\n(Nigg, 2005)"
+  },
+  {
+    "objectID": "lectures/slides/week13/13_attention_slides.html#individual-differences-1",
+    "href": "lectures/slides/week13/13_attention_slides.html#individual-differences-1",
+    "title": "Lecture 13 - Attention and impulsivity",
+    "section": "Individual differences",
+    "text": "Individual differences\nWhen ADHD children tested on both inhibition and delay aversion and looking at individual performances rather than group performance:\n\n23% deficit on both\n23% inhibition deficit only\n15% delay aversion deficit only\n39% no apparent deficit on any of the two\n\nSo what does this mean?\n\n(Nigg, 2005)"
+  },
+  {
+    "objectID": "lectures/slides/week13/13_attention_slides.html#single-cognitive-mechanism",
+    "href": "lectures/slides/week13/13_attention_slides.html#single-cognitive-mechanism",
+    "title": "Lecture 13 - Attention and impulsivity",
+    "section": "Single cognitive mechanism?",
+    "text": "Single cognitive mechanism?"
+  },
+  {
+    "objectID": "lectures/slides/week13/13_attention_slides.html#inhibition",
+    "href": "lectures/slides/week13/13_attention_slides.html#inhibition",
+    "title": "Lecture 13 - Attention and impulsivity",
+    "section": "Inhibition",
+    "text": "Inhibition"
+  },
+  {
+    "objectID": "lectures/slides/week13/13_attention_slides.html#reward",
+    "href": "lectures/slides/week13/13_attention_slides.html#reward",
+    "title": "Lecture 13 - Attention and impulsivity",
+    "section": "Reward",
+    "text": "Reward"
+  },
+  {
+    "objectID": "lectures/slides/week13/13_attention_slides.html#future-research",
+    "href": "lectures/slides/week13/13_attention_slides.html#future-research",
+    "title": "Lecture 13 - Attention and impulsivity",
+    "section": "Future research",
+    "text": "Future research\n\nIs there good evidence for a single cognitive deficit hypothesis?\nHow well does a deficit in inhibition or motivation/reward processing explain the clinical symptoms associated with ADHD?\nIs it plausible to assume a single core deficit? What is the alternative?\n\n\n(Castellanos et al., 2006; Rubia, 2018; Sonuga-Barke, 2005)"
   },
   {
     "objectID": "lectures/slides/week13/13_attention_slides.html#discussion-material",
     "href": "lectures/slides/week13/13_attention_slides.html#discussion-material",
     "title": "Lecture 13 - Attention and impulsivity",
     "section": "Discussion material",
-    "text": "Discussion material\n\n\nbreak into small groups (~ 5 per group)\ndiscuss aspects of the lecture\ndiscuss aspects of the journal article: {target=’_blank’}"
+    "text": "Discussion material\n\n\nbreak into small groups (~ 5 per group)\ndiscuss aspects of the lecture\ndiscuss aspects of the journal article: Rubia, 2018\nThere is no need to read all of the paper. Pick a section of the paper that interests you and focus on that for the discussion."
   },
   {
     "objectID": "lectures/slides/week13/13_attention_slides.html#references",
     "href": "lectures/slides/week13/13_attention_slides.html#references",
     "title": "Lecture 13 - Attention and impulsivity",
     "section": "References",
-    "text": "References"
+    "text": "References\n\n\nCasey, B. j., & Durston, Ph. d., Sarah. (2006). From Behavior to Cognition to the Brain and Back: What Have We Learned From Functional Imaging Studies of Attention Deficit Hyperactivity Disorder? American Journal of Psychiatry, 163(6), 957–960. https://doi.org/10.1176/ajp.2006.163.6.957\n\n\nCastellanos, F. X., Sonuga-Barke, E. J. S., Milham, M. P., & Tannock, R. (2006). Characterizing cognition in ADHD: Beyond executive dysfunction. Trends in Cognitive Sciences, 10(3), 117–123. https://doi.org/10.1016/j.tics.2006.01.011\n\n\nNigg, J. T. (2005). Neuropsychologic Theory and Findings in Attention-Deficit/Hyperactivity Disorder: The State of the Field and Salient Challenges for the Coming Decade. Biological Psychiatry, 57(11), 1424–1435. https://doi.org/10.1016/j.biopsych.2004.11.011\n\n\nRubia, K. (2018). Cognitive Neuroscience of Attention Deficit Hyperactivity Disorder (ADHD) and Its Clinical Translation. Frontiers in Human Neuroscience, 12. https://doi.org/10.3389/fnhum.2018.00100\n\n\nRubia, K., Smith, A. B., Brammer, M. J., Toone, B., & Taylor, E. (2005). Abnormal Brain Activation During Inhibition and Error Detection in Medication-Naive Adolescents With ADHD. American Journal of Psychiatry. https://doi.org/10.1176/appi.ajp.162.6.1067\n\n\nSonuga-Barke, E. J. S. (2005). Causal Models of Attention-Deficit/Hyperactivity Disorder: From Common Simple Deficits to Multiple Developmental Pathways. Biological Psychiatry, 57(11), 1231–1238. https://doi.org/10.1016/j.biopsych.2004.09.008\n\n\nStröhle, A., Stoy, M., Wrase, J., Schwarzer, S., Schlagenhauf, F., Huss, M., Hein, J., Nedderhut, A., Neumann, B., Gregor, A., Juckel, G., Knutson, B., Lehmkuhl, U., Bauer, M., & Heinz, A. (2008). Reward anticipation and outcomes in adult males with attention-deficit/hyperactivity disorder. NeuroImage, 39(3), 966–972. https://doi.org/10.1016/j.neuroimage.2007.09.044"
   },
   {
     "objectID": "lectures/slides/week13/13_attention_slides.html#acknowledgements",
@@ -1094,7 +1276,7 @@
     "href": "lectures/13_attention.html#discussion-paper",
     "title": "Attention and impulsivity",
     "section": "Discussion paper",
-    "text": "Discussion paper\n[link here]",
+    "text": "Discussion paper\nRubia, 2018\n\nThere is no need to read all of the paper. Pick a section of the paper that interests you and focus on that for the discussion.",
     "crumbs": [
       "Lectures",
       "<b>Lectures</b>",

@@ -54,31 +54,305 @@ knitr::opts_chunk$set(echo = FALSE)
 :::
 ::::
 
-
-
-
-## Today ##
+## Overview ##
 
 <br>
+
+- Background & ADHD
+- Performance on executive function tasks
+  - Behavioural evidence
+  - Neurobiological evidence 
+
+# Background & ADHD #
+
+## Living with ADHD ##
+
+<br>
+
+<http://www.youtube.com/watch?v=mjmiWkB1TKw>
+
+## ADHD ##
+
+:::: {.columns}
+::: {.column width="40%"}
+
+- Attention Deficit/Hyperactivity Disorder (ADHD) is defined by a combination of symptoms of
+  - Inattention
+  - Hyperactivity/impulsivity
+  
+:::
+
+::: {.column width="60%" .img-v-large}
+- 3 types:
+
+![](images/adhd_types.png)
+:::
+::::
+
+## Diagnosis ## {.smaller }
+
+- Six (or more) of the following symptoms of inattention or hyperactivity-impulsivity have persisted for at least 6 months to a degree that is maladaptive and inconsistent with developmental level. Some examples as follows:
+
+- Inattention 
+  - Often does not give close attention to details or makes careless mistakes in schoolwork.
+  - Often has trouble keeping attention on tasks or play activities.
+  - Often does not seem to listen when spoken to directly.
+
+- Hyperactivity-impulsivity 
+  - Often fidgets with hands or feet or squirms in seat.
+  - Often gets up from seat when remaining in seat is expected.
+  - Often runs about or climbs when and where it is not appropriate.
+
+## Features ## {.smaller}
+
+- Peak onset between the age of 3 and 4
+- Affects 3%-5% children, prevalence higher in areas of socio-economic disadvantage
+- Male/Female ratio
+  - 4:1 for the hyperactivity/impulsivity type 
+  - 2:1 for the inattention type
+- Co-morbidity: 50% of the children also show another psychiatric disorder:
+  - Learning difficulties, Oppositional Defiant Disorder and Conduct Disorder, Anxiety and mood disorders, Substance abuse, Tic disorders
+- Medical/Physical characteristics:
+  - More accident prone, Sleep problems 
+  - Persists in adolescence for around 50-80% of individuals and in adulthood for around 30-50% of individuals
+
+## Genetics ## {.smaller}
+
+- Disorder clusters in families
+  - Increased risk for 1st and 2nd order degree relatives (Faraone et al. 1995)
+  - Siblings are 3 to 5 times more at risk (Biederman et al., 1992, Faraone et al., 1993)
+  - Concordance is higher in monozygotic twins (50%-80%) than dizygotic twins (33%) (Bradley & Golden, 2001)
+
+Several candidate genes (Durston & Konrad, 2007), some linked to dopaminergic system 
+and others to the serotonergic system. Likely to have a complex genetic origin
+
+## Cold vs hot executive tasks ##
+
+<br>
+
+- "Cold" executive functions tasks are associated with working memory, inhibition and planning.
+
+- "Hot" executive function tasks are associated with reward and reinforcement mechanisms
+
+## Stroop task ##
+
+<br>
+
+::: {.img-v-large}
+![](images/stroop_task.png)
+:::
+
+## Stroop task processes ##
+
+<br>
+
+::: {.img-v-large}
+![](images/stroop_processes.png)
+:::
+
+## Delay aversion ##
+
+<br>
+
+- Greater preference for smaller-immediate over larger-delayed rewards (choice impulsivity)
+
+- 1CHF now or 100 CHF in a year? 
+  - At which point do you shift your choice?
+
+- Marshmallow test for kids. One now or two later?
+
+# Performance on executive function tasks #
+
+- Behavioural evidence
+- fMRI evidence 
+
+## Behavioural evidence ##
+
+<br>
+
+- Review of 8 meta-analyses:
+
+  - Large effect: >0.50
+  - Medium effect: 0.50-0.30
+  - Small effect: <0.30
+
+::: {.citation-footer}
+[@nigg2005]
+:::
+
+## Nigg 2005 results ##
+
+::: {.img-v-large}
+![](images/meta_table.png)
+:::
+
+::: {.citation-footer}
+[@nigg2005]
+:::
+
+## Nigg 2005 results ##
+
+::: {.img-v-large}
+![](images/meta_table_highlight.png)
+:::
+
+::: {.citation-footer}
+[@nigg2005]
+:::
+
+## Neurobiological evidence ##
 
 :::: {.columns}
 ::: {.column width="50%"}
-[Part 1]{.green-text}
 
-- Attention and impulsivity
-
-<br>
-
-[Part 2]{.green-text}
-
-- Read articles and discuss
+- Functional MRI studies reveal atypical activity in
+  - Prefrontal cortex (esp. right inferior frontal)
+  - Basal ganglia (esp. putamen)
+  - Cerebellum
+  - Parietal areas
+  
 :::
-::: {.column width="50%"}
-![](../icons/lecture.png){width=150px}\
-<br>
-![](../icons/reading.png){width=150px} ![](../icons/discussion.png){width=150px}
+
+::: {.column width="50%" .img-v-large}
+![](images/casey_2006.png)
 :::
 ::::
+
+::: {.citation-footer}
+[@casey2006]
+:::
+
+## Response suppression task ##
+
+::: {.img-large}
+![](images/rubia_task.png)
+:::
+
+::: {.citation-footer}
+[@rubia2018; @rubia2005]
+:::
+
+## Response suppression results ##
+
+::: {.img-v-large}
+![](images/rubia_results.png)
+:::
+
+::: {.citation-footer}
+[@rubia2018; @rubia2005]
+:::
+
+## "Cold" task summary ##
+
+<br>
+
+Individuals with ADHD show:
+
+- Atypical performance in EF tasks
+
+- Atypical neural responses compared to controls in “cold” EF tasks
+
+- What about “hot” tasks?
+
+## Reward task ##
+
+::: {.img-v-large}
+![](images/reward_task.png)
+:::
+
+::: {.citation-footer}
+[@strohle2008]
+:::
+
+## Reward results ##
+
+::: {.img-v-large}
+![](images/reward_results_1.png)
+:::
+
+::: {.citation-footer}
+[@strohle2008]
+:::
+
+## Reward results ##
+
+::: {.img-v-large}
+![](images/reward_results_2.png)
+:::
+
+::: {.citation-footer}
+[@strohle2008]
+:::
+
+## Summary ##
+
+<br>
+
+Individuals with ADHD show:
+
+- Atypical performance in EF tasks
+
+- Atypical neural responses compared to controls in “cold” and “hot” EF tasks
+
+However…
+
+## Individual differences ##
+
+::: {.img-v-large}
+![](images/ind_diffs.png)
+:::
+
+::: {.citation-footer}
+[@nigg2005]
+:::
+
+## Individual differences ##
+
+When ADHD children tested on both inhibition and delay aversion and looking at individual performances rather than group performance:
+
+- 23% deficit on both
+- 23% inhibition deficit only
+- 15% delay aversion deficit only
+- 39% no apparent deficit on any of the two
+
+So what does this mean?
+
+::: {.citation-footer}
+[@nigg2005]
+:::
+
+## Single cognitive mechanism? ##
+
+<br>
+<br>
+
+::: {.img-v-large}
+![](images/cog_deficit.png)
+:::
+
+## Inhibition ##
+
+::: {.img-v-large}
+![](images/inhibition.png)
+:::
+
+## Reward ##
+
+::: {.img-v-large}
+![](images/reward.png)
+:::
+
+## Future research ##
+
+- Is there good evidence for a single cognitive deficit hypothesis? 
+- How well does a deficit in inhibition or motivation/reward processing explain the clinical symptoms associated with ADHD?
+
+- Is it plausible to assume a single core deficit? What is the alternative?
+
+::: {.citation-footer}
+[@sonuga-barke2005; @castellanosCharacterizingCognitionADHD2006; @rubia2018]
+:::
+
 
 # Take a break #
 
@@ -91,7 +365,9 @@ knitr::opts_chunk$set(echo = FALSE)
 - break into small groups (~ 5 per group)
 - discuss aspects of the lecture 
 - discuss aspects of the journal article:
-<link here>{target='_blank'}
+[Rubia, 2018](https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2018.00100/full){target='_blank'}
+
+- There is no need to read all of the paper. Pick a section of the paper that interests you and focus on that for the discussion. 
 
 
 ## References
