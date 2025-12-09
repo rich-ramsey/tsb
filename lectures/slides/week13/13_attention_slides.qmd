@@ -67,9 +67,10 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## Living with ADHD ##
 
-<br>
-
-<http://www.youtube.com/watch?v=mjmiWkB1TKw>
+{{< video https://www.youtube.com/watch?v=UPU-5IWV3QU
+  width="80%"
+  height="80%"
+>}}
 
 ## ADHD ##
 
@@ -161,6 +162,14 @@ and others to the serotonergic system. Likely to have a complex genetic origin
 
 - Marshmallow test for kids. One now or two later?
 
+## Marshmallow test ##
+
+{{< video https://www.youtube.com/watch?v=QX_oy9614HQ
+  start="15"
+  width="80%"
+  height="80%"
+>}}
+
 # Performance on executive function tasks #
 
 - Behavioural evidence
@@ -186,18 +195,10 @@ and others to the serotonergic system. Likely to have a complex genetic origin
 ![](images/meta_table.png)
 :::
 
-::: {.citation-footer}
-[@nigg2005]
-:::
-
 ## Nigg 2005 results ##
 
 ::: {.img-v-large}
 ![](images/meta_table_highlight.png)
-:::
-
-::: {.citation-footer}
-[@nigg2005]
 :::
 
 ## Neurobiological evidence ##
@@ -219,7 +220,7 @@ and others to the serotonergic system. Likely to have a complex genetic origin
 ::::
 
 ::: {.citation-footer}
-[@casey2006]
+[@casey2006; @rubia2018]
 :::
 
 ## Response suppression task ##
@@ -296,14 +297,10 @@ Individuals with ADHD show:
 
 However…
 
-## Individual differences ##
+## Individual differences - Nigg 2005 ##
 
 ::: {.img-v-large}
 ![](images/ind_diffs.png)
-:::
-
-::: {.citation-footer}
-[@nigg2005]
 :::
 
 ## Individual differences ##
@@ -347,7 +344,7 @@ So what does this mean?
 - Is there good evidence for a single cognitive deficit hypothesis? 
 - How well does a deficit in inhibition or motivation/reward processing explain the clinical symptoms associated with ADHD?
 
-- Is it plausible to assume a single core deficit? What is the alternative?
+- Is it plausible to assume a single core deficit? What are the alternative options? And what are the implications for designing effective interventions?
 
 ::: {.citation-footer}
 [@sonuga-barke2005; @castellanosCharacterizingCognitionADHD2006; @rubia2018]

@@ -9,7 +9,7 @@ project:
     - "!**sandpit/**/*.qmd"     # Exclude sandpit content
     - "!**notes/**/*.qmd"       # Exclude notes content
     - "!**assignments/**/*.qmd" # Exclude assignment content
-    - "!**scrap/**/*.qmd"       # Exclude assignment content
+    - "!**scrap/**/*.qmd"       # Exclude scrap content
   resources:
     - files/*.Rmd
     - files/*.html
