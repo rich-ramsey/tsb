@@ -4,6 +4,8 @@ subtitle: "The Social Brain: Critical Perspectives on Science, Society and Neuro
 author: "Richard Ramsey"
 bibliography: references.bib
 csl: ../../../apa.csl
+nocite: |
+  @zotero-item-9788, @ellis2024
 format:
   revealjs:
     slide-number: true
@@ -54,10 +56,19 @@ knitr::opts_chunk$set(echo = FALSE)
 :::
 ::::
 
-# Part 1 - Essay writing: assessment details #
+## Summary ##
+
+<br>
+
+- Essay writing:
+    - assessment details
+    - tips and style guide
+    
+# Assessment details #
 
 ## Assessment type ##
 
+::: {.incremental}
 - There is one piece of assessment in this course, which is a written assignment in essay format.
 
 - 2000 words maximum.
@@ -67,20 +78,31 @@ knitr::opts_chunk$set(echo = FALSE)
 - **There is NO exam**
 
 - Just email me the file. If I do not write back to you with confirmation within a few days, then email me again.
+:::
 
 ## Assessment format ##
 
+<br>
+
 You can write your essay in two different ways.
 
-**1.** Address a general question.
+::: {.fragment}
+**1. Address a general question**.
 
 e.g., Is psychology a science or a pseudoscience?
+:::
 
-**2.** Address a more specific question.
+<br>
+
+::: {.fragment}
+**2. Address a more specific question**.
 
 e.g., Should Autism be considered one diagnosis or multiple different diagnoses?
+:::
 
 ## Assessment structure ##
+
+<br>
 
 Example structure (it seems obvious, but nonetheless…):
 
@@ -92,6 +114,7 @@ Example structure (it seems obvious, but nonetheless…):
 
 Things to cover:
 
+::: {.incremental}
 - Identify an open research question, which warrants further attention
 - Provide a brief background to the topic
 - Highlight a gap in knowledge (what we do not know)
@@ -99,6 +122,7 @@ Things to cover:
 - Identify a novel research question or research direction
 - State your hypotheses and/or aims
 - Discuss the implications of the research (why is it worth doing?) 
+:::
 
 ## Assessment criteria ## {.smaller}
 
@@ -106,19 +130,23 @@ Things to cover:
 
 - Adequate understanding of the material is demonstrated, which is largely based on information provided within lectures. 
 
+::: {.fragment}
 **Good**
 
 - Generally accurate coverage of relevant material, which shows evidence of independent thought that extends lecture materials. Well organised and structured. 
+:::
 
+::: {.fragment}
 **Excellent**
 
 - Consistently accurate coverage of relevant material, which shows a depth of independent thought that comprehensively extends lecture materials. Well organised and structured with a clear and efficient writing style.
+:::
 
-
-# Part 1 - Essay writing: tips and style guide #
+# tips and style guide #
 
 ## Narrow focus ##
 
+::: {.incremental}
 - Your essay should have a narrow focus, I do not want a detailed literature review. 
 
 - You are not being assessed on the breadth of your knowledge. Therefore, I will not mark you down for having a narrow focus.
@@ -126,44 +154,53 @@ Things to cover:
 - However, I expect a very clear and well-supported rationale for your critical viewpoint and future direction.
 
 - I will reward attempts to think on your own.
+:::
 
 ## Keep it simple !!! ##
 
-- Find an experiment or topic from my lectures that interests you
+::: {.incremental}
+- Find a topic from my lectures that interests you
 - Go away and read around the topic 
 - Think of a feature that limits understanding – i.e., be critical – and suggest a way to extend current knowledge
+- It can be as simple as finding one past experiment, highlighting a clear gap in knowledge and explaining how your proposed new approach will add to understanding.
+:::
 
 ## Plan, plan and plan some more ##
 
-- Plan your written assignment BEFORE you start to write. You will find it easier to write if you organise your ideas first into a structure. 
+::: {.incremental}
+- Plan your written assignment **BEFORE** you start to write. You will find it easier to write if you organise your ideas first into a structure. 
 
 - Consider the balance of your assignment, in terms of the amount of text per section.
 
 - Make multiple plans, rather than one. One page A4 per plan.
 
 - Review the plans and consider revision and/or consolidation.
+:::
 
 ## Writing style ##
 
-- Clarity is crucial 
-- If you can say it with less words, do so (i.e., keep sentences short).
-- Try to link paragraphs to promote the flow and pace of your writing.
+::: {.incremental}
+- Clarity is crucial.
+- Say it in fewer words, if you can (i.e., keep sentences short).
+- Link paragraphs together to promote flow.
+- ~150 words per paragraph (2000/150 = ~13 paragraphs).
+- It can be shorter (e.g., 1500 words). Max=2000.
 - Have a friend or classmate read it.
+::: 
 
-
-# Take a break #
-
-
-# Part 2 - Read articles and discuss #
+# Read articles and discuss #
 
 ## Discussion material ##
 
 Discuss essay writing:
 
-- See the resources on course website.
+- See the resources on the course website:
+  - [University of Melbourne link](https://students.unimelb.edu.au/academic-skills/resources/reading,-writing-and-referencing/essays/writing-a-great-essay)
+  - [ETH link](https://library.ethz.ch/en/researching-and-publishing/scientific-writing-at-eth-zurich.html)
+
 - Do some of your own research on what makes a good essay.
 - Consider the structure and content of your essays.
-- Then let’s discuss as a group.
+- Class discussion before individual questions.
 
 ## References
 
