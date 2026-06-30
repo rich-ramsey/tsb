@@ -100,7 +100,7 @@ Location: LFW B2
 | 1 | Sep 15 | [Intro](../lectures/01_intro.html) | Introduction to the course |
 | 2 | Sep 22 | [Crisis Part 1](../lectures/02_crisis.html) | Is psychological science in a crisis? |
 | 3 | Sep 29 | [Crisis Part 2](../lectures/03_reform.html) | The reform movement in psychological science |
-| 4 | Oct 6 | [Crisis Part 3 (Flipped classroom)](../lectures/04_theory.html) | A problem in theory? |
+| 4 | Oct 6 | [Crisis Part 3 (flipped classroom)](../lectures/04_theory.html) | A problem in theory? |
 | 5 | Oct 13 | [Crisis Part 4 (reflective writing)](../lectures/05_reflection.html) | Does the crisis extend beyond psychology? |
 | 6 | Oct 20 | [Social Neuroscience Part 1](../lectures/06_neuro_1.html) | An introduction to social neuroscience |
 | 7 | Oct 27 | [Social Neuroscience Part 2](../lectures/07_neuro_2.html) | Reading faces and bodies |
