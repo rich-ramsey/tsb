@@ -97,20 +97,20 @@ Location: LFW B2
 
 | **Week** | **Date** | **Lecture** | **Description** |
 |:--------:|:--------:|-------------|-----------------|
-| 1 | Sep 16 | [Intro](../lectures/01_intro.html) | Introduction to the course |
-| 2 | Sep 23 | [Crisis Part 1](../lectures/02_crisis.html) | Is psychological science in a crisis? |
-| 3 | Sep 30 | [Crisis Part 2](../lectures/03_reform.html) | The reform movement in psychological science |
-| 4 | Oct 7 | [Crisis Part 3 (Recorded lecture)](../lectures/04_theory.html) | A problem in theory? |
-| 5 | Oct 14 | [Crisis Part 4 (No lecture - reflective writing)](../lectures/05_reflection.html) | Does the crisis extend beyond psychology? |
-| 6 | Oct 21 | [Social Neuroscience Part 1](../lectures/06_neuro_1.html) | An introduction to social neuroscience |
-| 7 | Oct 28 | [Social Neuroscience Part 2](../lectures/07_neuro_2.html) | Reading faces and bodies |
-| 8 | Nov 4 | [Social Neuroscience Part 3](../lectures/08_neuro_3.html) | Understanding others |
-| 9 | Nov 11 | [Neurodiversity Part 1](../lectures/09_neurodiversity.html) | Re-thinking neurodiversity |
-| 10 | Nov 18 | [Neurodiversity Part 2](../lectures/10_clinic.html) | Guest lecture: A view from the clinic |
-| 11 | Nov 25 | [Neurodiversity Part 3](../lectures/11_loneliness.html) | Loneliness |
-| 12 | Dec 2 | [Neurodiversity Part 4](../lectures/12_autism.html) | Autism |
-| 13 | Dec 9 | [Neurodiversity Part 5](../lectures/13_attention.html) | Attention and impulsivity |
-| 14 | Dec 16 | [Essay Writing](../lectures/14_essay.html) | Essay writing |
+| 1 | Sep 15 | [Intro](../lectures/01_intro.html) | Introduction to the course |
+| 2 | Sep 22 | [Crisis Part 1](../lectures/02_crisis.html) | Is psychological science in a crisis? |
+| 3 | Sep 29 | [Crisis Part 2](../lectures/03_reform.html) | The reform movement in psychological science |
+| 4 | Oct 6 | [Crisis Part 3 (Flipped classroom)](../lectures/04_theory.html) | A problem in theory? |
+| 5 | Oct 13 | [Crisis Part 4 (reflective writing)](../lectures/05_reflection.html) | Does the crisis extend beyond psychology? |
+| 6 | Oct 20 | [Social Neuroscience Part 1](../lectures/06_neuro_1.html) | An introduction to social neuroscience |
+| 7 | Oct 27 | [Social Neuroscience Part 2](../lectures/07_neuro_2.html) | Reading faces and bodies |
+| 8 | Nov 3 | [Social Neuroscience Part 3](../lectures/08_neuro_3.html) | Understanding others |
+| 9 | Nov 10 | [Neurodiversity Part 1](../lectures/09_neurodiversity.html) | Re-thinking neurodiversity |
+| 10 | Nov 17 | [Neurodiversity Part 2](../lectures/10_loneliness.html) | Loneliness |
+| 11 | Nov 24 | [Neurodiversity Part 3](../lectures/11_autism.html) | Autism |
+| 12 | Dec 1 | No lecture | Spend this time developing your essay question |
+| 13 | Dec 8 | [Neurodiversity Part 4](../lectures/13_attention.html) | Attention and impulsivity |
+| 14 | Dec 15 | [Essay Writing](../lectures/14_essay.html) | Essay writing |
 
 
 ## Assessment ##
@@ -119,7 +119,7 @@ The assessment is based on each student writing an essay.
 In week 1, comprehensive assessment details will be provided.
 **Please note: there is no exam**.
 
-**Submission date:** Monday January 5th 2026.
+**Submission date:** Monday December 21st 2026.
 
 
 Assessment criteria:
@@ -130,16 +130,15 @@ Adequate understanding of the material is demonstrated, which is largely based o
 
 *Good*
 
-Generally accurate coverage of relevant material, which shows evidence of independent thought that extends lecture materials. Well organised and structured. 
+Generally accurate coverage of relevant material, which shows evidence of independent thought that extends lecture materials. Well-organised and structured. 
 
 *Excellent*
 
-Consistently accurate coverage of relevant material, which shows a depth of independent thought that comprehensively extends lecture materials. Well organised and structured with a clear and efficient writing style.
+Consistently accurate coverage of relevant material, which shows a depth of independent thought that comprehensively extends lecture materials. Well-organised and structured with a clear and efficient writing style.
 
 ## Reflective writing ##
 
-In week 5, there will be no lecture. 
-Instead, you are required to write 500-750 words on on the extent extent to which the reproducibility crisis extends beyond psychology and human neuroscience.
+In week 5, you are required to write 500-750 words on the extent to which the reproducibility crisis extends beyond psychology and human neuroscience.
 **This written reflection is NOT MARKED.**
 For more details, see [here](../lectures/05_reflection.html).
 

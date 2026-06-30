@@ -1,0 +1,30 @@
+---
+title: "Loneliness"
+---
+
+## Objectives
+
+This week, I will review evidence on the social, cognitive and brain systems that underpin loneliness.
+
+::: {.callout-note icon="false"}
+## Key concepts
+loneliness vs isolation, reaffiliation model, health and wellbeing
+
+:::
+
+## Lecture slides
+
+- [View Slides](slides/week10/10_loneliness_slides.html){target="_blank"} (opens in new tab)
+- [Download Slides PDF](slides/week10/10_loneliness_slides.pdf){download="11_loneliness_slides.pdf"}
+
+## Discussion articles
+
+Is loneliness worse than smoking 15 cigarettes a day?: 
+
+[BBC's 'More or less' radio programme](https://www.bbc.com/audio/play/p0hncdtk){target='_blank'}
+
+There is **NOT** an epidemic of loneliness:
+
+[Psychology Today](https://www.psychologytoday.com/us/blog/202504/loneliness-is-not-an-epidemic){target='_blank'}
+
+[The Conversation](https://theconversation.com/there-is-no-loneliness-epidemic-so-why-do-we-keep-talking-as-if-there-is-259072){target='_blank'}

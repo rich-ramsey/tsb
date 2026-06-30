@@ -1,6 +1,6 @@
 project:
   type: website
-  output-dir: docs
+  output-dir: _docs
   render:
     - "*.qmd"
     - "!*.Rmd"                  # Exclude .Rmd files, but try to avoid them for consistency
@@ -26,7 +26,6 @@ website:
     left:
       - syllabus/index.qmd
       - lectures/index.qmd
-      - resources.qmd
     tools:
       - icon: github
         menu:
@@ -62,9 +61,8 @@ website:
             -  lectures/08_neuro_3.qmd
             - text: "<mark>Neurodiversity</mark>"
             -  lectures/09_neurodiversity.qmd
-            -  lectures/10_clinic.qmd
-            -  lectures/11_loneliness.qmd
-            -  lectures/12_autism.qmd
+            -  lectures/10_loneliness.qmd
+            -  lectures/11_autism.qmd
             -  lectures/13_attention.qmd
             - text: "<mark>Essay writing</mark>"
             -  lectures/14_essay.qmd

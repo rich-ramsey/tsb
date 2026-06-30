@@ -15,3 +15,4 @@
 **/scrap/
 **/assignments/
 /grades/
+**/*.quarto_ipynb

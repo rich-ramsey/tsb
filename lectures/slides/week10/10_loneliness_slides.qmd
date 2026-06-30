@@ -1,0 +1,366 @@
+---
+title: "Lecture 10 - Loneliness"
+subtitle: "The Social Brain: Critical Perspectives on Science, Society and Neurodiversity" 
+author: "Richard Ramsey"
+bibliography: references.bib
+csl: ../../../apa.csl
+format:
+  revealjs:
+    slide-number: true
+    embed-resources: true
+    transition: none
+    transition-speed: fast
+    logo: ../../../img/tsb_hex.png
+    css: ../../../styles.css
+    footer: "ETH Zürich | 376-1309-00 | The Social Brain"
+    preview-links: auto
+    revealjs-plugins:
+      - pointer
+    pointer:
+      color: "#32cd32"
+      pointerSize: 18
+editor: source
+editor_options: 
+  chunk_output_type: console
+---
+
+```{r}
+#| label: setup
+#| include: false
+
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Today ##
+
+<br>
+
+:::: {.columns}
+::: {.column width="50%"}
+[Part 1]{.green-text}
+
+- Loneliness
+
+<br>
+
+[Part 2]{.green-text}
+
+- Read articles and discuss
+:::
+::: {.column width="50%"}
+![](../icons/lecture.png){width=150px}\
+<br>
+![](../icons/reading.png){width=150px} ![](../icons/discussion.png){width=150px}
+:::
+::::
+
+## Overview
+
+- Background
+- The reaffiliation model
+- Neuroscience
+- Brain injury
+- Lifespan
+- Interventions
+
+# Background #
+
+## What is loneliness? ## 
+
+::: {.text-smaller}
+
+<br>
+Loneliness and social isolation are often used interchangeably, which is confusing.
+
+<br>
+
+**Social isolation is objectively quantifiable**: the quantity and frequency of social contact, plus proximity to others. 
+
+<br>
+
+**Loneliness is a subjective interpretation**: an evaluation that social needs are not being met satisfactorily.
+  
+:::
+
+::: {.citation-footer}
+[@cacioppo2008; @valtortaLonelinessSocialIsolation2016; @perissinotto2014]
+:::
+
+## Isolation versus loneliness ##
+
+::: {.layout-50-50}
+
+::: {.img-center-v .img-medium}
+![](images/alone.png)
+:::
+
+::: {.img-center-v .img-large .fragment}
+![](images/lonely.png)
+:::
+
+:::
+
+## Types of loneliness ##
+
+<br>
+
+**Social loneliness**: the absence of a desired social network (family, friends and acquaintances).
+
+<br>
+
+**Emotional loneliness**: the lack of attachment figure/s that one could form an intimate connection with.
+
+::: {.citation-footer}
+[@weissLonelinessExperienceEmotional1973; @dahlberg2014]
+:::
+
+## Physical versus social pain ##
+
+:::: {.columns}
+::: {.column width="33.3%" .text-smaller}
+
+- Physical pain is an aversive signal that evolved to minimise damage to one's body.
+- Loneliness is a social pain that may serve a similar function.
+:::
+
+::: {.column width="33.3%"}
+![](images/burn.png)
+
+:::
+
+::: {.column width="33.3%"}
+![](images/lonely.png)
+:::
+
+::::
+
+::: {.citation-footer}
+[@cacioppoPerceivedSocialIsolation2009]
+:::
+
+## Health imapct ##
+
+:::: {.columns}
+::: {.column width="50%" .text-smaller}
+
+<br>
+
+- Loneliness is associated with increased morbidity and mortality.
+
+- It is clearly bad for your health and well-being.
+
+- But is loneliness worse than smoking 15 cigarettes a day? 
+  
+:::
+
+::: {.column width="50%"}
+![](images/smoking.png)
+:::
+
+::::
+
+::: {.citation-footer}
+[@cacioppo2008; @holt-lunstadLonelinessSocialIsolation2015]
+:::
+
+## Physiological impact ##
+
+:::: {.columns}
+::: {.column width="40%" .text-smaller}
+<br>
+
+Loneliness predicts physiological responses associated with stress (e.g., elevated blood pressure,
+rise in cortisol), *above and beyond objective measures of social isolation*.
+:::
+
+::: {.column width="60%" .img-v-large}
+![](images/lonely_phys.png)
+:::
+::::
+
+::: {.citation-footer}
+[@cacioppoNeuroendocrinologySocialIsolation2015; @bruinedebruinAgeDifferencesReported2020]
+:::
+
+## Psychological impact ##
+
+<br>
+
+:::: {.columns}
+::: {.column width="45%" .text-smaller}
+Loneliness predicts maladaptive cognition and behavior (e.g., perception of social interactions as unpleasant, reduced physical activity, and lifetime satisfaction), *above and beyond objective measures of social isolation*.
+:::
+
+::: {.column width="55%" .img-v-large}
+![](images/lonely_cognition.png)
+:::
+::::
+
+::: {.citation-footer}
+[@cacioppoPerceivedSocialIsolation2009]
+:::
+
+## Basic research impact ##
+
+:::: {.columns}
+::: {.column width="45%" .text-smaller}
+- Loneliness offers a way to study individual differences in social neuroscience.
+
+- Somewhat surprisingly, social neuroscience rarely studies variation in "socialness" across individuals.
+
+- But things are changing...
+:::
+
+::: {.column width="55%" .img-v-large}
+![](images/kanai.png)
+:::
+::::
+
+::: {.citation-footer}
+[@kanaiBrainStructureLinks2012]
+:::
+
+# The reaffiliation model (RAM) #
+
+## RAM ##
+
+::: {.figure-container}
+![](images/ram.png)
+:::
+
+::: {.citation-footer}
+[@qualter2015]
+:::
+
+# Neuroscience #
+
+## Structural changes ##
+
+::: {.figure-container}
+![](images/spreng_volume.png)
+:::
+
+::: {.citation-footer}
+[@spreng2020]
+:::
+
+## Functional changes ##
+
+::: {.figure-container}
+![](images/spreng_connectivity.png){width="600px"}
+:::
+
+::: {.citation-footer}
+[@spreng2020]
+:::
+
+# Brain injury #
+
+## Clinical observation ##
+
+<br>
+
+- Following a brain injury, such as a stroke, cognitive and social functions are impacted.
+
+- Brain injury assessments routinely include an assessment of cognitive function.
+
+- But what about social function and loneliness?
+
+## Assessing loneliness following stroke ##
+
+<br>
+
+- The national survey for Wales dataset
+- Two cohorts (2016/17 and 2017/18)
+- De Jong Gierveld Loneliness Scale [@gierveld6ItemScaleOverall2006]
+- N~8000 per cohort.
+
+::: {.citation-footer}
+[@byrne2021]
+:::
+
+## Loneliness ratings and stroke ##
+
+::: {.figure-container}
+![](images/byrne_ratings.png)
+:::
+
+::: {.citation-footer}
+[@byrne2021]
+:::
+
+## What about other illnesses? ##
+
+::: {.layout-50-50}
+
+::: {.img-top-v .img-medium}
+![](images/byrne_illnesses_1.png)
+:::
+
+::: {.img-top-v .img-medium .fragment}
+![](images/byrne_illnesses_2.png)
+:::
+
+:::
+
+::: {.citation-footer}
+[@byrne2021]
+:::
+
+# Lifespan #
+
+## social vs emotional ##
+
+::: {.figure-container}
+![](images/manoli_loneliness.png)
+:::
+
+::: {.citation-footer}
+[@manoli2022]
+:::
+
+# Interventions #
+
+## Are interventions effective? ##
+
+<br>
+
+- Sometimes, but not always.
+- Effect sizes are modest.
+- Not a one-size-fits-all solution.
+- We lack a clear mechanistic understanding to guide interventions.
+
+::: {.citation-footer}
+[@lasgaard2025; @masiMetaAnalysisInterventionsReduce2011; @morrish2023]
+:::
+
+# Take a break #
+
+# Part 2 - Read and discuss #
+
+## Discussion material ##
+
+- break into small groups (~ 5 per group)
+- discuss aspects of the lecture 
+- discuss aspects of these articles:
+
+Is loneliness worse than smoking 15 cigarettes a day?: 
+
+[BBC's 'More or less' radio programme](https://www.bbc.com/audio/play/p0hncdtk){target='_blank'}
+
+There is **NOT** an epidemic of loneliness:
+
+[Psychology Today](https://www.psychologytoday.com/us/blog/202504/loneliness-is-not-an-epidemic){target='_blank'}
+
+[The Conversation](https://theconversation.com/there-is-no-loneliness-epidemic-so-why-do-we-keep-talking-as-if-there-is-259072){target='_blank'}
+
+## References
+
+::: {#refs .text-smaller}
+:::
+
+## Acknowledgements 
+
+- Unless otherwise specified, icons and images were used under license from [The Noun Project](https://thenounproject.com/)
+
+- Slides were created with [Quarto](https://quarto.org/) and [RevealJS](https://revealjs.com/)

@@ -1,6 +1,0 @@
----
-title: "Resources"
-sidebar: main-sidebar
----
-
-A bunch of supporting material can be found on this page.
