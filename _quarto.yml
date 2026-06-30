@@ -4,7 +4,8 @@ project:
   render:
     - "*.qmd"
     - "!*.Rmd"                  # Exclude .Rmd files, but try to avoid them for consistency
-    - "!**/_*/*.qmd"            # Exclude any folder starting with underscore
+    - "!**/_extensions/*.qmd"   # Exclude extesnsions folder 
+    - "!**/_freeze/*.qmd"       # Exclude freeze folder 
     - "!**/admin/**/*.qmd"      # Exclude admin content
     - "!**sandpit/**/*.qmd"     # Exclude sandpit content
     - "!**notes/**/*.qmd"       # Exclude notes content
