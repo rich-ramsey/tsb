@@ -1,6 +1,6 @@
 project:
   type: website
-  output-dir: _docs
+  output-dir: docs
   render:
     - "*.qmd"
     - "!*.Rmd"                  # Exclude .Rmd files, but try to avoid them for consistency
