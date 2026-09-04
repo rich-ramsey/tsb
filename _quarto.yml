@@ -54,8 +54,8 @@ website:
             - text: "<mark>Crisis and reform</mark>"
             -  lectures/02_crisis.qmd
             -  lectures/03_reform.qmd
-            -  lectures/04_theory.qmd
-            -  lectures/05_reflection.qmd
+            -  lectures/04_reflection.qmd
+            -  lectures/05_theory.qmd
             - text: "<mark>Social neuroscience</mark>"
             -  lectures/06_neuro_1.qmd
             -  lectures/07_neuro_2.qmd

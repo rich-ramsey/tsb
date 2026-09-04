@@ -237,20 +237,20 @@ library(dplyr)
 # Create the basic data - simplified version with fewer columns
 schedule <- tribble(
   ~Week, ~Date, ~Title, ~Description,
-  1, "Sep 16", "Intro", "Introduction to the course",
-  2, "Sep 23", "Crisis Part 1", "Is psychological science in a crisis?",
-  3, "Sep 30", "Crisis Part 2", "The reform movement in psychological science",
-  4, "Oct 7", "Crisis Part 3 (Recorded lecture)", "A problem in theory?",
-  5, "Oct 14", "Crisis Part 4 (No lecture - reflective writing)", "Does the crisis extend beyond psychology?",
-  6, "Oct 21", "Social Neuroscience 1", "An introduction to social neuroscience",
-  7, "Oct 28", "Social Neuroscience 2", "Reading faces and bodies",
-  8, "Nov 4", "Social Neuroscience 3", "Understanding others",
-  9, "Nov 11", "Neurodiversity 1", "Re-thinking neurodiversity",
-  10, "Nov 18", "Neurodiversity 2", "Guest lecture: A view from the clinic",
-  11, "Nov 25", "Neurodiversity 3", "Loneliness",
-  12, "Dec 2", "Neurodiversity 4", "Autism",
-  13, "Dec 9", "Neurodiversity 5", "Attention and impulsivity",
-  14, "Dec 16", "Essay Writing", "Guidelines and best practices"
+  1, "Sep 15", "Intro", "Introduction to the course",
+  2, "Sep 22", "Crisis Part 1", "Is psychological science in a crisis?",
+  3, "Sep 29", "Crisis Part 2", "The reform movement in psychological science",
+  4, "Oct 6", "Crisis Part 3 (reflective writing)", "Does the crisis extend beyond psychology?",
+  5, "Oct 13", "Crisis Part 4 (recorded lecture)", "A problem in theory?",
+  6, "Oct 20", "Social Neuroscience 1", "An introduction to social neuroscience",
+  7, "Oct 27", "Social Neuroscience 2", "Reading faces and bodies",
+  8, "Nov 3", "Social Neuroscience 3", "Understanding others",
+  9, "Nov 10", "Neurodiversity 1", "Re-thinking neurodiversity",
+  10, "Nov 17", "Neurodiversity 2", "Loneliness",
+  11, "Nov 24", "Neurodiversity 3", "Autism",
+  12, "Dec 1", "No Lecture", "Spend this time developing your essay question",
+  13, "Dec 8", "Neurodiversity 4", "Attention and impulsivity",
+  14, "Dec 15", "Essay Writing", "Guidelines and best practices"
 )
 
 # schedule %>%
@@ -284,7 +284,7 @@ schedule  |>
 
 - 2000 words maximum.
 
-- Submission date: Monday January 6th, 2026.
+- Submission date: Monday December 21st, 2026.
 
 - **There is NO exam**
 
@@ -361,11 +361,10 @@ Things to cover:
 
 # Part 1 - Reflective writing #
 
-## Week 5 ##
+## Week 4 ##
 
-- In week 5, there is no lecture.
-- Instead, there is an assignment, which is **NOT** marked.
-- I repeat, it is **not marked**, but it is compulsory to hand it in via email by ***Monday October 20th at 9am***.
+- In week 4, there is an assignment, which is **NOT** marked.
+- I repeat, it is **not marked**, but it is compulsory to hand it in via email by ***Monday October 5th at 9am***.
 - Please write between 500 and 750 words on the extent to which the reproducibility crisis extends beyond psychology and human neuroscience.
 
 ## Reflective writing objectives ## {.smaller}
@@ -376,7 +375,7 @@ Things to cover:
 
 - Most of you have varied backgrounds, which span computer science, physics, chemistry, biology, maths etc.
 
-- Therefore, I would like you to situate what you have learnt in the last 4 weeks within a broader context of scientific research more generally. 
+- Therefore, I would like you to situate what you have learnt in the last 3 weeks within a broader context of scientific research more generally. 
 
 # Part 1 - Summary #
 
